@@ -1,0 +1,1418 @@
+,propertyName,room,costRange
+0,Jackson Apartments,Studio ,1790
+1,Jackson Apartments,1 Bedroom ,2060
+2,Jackson Apartments,2 Bedrooms ,3185
+3,Jackson Apartments,3 Bedrooms ,3375
+4,Elan 41,1 Bedroom ,1829
+5,Elan 41,2 Bedrooms ,1899
+6,Circa Green Lake Apartments,Studio ,1577
+7,Circa Green Lake Apartments,1 Bedroom ,1865
+8,Circa Green Lake Apartments,2 Bedrooms ,3048
+9,LUNA,1 Bedroom ,1600
+10,Tower 12,Studio ,2513
+11,Tower 12,1 Bedroom ,2647
+12,Tower 12,2 Bedrooms ,4089
+13,Common Summit,Studio ,1050
+14,Harbor Steps,Studio ,1593
+15,Harbor Steps,1 Bedroom ,1959
+16,Harbor Steps,2 Bedrooms ,2964
+17,Ballard 57 Apartments,Studio ,1340
+18,Ballard 57 Apartments,1 Bedroom ,1750
+19,Fox & Finch Apartments,1 Bedroom ,2000
+20,Tellus on Dexter Apartments,1 Bedroom ,2700
+21,Tellus on Dexter Apartments,2 Bedrooms ,3750
+22,Lane,Studio ,1525
+23,Lane,1 Bedroom ,1740
+24,Lane,2 Bedrooms ,2700
+25,Overlook at Magnolia,1 Bedroom ,1575
+26,Overlook at Magnolia,2 Bedrooms ,2345
+27,Overlook at Magnolia,3 Bedrooms,0
+28,Overlook at Magnolia,4 Bedrooms,0
+29,Met Tower,Studio ,1995
+30,Met Tower,1 Bedroom ,2995
+31,Met Tower,2 Bedrooms ,3545
+32,Met Tower,3 Bedrooms,0
+33,Olympus,Studio ,1568
+34,Olympus,1 Bedroom ,2026
+35,Olympus,2 Bedrooms ,2827
+36,Olympus,3 Bedrooms,0
+37,The Olivian,1 Bedroom ,3435
+38,The Olivian,2 Bedrooms ,3945
+39,Leilani Apartment Homes,Studio ,1350
+40,Leilani Apartment Homes,1 Bedroom ,1460
+41,Leilani Apartment Homes,2 Bedrooms ,2110
+42,Airmark Apartments,Studio ,1313
+43,Airmark Apartments,1 Bedroom ,1775
+44,Airmark Apartments,2 Bedrooms ,2510
+45,Airmark Apartments,3 Bedrooms ,6615
+46,Assembly118,Studio,0
+47,Assembly118,1 Bedroom ,1563
+48,Assembly118,2 Bedrooms ,2951
+49,Helm,1 Bedroom ,2650
+50,Helm,2 Bedrooms ,4450
+51,Helm,3 Bedrooms ,12500
+52,Mera,1 Bedroom ,2450
+53,Mera,2 Bedrooms ,3600
+54,Mera,3 Bedrooms ,8450
+55,Origin Apartments,Studio ,1480
+56,Origin Apartments,1 Bedroom ,1581
+57,Origin Apartments,2 Bedrooms ,2195
+58,Chloe on Union,Studio ,1855
+59,Chloe on Union,1 Bedroom,0
+60,Chloe on Union,2 Bedrooms ,2973
+61,Griffis Belltown,Studio ,2087
+62,Griffis Belltown,1 Bedroom ,2042
+63,Griffis Belltown,2 Bedrooms ,2383
+64,Charbern Apartments,Studio ,1504
+65,Charbern Apartments,1 Bedroom,0
+66,Charbern Apartments,2 Bedrooms,0
+67,AMLI South Lake Union,Studio ,1859
+68,AMLI South Lake Union,1 Bedroom ,2054
+69,AMLI South Lake Union,2 Bedrooms ,2946
+70,ArtHouse,Studio ,1636
+71,ArtHouse,1 Bedroom ,1951
+72,ArtHouse,2 Bedrooms,0
+73,AMLI Mark24,Studio ,1841
+74,AMLI Mark24,1 Bedroom ,1892
+75,AMLI Mark24,2 Bedrooms ,2944
+76,The Station At Othello Park,Studio ,1361
+77,The Station At Othello Park,1 Bedroom ,1566
+78,The Station At Othello Park,2 Bedrooms,0
+79,Elara At The Market,Studio,0
+80,Elara At The Market,1 Bedroom ,1965
+81,Elara At The Market,2 Bedrooms,0
+82,Pike Motorworks,Studio ,1720
+83,Pike Motorworks,1 Bedroom ,2195
+84,Pike Motorworks,2 Bedrooms ,3702
+85,Via 6,Studio ,1913
+86,Via 6,1 Bedroom ,1822
+87,Via 6,2 Bedrooms ,2940
+88,Cascade,Studio ,1795
+89,Cascade,1 Bedroom ,2020
+90,Cascade,2 Bedrooms ,3575
+91,Park South,1 Bedroom ,1412
+92,Park South,2 Bedrooms ,1549
+93,Spruce,Studio ,1490
+94,Spruce,1 Bedroom ,1590
+95,Spruce,2 Bedrooms ,2295
+96,Mark on 8th,Studio ,1900
+97,Mark on 8th,1 Bedroom ,2160
+98,Mark on 8th,2 Bedrooms ,3060
+99,The Mill at First Hill,Studio ,1514
+100,The Mill at First Hill,1 Bedroom ,1689
+101,The Mill at First Hill,2 Bedrooms ,2170
+102,Lofts at the Junction,Studio ,1300
+103,Centennial Tower and Court,Studio ,1509
+104,Centennial Tower and Court,1 Bedroom ,1943
+105,Centennial Tower and Court,2 Bedrooms ,2755
+106,Centennial Tower and Court,3 Bedrooms,0
+107,Helios,Studio ,1940
+108,Helios,1 Bedroom ,2225
+109,Helios,2 Bedrooms ,3845
+110,Saxton,Studio,0
+111,Saxton,1 Bedroom ,1865
+112,Saxton,2 Bedrooms ,2545
+113,Odin,Studio,0
+114,Odin,1 Bedroom ,1708
+115,Odin,2 Bedrooms,0
+116,Vive,Studio ,1420
+117,Vive,1 Bedroom ,1810
+118,Bogtown Flats,1 Bedroom ,1600
+119,Bogtown Flats,2 Bedrooms ,2405
+120,Westlake Steps,1 Bedroom ,1720
+121,Westlake Steps,2 Bedrooms ,3160
+122,AMLI Arc,Studio ,2304
+123,AMLI Arc,1 Bedroom ,2580
+124,AMLI Arc,2 Bedrooms ,3700
+125,AMLI Arc,3 Bedrooms ,5698
+126,JUXT,Studio ,1890
+127,JUXT,1 Bedroom ,1885
+128,JUXT,2 Bedrooms ,3155
+129,JUXT,3 Bedrooms ,4060
+130,CityLine,Studio ,1872
+131,CityLine,1 Bedroom ,2128
+132,CityLine,2 Bedrooms ,2599
+133,Lightbox,Studio ,1447
+134,Lightbox,1 Bedroom ,1684
+135,Lightbox,2 Bedrooms ,2049
+136,One Lakefront,1 Bedroom ,1845
+137,One Lakefront,2 Bedrooms ,2985
+138,One Lakefront,3 Bedrooms,0
+139,Rivet Apartments,1 Bedroom ,1965
+140,Rivet Apartments,2 Bedrooms ,2998
+141,The Kennedy Building,Studio,0
+142,The Kennedy Building,1 Bedroom ,1692
+143,The Kennedy Building,2 Bedrooms ,2318
+144,Infinity Apartments,Studio ,1957
+145,Infinity Apartments,1 Bedroom ,2360
+146,Infinity Apartments,2 Bedrooms ,3530
+147,Bowman,Studio,0
+148,Bowman,1 Bedroom ,1761
+149,Bowman,2 Bedrooms ,3122
+150,Sitka,Studio ,1929
+151,Sitka,1 Bedroom ,2227
+152,Sitka,2 Bedrooms ,3399
+153,Ascent South Lake Union,1 Bedroom ,2400
+154,Ascent South Lake Union,2 Bedrooms ,3206
+155,Ascent South Lake Union,3 Bedrooms ,8490
+156,Marlowe,Studio ,2079
+157,Marlowe,1 Bedroom ,2348
+158,Marlowe,2 Bedrooms ,3587
+159,McKenzie,Studio ,2097
+160,McKenzie,1 Bedroom ,2622
+161,McKenzie,2 Bedrooms ,3604
+162,McKenzie,3 Bedrooms ,8336
+163,624 Yale,Studio ,1700
+164,624 Yale,1 Bedroom ,1950
+165,624 Yale,2 Bedrooms ,3150
+166,STAZIONE25,Studio ,1800
+167,STAZIONE25,1 Bedroom ,1628
+168,STAZIONE25,2 Bedrooms ,3000
+169,St. James Tower,Studio,0
+170,St. James Tower,1 Bedroom ,1795
+171,St. James Tower,2 Bedrooms ,2360
+172,Cadence,1 Bedroom ,1849
+173,Cadence,2 Bedrooms,0
+174,Alexan 100,Studio ,1790
+175,Alexan 100,1 Bedroom ,2287
+176,Alexan 100,2 Bedrooms ,3495
+177,Alexan 100,3 Bedrooms,0
+178,Vida Seattle,Studio ,1717
+179,Vida Seattle,1 Bedroom ,1940
+180,Vida Seattle,2 Bedrooms ,3102
+181,Sedona Apartments,Studio ,846
+182,Sedona Apartments,1 Bedroom ,2322
+183,Sedona Apartments,2 Bedrooms,0
+184,Kiara,Studio ,2260
+185,Kiara,1 Bedroom ,2250
+186,Kiara,2 Bedrooms ,3885
+187,Kiara,3 Bedrooms ,9765
+188,Broadstone Sky,1 Bedroom ,1660
+189,Broadstone Sky,2 Bedrooms ,2735
+190,Overlook at Westridge,Studio,0
+191,Overlook at Westridge,1 Bedroom ,1764
+192,Overlook at Westridge,2 Bedrooms ,1899
+193,Overlook at Westridge,3 Bedrooms ,2451
+194,Batik,Studio,0
+195,Batik,1 Bedroom ,2030
+196,Batik,2 Bedrooms ,2940
+197,Malloy,Studio ,1368
+198,Malloy,1 Bedroom ,1889
+199,Premiere on Pine,Studio ,1905
+200,Premiere on Pine,1 Bedroom ,2015
+201,Premiere on Pine,2 Bedrooms ,3200
+202,Premiere on Pine,3 Bedrooms ,6065
+203,Garden Pointe,1 Bedroom ,1525
+204,Garden Pointe,2 Bedrooms ,1695
+205,HANA Apartments,1 Bedroom ,1320
+206,HANA Apartments,2 Bedrooms ,1936
+207,Sorento Flats,Studio ,995
+208,Rise on 67th,Studio ,1045
+209,Derby South Lake Union,Studio ,1300
+210,Oakwood Residence Seattle South Lake Union,Studio ,1699
+211,Oakwood Residence Seattle South Lake Union,1 Bedroom ,2000
+212,Novo Seattle,Studio ,1050
+213,Maude Urban Living,Studio ,999
+214,Common Madison,Studio ,1000
+215,Chroma SLU,1 Bedroom ,1905
+216,Chroma SLU,2 Bedrooms ,2955
+217,Kinects Tower,Studio ,1755
+218,Kinects Tower,1 Bedroom ,2815
+219,Kinects Tower,2 Bedrooms ,4065
+220,Arrive,Studio ,2095
+221,Arrive,1 Bedroom ,2895
+222,Arrive,2 Bedrooms ,4120
+223,Verve Apartments,Studio ,1640
+224,Verve Apartments,1 Bedroom ,1985
+225,Verve Apartments,2 Bedrooms ,2561
+226,Thornton Place,Studio ,1940
+227,Thornton Place,1 Bedroom ,1612
+228,Thornton Place,2 Bedrooms ,2018
+229,Vertex Off Broadway,Studio ,1559
+230,Vertex Off Broadway,1 Bedroom ,2050
+231,Vertex Off Broadway,2 Bedrooms ,3185
+232,Excelsior,Studio ,1660
+233,Excelsior,1 Bedroom ,1840
+234,Excelsior,2 Bedrooms ,3105
+235,Excelsior,3 Bedrooms ,3950
+236,Leeward,Studio ,2105
+237,Leeward,1 Bedroom ,1730
+238,Leeward,2 Bedrooms ,3045
+239,The Shelby,Studio ,1515
+240,The Shelby,1 Bedroom ,2060
+241,The Shelby,2 Bedrooms ,2560
+242,Koi,Studio ,1617
+243,Koi,1 Bedroom ,2538
+244,Koi,2 Bedrooms ,2959
+245,Alto Apartments,1 Bedroom ,1399
+246,Alto Apartments,2 Bedrooms ,2624
+247,206 Bell,Studio ,1294
+248,206 Bell,1 Bedroom ,1504
+249,206 Bell,2 Bedrooms ,2658
+250,East Howe Steps,Studio ,1544
+251,East Howe Steps,1 Bedroom ,1705
+252,East Howe Steps,2 Bedrooms ,2787
+253,The Post,Studio ,1513
+254,The Post,1 Bedroom ,1743
+255,The Post,2 Bedrooms ,3155
+256,The Wilcox,Studio ,1562
+257,The Wilcox,1 Bedroom ,1680
+258,The Wilcox,2 Bedrooms ,2716
+259,The Wilcox,3 Bedrooms ,3070
+260,Aura West Seattle,Studio ,1460
+261,Aura West Seattle,1 Bedroom ,1715
+262,Aura West Seattle,2 Bedrooms ,1907
+263,Stack House,Studio ,1954
+264,Stack House,1 Bedroom ,2335
+265,Stack House,2 Bedrooms ,3461
+266,Stack House,3 Bedrooms ,4259
+267,Ballard on the Park,Studio ,1610
+268,Ballard on the Park,1 Bedroom ,2018
+269,Ballard on the Park,2 Bedrooms ,2822
+270,Summit At Madison Park,Studio ,1597
+271,Summit At Madison Park,1 Bedroom ,1850
+272,Summit At Madison Park,2 Bedrooms ,2510
+273,Summit At Madison Park,3 Bedrooms ,3440
+274,Element 42,Studio ,1409
+275,Element 42,1 Bedroom ,1385
+276,The Loop,Studio ,1500
+277,The Loop,1 Bedroom ,1925
+278,3030 Lake City,Studio ,1299
+279,3030 Lake City,1 Bedroom ,1499
+280,3030 Lake City,2 Bedrooms,0
+281,Westhaven Apartments,1 Bedroom ,1379
+282,Westhaven Apartments,2 Bedrooms ,1714
+283,Westhaven Apartments,3 Bedrooms,0
+284,Wilsonian,Studio ,1509
+285,Wilsonian,1 Bedroom ,1789
+286,The M,Studio ,1950
+287,The M,2 Beds ,1685
+288,The M,4 Beds ,1425
+289,Square One,Studio,0
+290,Square One,1 Bedroom,0
+291,Square One,2 Bedrooms ,2219
+292,Rollin Street,1 Bedroom ,2275
+293,Rollin Street,2 Bedrooms ,3995
+294,100 on 6th,Studio ,995
+295,100 on 6th,1 Bedroom ,1245
+296,Packard Building,Studio ,2101
+297,Packard Building,1 Bedroom,0
+298,Marq 211,Studio ,1544
+299,Marq 211,1 Bedroom ,1707
+300,Marq 211,2 Bedrooms ,2710
+301,The Redwood Apartments,Studio ,1050
+302,Vantage Park Apartments,1 Bedroom,0
+303,Vantage Park Apartments,2 Bedrooms ,2390
+304,Union Bay,Studio ,1610
+305,Union Bay,1 Bedroom ,1875
+306,Union Bay,2 Bedrooms ,2759
+307,2900 On First,Studio ,1780
+308,2900 On First,1 Bedroom ,1974
+309,2900 On First,2 Bedrooms ,2840
+310,Harrison Square,Studio ,1452
+311,Harrison Square,1 Bedroom ,1933
+312,Harrison Square,2 Bedrooms ,2886
+313,Lighthouse Apartments,1 Bedroom ,1645
+314,Lighthouse Apartments,2 Bedrooms ,1905
+315,Taylor 28,Studio ,1734
+316,Taylor 28,1 Bedroom ,2209
+317,Taylor 28,2 Bedrooms ,3141
+318,Metro on First,Studio ,1632
+319,Metro on First,1 Bedroom ,1877
+320,Metro on First,2 Bedrooms ,3763
+321,Aspira Apartments,Studio,0
+322,Aspira Apartments,1 Bedroom ,1938
+323,Aspira Apartments,2 Bedrooms ,3183
+324,LEVA On Market,Studio ,1708
+325,LEVA On Market,1 Bedroom ,1850
+326,LEVA On Market,2 Bedrooms ,2977
+327,Adell Apartments,1 Bedroom ,1583
+328,Augusta Apartments,1 Bedroom ,2095
+329,Augusta Apartments,2 Bedrooms ,2910
+330,Augusta Apartments,3 Bedrooms ,4225
+331,Cielo,Studio ,1560
+332,Cielo,1 Bedroom ,1645
+333,Cielo,2 Bedrooms ,2520
+334,Axle,1 Bedroom ,1678
+335,Axle,2 Bedrooms ,2715
+336,AMLI Wallingford,Studio ,2009
+337,AMLI Wallingford,1 Bedroom ,2010
+338,AMLI Wallingford,2 Bedrooms ,2929
+339,AMLI Wallingford,3 Bedrooms ,4820
+340,Seventh and James,Studio,0
+341,Seventh and James,1 Bedroom ,1777
+342,Seventh and James,2 Bedrooms ,2309
+343,John Winthrop Apartments,Studio ,1405
+344,John Winthrop Apartments,1 Bedroom,0
+345,2300 Elliott,Studio ,1771
+346,2300 Elliott,1 Bedroom ,1894
+347,2300 Elliott,2 Bedrooms ,2343
+348,Urbana,Studio ,1740
+349,Urbana,1 Bedroom ,1739
+350,Urbana,2 Bedrooms ,2651
+351,Youngstown Flats,Studio ,1470
+352,Youngstown Flats,1 Bedroom ,1395
+353,Youngstown Flats,2 Bedrooms ,2148
+354,Panorama Apartments,1 Bedroom ,2035
+355,Panorama Apartments,2 Bedrooms ,3310
+356,Panorama Apartments,3 Bedrooms ,4875
+357,Coppins Well,Studio ,1640
+358,Coppins Well,1 Bedroom ,2050
+359,Coppins Well,2 Bedrooms ,2980
+360,Washington Terrace Senior Affordable Apart...,1 Bedroom ,1309
+361,Washington Terrace Senior Affordable Apart...,2 Bedrooms ,1562
+362,Slate Apartments,Studio ,1468
+363,Slate Apartments,1 Bedroom ,1330
+364,Slate Apartments,2 Bedrooms ,1816
+365,The Enclave,Studio ,1295
+366,The Enclave,1 Bedroom ,1448
+367,The Enclave,2 Bedrooms,0
+368,The Eden Apartments,1 Bedroom,0
+369,The Eden Apartments,2 Bedrooms ,2600
+370,Haller Post,1 Bedroom ,1744
+371,Haller Post,2 Bedrooms ,2010
+372,Skye at Belltown,Studio ,1381
+373,Skye at Belltown,1 Bedroom ,2163
+374,Skye at Belltown,2 Bedrooms ,2549
+375,Springline,Studio,0
+376,Springline,1 Bedroom ,1513
+377,Springline,2 Bedrooms ,1970
+378,The Heights on Capitol Hill,Studio ,1652
+379,The Heights on Capitol Hill,1 Bedroom,0
+380,The Heights on Capitol Hill,2 Bedrooms ,2775
+381,Rianna,Studio ,1385
+382,Rianna,1 Bedroom ,1785
+383,Rianna,2 Bedrooms ,2577
+384,Rianna,3 Bedrooms,0
+385,Uwajimaya Village,Studio,0
+386,Uwajimaya Village,1 Bedroom ,1985
+387,Uwajimaya Village,2 Bedrooms,0
+388,The Pearl,Studio,0
+389,The Pearl,1 Bedroom ,1980
+390,Anthem on 12th,Studio ,1557
+391,Anthem on 12th,1 Bedroom ,1772
+392,Anthem on 12th,2 Bedrooms ,2615
+393,Marq West Seattle,Studio ,1513
+394,Marq West Seattle,1 Bedroom ,1602
+395,Marq West Seattle,2 Bedrooms ,2195
+396,Alcyone,Studio,0
+397,Alcyone,1 Bedroom ,1957
+398,Alcyone,2 Bedrooms ,3462
+399,Moda,Studio ,1440
+400,Moda,1 Bedroom ,1668
+401,Moda,2 Bedrooms ,2498
+402,Chloe on Madison,Studio ,1845
+403,Chloe on Madison,1 Bedroom,0
+404,Chloe on Madison,2 Bedrooms,0
+405,Three20,Studio ,1763
+406,Three20,1 Bedroom ,2332
+407,Junction 47,Studio ,1427
+408,Junction 47,1 Bedroom ,1513
+409,Junction 47,2 Bedrooms ,3033
+410,The Blake Apartments,Studio ,1225
+411,The Blake Apartments,1 Bedroom ,1495
+412,The Blake Apartments,2 Bedrooms ,2067
+413,TraVigne on 11th,1 Bedroom ,1646
+414,TraVigne on 11th,2 Bedrooms ,2303
+415,The Whittaker,Studio ,1420
+416,The Whittaker,1 Bedroom ,1455
+417,The Whittaker,2 Bedrooms ,2950
+418,The Summit at Lake Union,Studio ,1501
+419,The Summit at Lake Union,1 Bedroom ,1742
+420,The Summit at Lake Union,2 Bedrooms ,2724
+421,Vox,Studio,0
+422,Vox,1 Bedroom ,2323
+423,Vox,2 Bedrooms ,2916
+424,4730 California,Studio ,1746
+425,4730 California,1 Bedroom ,1692
+426,4730 California,2 Bedrooms ,2712
+427,Astro Apartments,Studio ,1615
+428,Astro Apartments,1 Bedroom ,1975
+429,Astro Apartments,2 Bedrooms,0
+430,Union SLU,Studio ,1829
+431,Union SLU,1 Bedroom ,2145
+432,Union SLU,2 Bedrooms ,2562
+433,Angeline Apartments,Studio ,1795
+434,Angeline Apartments,1 Bedroom ,1628
+435,Muse,Studio ,1505
+436,Greenhouse Apartments,1 Bedroom ,1880
+437,Greenhouse Apartments,2 Bedrooms,0
+438,Prism,Studio ,1235
+439,Prism,1 Bedroom ,1950
+440,Prism,2 Bedrooms,0
+441,Cedar Park Senior Affordable Apartments,Studio,0
+442,Cedar Park Senior Affordable Apartments,1 Bedroom ,1309
+443,Cedar Park Senior Affordable Apartments,2 Bedrooms ,1562
+444,The Danforth,Studio ,2019
+445,The Danforth,1 Bedroom ,2297
+446,The Danforth,2 Bedrooms ,3195
+447,The Danforth,3 Bedrooms ,5461
+448,The LeeAnn,Studio ,2025
+449,The LeeAnn,1 Bedroom ,2200
+450,The LeeAnn,2 Bedrooms ,3725
+451,Orion,Studio ,1118
+452,Orion,1 Bedroom ,2307
+453,Orion,2 Bedrooms ,1895
+454,Cosmopolitan,Studio,0
+455,Cosmopolitan,1 Bedroom ,1675
+456,Cosmopolitan,2 Bedrooms,0
+457,Epicenter,Studio ,1786
+458,Epicenter,1 Bedroom ,2225
+459,Epicenter,2 Bedrooms ,2828
+460,Metroline Flats,Studio,0
+461,Metroline Flats,1 Bedroom ,1735
+462,Metroline Flats,2 Bedrooms ,2845
+463,Cypress,Studio ,1950
+464,Cypress,1 Bedroom ,2040
+465,Cypress,2 Bedrooms ,3525
+466,The Perry,Studio,0
+467,The Perry,1 Bedroom ,2010
+468,The Perry,2 Bedrooms ,3275
+469,Union Park,Studio ,1450
+470,Union Park,1 Bedroom ,1746
+471,Union Park,2 Bedrooms ,2570
+472,The Martin,Studio ,2230
+473,The Martin,1 Bedroom ,2840
+474,The Martin,2 Bedrooms ,3500
+475,Upton Flats,1 Bedroom ,1580
+476,Upton Flats,2 Bedrooms ,2495
+477,East Union,Studio ,2036
+478,East Union,1 Bedroom ,1938
+479,East Union,2 Bedrooms,0
+480,Keelson Ballard,1 Bedroom ,1775
+481,Keelson Ballard,2 Bedrooms ,2840
+482,Helix Ellipse,Studio ,1423
+483,Helix Ellipse,1 Bedroom ,1605
+484,Helix Ellipse,2 Bedrooms,0
+485,Dimension,Studio ,1770
+486,Dimension,1 Bedroom ,1775
+487,Dimension,2 Bedrooms ,3515
+488,Guinevere,Studio ,1542
+489,Guinevere,1 Bedroom ,1835
+490,Guinevere,2 Bedrooms ,2468
+491,Promenade at the Park,Studio ,1327
+492,Promenade at the Park,1 Bedroom ,1366
+493,Promenade at the Park,2 Bedrooms ,1987
+494,Willows Court,1 Bedroom ,1510
+495,Willows Court,2 Bedrooms,0
+496,King Arthurs Court,1 Bedroom ,1424
+497,King Arthurs Court,2 Bedrooms ,2018
+498,King Arthurs Court,3 Bedrooms,0
+499,Brookstone Apartments,1 Bedroom ,1399
+500,Brookstone Apartments,2 Bedrooms ,1610
+501,Brookstone Apartments,3 Bedrooms ,2035
+502,Verse Seattle,Studio ,1750
+503,Verse Seattle,1 Bedroom ,2052
+504,Verse Seattle,2 Bedrooms ,2500
+505,True North,1 Bedroom ,1795
+506,True North,2 Bedrooms ,3090
+507,Neptune,Studio ,1722
+508,Neptune,1 Bedroom ,1905
+509,Neptune,2 Bedrooms ,3260
+510,Pratt Park Apartments,Studio ,1403
+511,Pratt Park Apartments,1 Bedroom ,1990
+512,Pratt Park Apartments,2 Bedrooms ,2016
+513,SONATA At Columbia Station,Studio ,1449
+514,SONATA At Columbia Station,1 Bedroom ,1760
+515,Ivy Ridge,Studio ,1025
+516,Ivy Ridge,1 Bedroom ,1895
+517,Ivy Ridge,2 Bedrooms ,2028
+518,Iron Flats,1 Bedroom ,1499
+519,Iron Flats,2 Bedrooms ,2027
+520,MOD Apartments,Studio ,1531
+521,MOD Apartments,1 Bedroom ,1702
+522,Medora,1 Bedroom ,1800
+523,Hillview,1 Bedroom ,1300
+524,Hillview,2 Bedrooms ,1525
+525,Willow Court Apartments,1 Bedroom ,1375
+526,Willow Court Apartments,2 Bedrooms ,1600
+527,Andante Seattle,Studio ,1380
+528,Andante Seattle,1 Bedroom ,1435
+529,Andante Seattle,2 Bedrooms ,1890
+530,Avanti,Studio ,1543
+531,Cyrene,1 Bedroom ,1985
+532,Cyrene,2 Bedrooms ,2910
+533,Gilbert Apartments,Studio ,1975
+534,Gilbert Apartments,1 Bedroom ,2050
+535,Gilbert Apartments,2 Bedrooms ,2850
+536,Lucille on Roosevelt,Studio ,1945
+537,Lucille on Roosevelt,1 Bedroom ,1849
+538,Holgate 12 Apartments,2 Bedrooms ,2600
+539,Executive Estates,Studio ,1195
+540,Executive Estates,1 Bedroom ,1255
+541,Executive Estates,2 Bedrooms ,1555
+542,Nine & Pine,1 Bedroom ,2025
+543,Nine & Pine,2 Bedrooms ,3385
+544,M Street,Studio ,1560
+545,M Street,1 Bedroom ,1860
+546,M Street,2 Bedrooms ,2680
+547,Maple Leaf Plaza,1 Bedroom ,1395
+548,Avalon Micro Studios,Studio ,895
+549,Quintessa Apartments,Studio,0
+550,Quintessa Apartments,1 Bedroom ,1309
+551,Junction 160,1 Bedroom ,1395
+552,Junction 160,2 Bedrooms ,1835
+553,Sheridan Beach Terrace,1 Bedroom ,1350
+554,Sheridan Beach Terrace,2 Bedrooms ,1699
+555,Sheridan Beach Terrace,3 Bedrooms ,2400
+556,REO Flats,Studio ,970
+557,REO Flats,1 Bedroom ,1790
+558,REO Flats,2 Bedrooms ,2825
+559,Sunset Electric,Studio ,1715
+560,Sunset Electric,1 Bedroom ,1920
+561,Cambridge Park Villa,1 Bedroom ,1250
+562,Cambridge Park Villa,2 Bedrooms ,1500
+563,Cambridge Park Villa,3 Bedrooms ,1900
+564,Hayes On Stone Way,Studio ,1780
+565,Hayes On Stone Way,1 Bedroom ,2250
+566,Hayes On Stone Way,2 Bedrooms ,3400
+567,Viktoria,Studio ,1765
+568,Viktoria,1 Bedroom ,2125
+569,Viktoria,2 Bedrooms ,3415
+570,Ballard Lofts,Studio ,1999
+571,Ballard Lofts,1 Bedroom ,2308
+572,Ballard Lofts,2 Bedrooms ,3169
+573,Green Lake Village,Studio ,1825
+574,Green Lake Village,1 Bedroom ,1628
+575,Green Lake Village,2 Bedrooms ,2725
+576,Campus View,1 Bedroom ,1535
+577,Campus View,3 Bedrooms ,2697
+578,Dexter,2 Bedrooms ,3795
+579,Oxford Apartments,Studio ,1750
+580,Oxford Apartments,1 Bedroom ,2250
+581,Zella,1 Bedroom ,1303
+582,Zella,2 Bedrooms ,3283
+583,Alloy,Studio ,1320
+584,Linden Square,1 Bedroom ,1308
+585,Linden Square,2 Bedrooms ,1832
+586,Linden Square,3 Bedrooms ,2206
+587,Soren Apartments,1 Bedroom ,2010
+588,Soren Apartments,2 Bedrooms ,2810
+589,Charlesgate,Studio ,1195
+590,City Views,1 Bedroom ,1395
+591,Parla,Studio,0
+592,Parla,1 Bedroom ,1605
+593,Parla,2 Bedrooms ,2560
+594,Avant Apartments,Studio ,1341
+595,Avant Apartments,1 Bedroom ,1655
+596,Zindorf,Studio ,949
+597,Zindorf,1 Bedroom,0
+598,Modera South Lake Union,Studio ,1774
+599,Modera South Lake Union,1 Bedroom ,1802
+600,Modera South Lake Union,2 Bedrooms ,3144
+601,Modera South Lake Union,3 Bedrooms ,4267
+602,Beacon View,Studio,0
+603,Beacon View,1 Bedroom ,1508
+604,Beacon View,2 Bedrooms,0
+605,700 Broadway Apartments,Studio – 2 Bedrooms,0
+606,The Audrey at Belltown,Studio ,1827
+607,The Audrey at Belltown,1 Bedroom ,1899
+608,The Audrey at Belltown,2 Bedrooms ,2878
+609,Metropolitan Park,Studio ,1535
+610,Metropolitan Park,1 Bedroom ,1675
+611,Metropolitan Park,2 Bedrooms ,2355
+612,The Galleria,Studio,0
+613,The Galleria,1 Bedroom ,1349
+614,The Galleria,2 Bedrooms ,1642
+615,The Galleria,3 Bedrooms,0
+616,Addison on Fourth,Studio – 1 Bed ,899
+617,Addison on Fourth,Studio – 1 Bed ,1099
+618,Northline Apartments,1 Bedroom ,1434
+619,Northline Apartments,2 Bedrooms ,1851
+620,Jack Apartments,Studio ,1207
+621,Jack Apartments,1 Bedroom ,1600
+622,Jack Apartments,2 Bedrooms ,2049
+623,Residences At 3295,1 Bedroom ,1448
+624,Residences At 3295,2 Bedrooms ,1950
+625,8th + Republican,Studio ,2024
+626,8th + Republican,1 Bedroom ,2099
+627,8th + Republican,2 Bedrooms ,3107
+628,Modera Jackson,1 Bedroom ,1940
+629,Modera Jackson,2 Bedrooms ,2690
+630,Carolina Court,1 Bedroom ,1648
+631,Northgate Apartments,Studio ,1069
+632,Northgate Apartments,1 Bedroom ,1179
+633,Northgate Apartments,2 Bedrooms,0
+634,AVA Queen Anne,Studio ,1900
+635,AVA Queen Anne,1 Bedroom ,2370
+636,AVA Queen Anne,2 Bedrooms ,3147
+637,Delridge Crossing,1 Bedroom ,1376
+638,Delridge Crossing,2 Bedrooms ,1939
+639,Alley24,Studio ,1959
+640,Alley24,1 Bedroom ,2304
+641,Alley24,2 Bedrooms ,3364
+642,Domaine,Studio,0
+643,Domaine,1 Bedroom ,1950
+644,Domaine,2 Bedrooms,0
+645,Belay Apartments,Studio ,1425
+646,Belay Apartments,1 Bedroom ,1395
+647,Belay Apartments,2 Bedrooms,0
+648,Noba Apartments,1 Bedroom ,1375
+649,Collage,Studio,0
+650,Collage,1 Bedroom ,1612
+651,Viva,Studio ,1700
+652,Viva,1 Bedroom ,1990
+653,Viva,2 Bedrooms,0
+654,Expo,Studio ,1663
+655,Expo,1 Bedroom ,1769
+656,Expo,2 Bedrooms ,2981
+657,The Bernard,Studio ,1892
+658,The Bernard,1 Bedroom ,1859
+659,Array,Studio ,1375
+660,Array,1 Bedroom ,1520
+661,Array,2 Bedrooms ,2225
+662,AVA Ballard,Studio ,1590
+663,AVA Ballard,1 Bedroom ,1937
+664,AVA Ballard,2 Bedrooms ,2844
+665,Canvas,1 Bedroom ,1499
+666,Canvas,2 Bedrooms ,2900
+667,Annaliese,1 Bedroom ,2099
+668,Wharfside Pointe,Studio,0
+669,Wharfside Pointe,1 Bedroom ,1698
+670,Wharfside Pointe,2 Bedrooms ,2251
+671,Wharfside Pointe,3 Bedrooms,0
+672,Velo and Ray,Studio,0
+673,Velo and Ray,1 Bedroom ,1889
+674,Velo and Ray,2 Bedrooms,0
+675,Collins on Pine,Studio,0
+676,Collins on Pine,1 Bedroom ,1797
+677,Collins on Pine,2 Bedrooms ,2982
+678,Fountain Court,Studio ,1669
+679,Fountain Court,1 Bedroom ,2059
+680,Fountain Court,2 Bedrooms ,3019
+681,Janus Apartments,Studio ,1501
+682,Rooster Apartments,Studio ,1931
+683,Rooster Apartments,1 Bedroom ,1753
+684,Rooster Apartments,2 Bedrooms ,3280
+685,Westside Flats,1 Bedroom ,1895
+686,Westside Flats,2 Bedrooms ,1950
+687,AVA Capitol Hill,Studio ,1850
+688,AVA Capitol Hill,1 Bedroom ,2317
+689,AVA Capitol Hill,2 Bedrooms ,4108
+690,Walton Lofts,Studio ,2237
+691,Walton Lofts,1 Bedroom ,1593
+692,Walton Lofts,2 Bedrooms ,3771
+693,Sunset Park,1 Bedroom,0
+694,Sunset Park,2 Bedrooms ,1601
+695,Greenlake Terrace Apartments,1 Bedroom,0
+696,Greenlake Terrace Apartments,2 Bedrooms ,1650
+697,Park 3025,1 Bedroom ,1680
+698,Park 3025,2 Bedrooms ,1790
+699,REV Fremont,Studio ,1495
+700,REV Fremont,1 Bedroom ,1875
+701,REV Fremont,2 Bedrooms,0
+702,Marketside Flats,1 Bedroom ,1590
+703,Marketside Flats,2 Bedrooms ,2890
+704,Cirrus,Studio ,2215
+705,Cirrus,1 Bedroom ,2370
+706,Cirrus,2 Bedrooms ,4035
+707,Cirrus,3 Bedrooms,0
+708,Axis,Studio ,1830
+709,Axis,1 Bedroom ,2350
+710,Axis,2 Bedrooms,0
+711,Axis,3 Bedrooms,0
+712,Beryl Apt Homes,Studio ,1536
+713,Beryl Apt Homes,1 Bedroom,0
+714,Beryl Apt Homes,2 Bedrooms ,2708
+715,Avalon Belltown Towers,Studio ,1945
+716,Avalon Belltown Towers,1 Bedroom ,2500
+717,Avalon Belltown Towers,2 Bedrooms ,3690
+718,Avalon Belltown Towers,3 Bedrooms ,8475
+719,AVA Belltown,Studio ,1800
+720,AVA Belltown,1 Bedroom,0
+721,AVA Belltown,2 Bedrooms,0
+722,Monticello,Studio,0
+723,Monticello,1 Bedroom ,1311
+724,Monticello,2 Bedrooms,0
+725,Monticello,3 Bedrooms,0
+726,Boxcar,Studio ,1657
+727,Boxcar,1 Bedroom ,1761
+728,The Park At Northgate,2 Bedrooms ,1819
+729,Citizen,Studio ,1508
+730,Citizen,1 Bedroom ,1715
+731,Luxe at Meridian,Studio ,1331
+732,Luxe at Meridian,1 Bedroom ,1461
+733,Luxe at Meridian,2 Bedrooms ,2145
+734,Joseph Arnold Lofts,Studio ,1130
+735,Joseph Arnold Lofts,1 Bedroom ,1513
+736,Joseph Arnold Lofts,2 Bedrooms ,1907
+737,The Flats at Interbay,1 Bedroom ,1499
+738,Sundodger Apartments,Studio ,1650
+739,Sundodger Apartments,1 Bedroom,0
+740,Sundodger Apartments,2 Bedrooms ,2955
+741,Ellis Court,Studio ,1199
+742,Ellis Court,1 Bedroom,0
+743,Icon Apartments,1 Bedroom ,1599
+744,Icon Apartments,2 Bedrooms ,2299
+745,Mysa Apartments,Studio ,1449
+746,Mysa Apartments,1 Bedroom ,1616
+747,Mysa Apartments,2 Bedrooms ,2409
+748,Mysa Apartments,3 Bedrooms ,2675
+749,Mysa Apartments,4 Bedrooms,0
+750,Mosaic on Greenwood,1 Bedroom,0
+751,Mosaic on Greenwood,2 Bedrooms ,1650
+752,O2,Studio ,1790
+753,O2,1 Bedroom ,2110
+754,O2,2 Bedrooms ,3745
+755,THAI BINH APARTMENTS,Studio – 2 Bedrooms,0
+756,Pike Flats,Studio ,1262
+757,Clarendon,1 Bedroom ,1800
+758,Clarendon,2 Bedrooms,0
+759,1404 Boylston,Studio ,1205
+760,1404 Boylston,1 Bedroom ,1756
+761,Stratus,1 Bedroom ,2775
+762,Stratus,2 Bedrooms ,3975
+763,Stratus,3 Bedrooms,0
+764,Oregon 42,Studio ,1345
+765,Oregon 42,1 Bedroom ,1870
+766,Oregon 42,2 Bedrooms ,3120
+767,Tower 801,Studio ,1752
+768,Tower 801,1 Bedroom ,2209
+769,Tower 801,2 Bedrooms ,2590
+770,Tower 801,3 Bedrooms ,3500
+771,Aperture on Fifth,Studio ,1805
+772,Aperture on Fifth,1 Bedroom ,1830
+773,Aperture on Fifth,2 Bedrooms ,3195
+774,The Cornelius Apartments,Studio ,1350
+775,The Cornelius Apartments,1 Bedroom ,1613
+776,The Cornelius Apartments,2 Bedrooms ,2095
+777,LaVie at Queen Anne,Studio,0
+778,LaVie at Queen Anne,1 Bedroom ,2025
+779,LaVie at Queen Anne,2 Bedrooms,0
+780,Eastlake Flats,Studio ,832
+781,Manhattan,Studio ,1228
+782,Manhattan,1 Bedroom,0
+783,Manhattan,2 Bedrooms,0
+784,TRESSA,Studio ,1099
+785,TRESSA,1 Bedroom ,1150
+786,TRESSA,2 Bedrooms ,1349
+787,AMLI 535,Studio ,2188
+788,AMLI 535,1 Bedroom ,1719
+789,AMLI 535,2 Bedrooms ,3067
+790,The Noble Apartments,Studio ,1667
+791,The Noble Apartments,1 Bedroom ,2053
+792,The Noble Apartments,2 Bedrooms,0
+793,Denny 18,2 Bedrooms ,2500
+794,North Court Apartments,1 Bedroom ,1335
+795,North Court Apartments,2 Bedrooms ,1695
+796,Illumina Lake Union,2 Bedrooms ,2472
+797,Fifty Two Apartment,Studio ,1300
+798,Towers on Greenwood,Studio,0
+799,Towers on Greenwood,1 Bedroom ,1499
+800,Towers on Greenwood,2 Bedrooms ,1899
+801,Vista 7011,Studio ,1295
+802,Vista 7011,1 Bedroom ,1581
+803,U20 Apartments,Studio ,999
+804,The Stax,Studio ,999
+805,Seattle Urban Studios,Studio ,800
+806,Montisi,Studio ,999
+807,Sidney,Studio ,1695
+808,Sidney,1 Bedroom ,1995
+809,Milan Apartments,1 Bedroom ,1500
+810,Milan Apartments,2 Bedrooms ,1950
+811,Brentwood Square,2 Bedrooms ,1609
+812,The Blakely at Echo Lake (Senior 55+*),Studio ,1216
+813,The Blakely at Echo Lake (Senior 55+*),1 Bedroom ,1306
+814,The Blakely at Echo Lake (Senior 55+*),2 Bedrooms ,1559
+815,1111 East Olive Apartments,1 Bedroom ,2072
+816,Elliott Bayview,Studio ,1725
+817,Elliott Bayview,1 Bedroom ,1920
+818,Elliott Bayview,2 Bedrooms ,2450
+819,Charbonneau Apartments,1 Bedroom ,1795
+820,999 Hiawatha Apartments,Studio ,1425
+821,999 Hiawatha Apartments,1 Bedroom ,1750
+822,Robins Nest,Studio ,1325
+823,Robins Nest,1 Bedroom ,2262
+824,A.W. Larson Building,Studio ,1465
+825,A.W. Larson Building,1 Bedroom ,1980
+826,The Marlborough,2 Bedrooms ,3895
+827,VIBE Fremont,Studio ,1495
+828,VIBE Fremont,1 Bedroom ,1675
+829,VIBE Fremont,2 Bedrooms ,2295
+830,Gardner House Apartments,2 Bedrooms ,1464
+831,Reverie,Studio ,1350
+832,NoCo Apartments,Studio ,1040
+833,Franklin Station,Studio ,1495
+834,Franklin Station,2 Bedrooms ,2500
+835,Autumn Ridge Apartments,2 Bedrooms ,1495
+836,The Westside,Studio ,1890
+837,The Westside,1 Bedroom ,1925
+838,Balfour Place Apartments - AFFORDABLE,Studio ,1224
+839,Balfour Place Apartments - AFFORDABLE,1 Bedroom ,1309
+840,Skyline House Apartments,1 Bedroom ,1600
+841,Skyline House Apartments,2 Bedrooms ,2345
+842,The Savoy at Lake City,1 Bedroom ,1599
+843,The Savoy at Lake City,2 Bedrooms ,2025
+844,Oslo,Studio ,1854
+845,Oslo,1 Bedroom ,2031
+846,Harlow Heights,1 Bedroom ,1495
+847,Harlow Heights,2 Bedrooms ,1950
+848,City Watch Apartments,1 Bedroom ,1695
+849,City Watch Apartments,2 Bedrooms ,2300
+850,Hidden Creek Village,Studio ,1025
+851,Hidden Creek Village,1 Bedroom ,1225
+852,Hidden Creek Village,2 Bedrooms ,1525
+853,Nolan and Nora,Studio ,1540
+854,Nolan and Nora,2 Beds ,1077
+855,Nolan and Nora,4+ Beds ,1225
+856,Meridian Place Apartments,1 Bedroom ,1399
+857,Meridian Place Apartments,2 Bedrooms ,1744
+858,Coronado Springs,Studio ,1007
+859,Coronado Springs,1 Bedroom ,1082
+860,Coronado Springs,2 Bedrooms ,1290
+861,Greenwood Place Apartments,2 Bedrooms ,2195
+862,Northbrook Place,2 Bedrooms ,1695
+863,Vali Hai,Studio ,1325
+864,Vali Hai,1 Bedroom ,1775
+865,Vali Hai,2 Bedrooms ,2400
+866,AJ Apartments,Studio ,1600
+867,AJ Apartments,1 Bedroom ,1850
+868,AJ Apartments,2 Bedrooms ,2850
+869,Sandpiper Apartments,1 Bedroom ,1395
+870,Sandpiper Apartments,2 Bedrooms ,1595
+871,Sandpiper Apartments,3 Bedrooms ,1895
+872,La Vista Apartments,1 Bedroom ,1200
+873,La Vista Apartments,2 Bedrooms ,1400
+874,Modern Luxe Condos,Studio ,2500
+875,Modern Luxe Condos,1 Bedroom ,3500
+876,Modern Luxe Condos,2 Bedrooms ,4900
+877,Solis,Studio ,2145
+878,Solis,1 Bedroom ,2255
+879,Solis,2 Bedrooms ,3775
+880,Mcguire Court Apartments,1 Bedroom ,1225
+881,Muir Apartments,Studio ,1695
+882,Linden Flats Apartments,Studio ,1168
+883,Linden Flats Apartments,1 Bedroom ,1168
+884,Linden Flats Apartments,2 Bedrooms ,1394
+885,The Grove,Studio ,1546
+886,The Nelson,Studio ,1375
+887,The Nelson,1 Bedroom ,1500
+888,The Nelson,2 Bedrooms ,1780
+889,Lillehammer,Studio ,1595
+890,Lillehammer,1 Bedroom ,1695
+891,Lillehammer,2 Bedrooms ,1884
+892,Lake Washington Apartments,1 Bedroom ,1003
+893,Lake Washington Apartments,2 Bedrooms ,1195
+894,Lake Washington Apartments,3 Bedrooms ,1599
+895,Carkeek Park Place,1 Bedroom ,1650
+896,Lake City Court,1 Bedroom ,1173
+897,Lake City Court,2 Bedrooms ,1412
+898,Lake City Court,3 Bedrooms ,1624
+899,Lake City Court,4 Bedrooms ,1813
+900,Sanford Hildebrandt Seattle Active Seniors,Studio ,763
+901,Sanford Hildebrandt Seattle Active Seniors,1 Bedroom ,904
+902,TOD Apartments,Studio ,1399
+903,Rainier Vista,1 Bedroom – 5 Bedrooms,0
+904,Watercrest,1 Bedroom ,1505
+905,Watercrest,2 Bedrooms ,1920
+906,Watercrest,3 Bedrooms,0
+907,Arbour Court Apartments,1 Bedroom ,1425
+908,Arbour Court Apartments,2 Bedrooms ,1725
+909,Arbour Court Apartments,3 Bedrooms ,2100
+910,11326 3rd Ave NE Unit 103,2 Bedrooms ,1900
+911,Jackson Apartments,Studio ,1790
+912,Jackson Apartments,1 Bedroom ,2060
+913,Jackson Apartments,2 Bedrooms ,3185
+914,Jackson Apartments,3 Bedrooms ,3375
+915,Verve Flats,Studio ,1226
+916,Verve Flats,1 Bedroom ,1477
+917,Puget Vista,1 Bedroom ,1975
+918,Puget Vista,2 Bedrooms ,2590
+919,The Weatherford,1 Bedroom ,1995
+920,Spring Lake Apartments,Studio,0
+921,Spring Lake Apartments,1 Bedroom ,1275
+922,Spring Lake Apartments,2 Bedrooms,0
+923,The Edge,Studio ,1570
+924,Elan 41,1 Bedroom ,1829
+925,Elan 41,2 Bedrooms ,1899
+926,Mad Flats,Studio ,999
+927,Mad Flats,1 Bedroom ,1150
+928,Taylor Creek,1 Bedroom ,1445
+929,Taylor Creek,2 Bedrooms ,1644
+930,Clearwater Apartments - Star Apartments,Studio ,1465
+931,Clearwater Apartments - Star Apartments,1 Bedroom ,1575
+932,Clearwater Apartments - Star Apartments,2 Bedrooms ,2140
+933,Clearwater Apartments - Star Apartments,3 Bedrooms ,3665
+934,The Ludlow,Studio ,1075
+935,The Ludlow,1 Bedroom ,1300
+936,Twenty20 Mad,Studio ,1765
+937,Twenty20 Mad,1 Bedroom ,1829
+938,Twenty20 Mad,2 Bedrooms ,3000
+939,Circa Green Lake Apartments,Studio ,1577
+940,Circa Green Lake Apartments,1 Bedroom ,1865
+941,Circa Green Lake Apartments,2 Bedrooms ,3048
+942,Rubix,Studio,0
+943,Rubix,1 Bedroom ,1890
+944,Rubix,2 Bedrooms ,2219
+945,Union Arms Apartments,Studio ,1200
+946,Union Arms Apartments,1 Bedroom ,1450
+947,Parkridge Apartments,2 Bedrooms,0
+948,Valdok,Studio ,1597
+949,Valdok,1 Bedroom ,1715
+950,Valdok,2 Bedrooms ,3294
+951,The Sedges - Property,1 Bed ,1735
+952,The Sedges - Property,1 Bed ,1735
+953,LUNA,1 Bedroom ,1600
+954,Huxley,Studio,0
+955,Huxley,1 Bedroom ,1765
+956,Huxley,2 Bedrooms ,2730
+957,SOUTHSIDE BY VINTAGE,1 Bedroom ,1207
+958,SOUTHSIDE BY VINTAGE,2 Bedrooms,0
+959,SOUTHSIDE BY VINTAGE,3 Bedrooms ,1657
+960,The Central,Studio ,1235
+961,The Central,1 Bedroom ,1628
+962,The Central,2 Bedrooms ,2077
+963,Ruth Court,Studio,0
+964,Ruth Court,1 Bedroom ,2245
+965,Ruth Court,2 Bedrooms ,2799
+966,Hill Crest,1 Bedroom ,1599
+967,Hill Crest,2 Bedrooms ,1699
+968,Magnolia and Magnolia Crest,1 Bedroom ,1600
+969,Magnolia and Magnolia Crest,2 Bedrooms ,1785
+970,Stockbridge,Studio ,1395
+971,Kulle Urban Living,Studio ,895
+972,Northbridge Apartments,1 Bedroom ,1550
+973,Northbridge Apartments,2 Bedrooms ,1900
+974,Northbridge Apartments,3 Bedrooms ,2400
+975,Rainier View Homes,2 Bedrooms ,2600
+976,Rainier View Homes,3 Bedrooms ,2600
+977,Common Summit,Studio ,1050
+978,Ori on The Ave,Studio ,1372
+979,Riverview West Apartments,2 Bedrooms ,1350
+980,1715 Apartments,Studio ,850
+981,PARK HILL/GREENTREE APARTMENTS,Studio ,1124
+982,PARK HILL/GREENTREE APARTMENTS,1 Bedroom ,1207
+983,PARK HILL/GREENTREE APARTMENTS,2 Bedrooms ,1361
+984,Lake Union Tower,1 Bedroom ,1895
+985,Lakeview Apartments,2 Bedrooms ,1780
+986,The Q Apartments,1 Bedroom ,1650
+987,Mio Apartments,Studio ,1625
+988,Mio Apartments,1 Bedroom ,1745
+989,Nova,1 Bedroom ,1650
+990,Nova,2 Bedrooms ,1820
+991,Normandy Apartments,1 Bedroom ,1195
+992,Ballard 57 Apartments,Studio ,1340
+993,Ballard 57 Apartments,1 Bedroom ,1750
+994,Spencer House,1 Bedroom ,1150
+995,Star Apartments,1 Bedroom ,1615
+996,Blue Ridge Apartments,Studio ,1195
+997,Blue Ridge Apartments,1 Bedroom ,1295
+998,Blue Ridge Apartments,2 Bedrooms ,1495
+999,The Portland Building,1 Bedroom ,1850
+1000,Altamira Apartments,Studio ,1495
+1001,Altamira Apartments,1 Bedroom ,1600
+1002,Altamira Apartments,2 Bedrooms ,2575
+1003,Fox & Finch Apartments,1 Bedroom ,2000
+1004,Paul Revere,Studio ,1258
+1005,Vermont Inn,Studio ,1895
+1006,3517 110th SW St Unit Basement,1 Bedroom ,1500
+1007,1449 S Main St,3 Bedrooms ,3000
+1008,720 Lakeside Ave S Unit 108,2 Bedrooms ,3025
+1009,Tellus on Dexter Apartments,1 Bedroom ,2700
+1010,Tellus on Dexter Apartments,2 Bedrooms ,3750
+1011,2100 3rd Ave Unit 1401,2 Bedrooms ,2700
+1012,2415 2nd Ave Unit 535,1 Bedroom ,2150
+1013,4505 40th Ave SW Unit A,3 Bedrooms ,2850
+1014,4215 Whitman Ave N Unit 104,2 Bedrooms ,1695
+1015,Lane,Studio ,1525
+1016,Lane,1 Bedroom ,1740
+1017,Lane,2 Bedrooms ,2700
+1018,113 13th Ave,2 Bedrooms ,2700
+1019,5526 16th Ave NE Unit B,2 Bedrooms ,1650
+1020,7150 Sunnycrest S Rd Unit 3,1 Bedroom ,1390
+1021,1740 Melrose Ave Unit 705,2 Bedrooms ,2450
+1022,3431 16th Ave S Unit A,2 Bedrooms ,2100
+1023,829 19th Ave S,3 Bedrooms ,4500
+1024,1969 Thorndyke Ave W Unit n/a,1 Bedroom ,2095
+1025,12329 Roosevelt Way NE Unit A204,1 Bedroom ,1495
+1026,3208 Rainier Ave S Unit 303,2 Bedrooms ,1995
+1027,308 E Republican St Unit 412,1 Bedroom ,1995
+1028,Met Tower,Studio ,1995
+1029,Met Tower,1 Bedroom ,2995
+1030,Met Tower,2 Bedrooms ,3545
+1031,Met Tower,3 Bedrooms,0
+1032,5424 Delridge Way SW Unit E,3 Bedrooms ,3075
+1033,5414 Delridge Way SW,3 Bedrooms ,2850
+1034,2700 4th Ave Unit 406,1 Bedroom ,2100
+1035,12329 Roosevelt Way NE Unit D302,2 Bedrooms ,1695
+1036,114 1st Ave S Unit 1,Studio ,2900
+1037,6732 15th Ave NW Unit A,Studio ,1200
+1038,10528 Midvale Ave N Unit 1,2 Bedrooms ,1750
+1039,3012 17th Ave S Unit C,2 Bedrooms ,1859
+1040,3811 Aurora Ave N Unit 2,2 Bedrooms ,2195
+1041,3044 30th Ave W,3 Bedrooms ,4400
+1042,The Olivian,1 Bedroom ,3435
+1043,The Olivian,2 Bedrooms ,3945
+1044,1124 Lakeview Blvd E Unit 2,1 Bedroom ,1875
+1045,2420 Myrtle SW St,4 Bedrooms ,2900
+1046,3043 Alki Ave SW Unit Apt 2,2 Bedrooms ,2900
+1047,5015 38th Ave NE Unit 1,1 Bedroom ,1395
+1048,1320 University St Unit 203,2 Bedrooms ,3150
+1049,1931 Broadway E Unit 2A,2 Bedrooms ,3895
+1050,1415 2nd Ave Unit 2001,1 Bedroom ,2995
+1051,1907 1st Ave Unit 26,1 Bedroom ,1825
+1052,3061 64th Ave SW Unit 3061,2 Bedrooms ,1995
+1053,1808 Minor Ave Unit 908,2 Bedrooms ,3500
+1054,Airmark Apartments,Studio ,1313
+1055,Airmark Apartments,1 Bedroom ,1775
+1056,Airmark Apartments,2 Bedrooms ,2510
+1057,Airmark Apartments,3 Bedrooms ,6615
+1058,583 Battery St Unit 3106N,2 Bedrooms ,6950
+1059,1307 E John St Unit 306,2 Bedrooms ,2595
+1060,3300 Beach Dr SW Unit 5,1 Bedroom ,1700
+1061,4744 22nd Ave NE Unit 4744,2 Bedrooms ,1685
+1062,822 6th Ave N Unit C,2 Bedrooms ,3290
+1063,Assembly118,Studio,0
+1064,Assembly118,1 Bedroom ,1563
+1065,Assembly118,2 Bedrooms ,2951
+1066,4127 12th Ave NE Unit 4,2 Bedrooms ,1680
+1067,5101 Ravenna Ave NE Unit 3,2 Bedrooms ,1600
+1068,1816 Boylston Ave Unit 202,1 Bedroom ,1545
+1069,5512 15th Ave NE Unit 203,1 Bedroom ,1450
+1070,5428 Delridge Way SW Unit C,3 Bedrooms ,2475
+1071,1026 NE 65th St Unit 306,2 Bedrooms ,2845
+1072,5528 E Green Lake Way N Unit 24,2 Bedrooms ,1799
+1073,5530 E Green Lake Way N Unit 302,1 Bedroom ,1599
+1074,622 86th NW St Unit A,2 Bedrooms ,2200
+1075,1800 43rd Ave E Unit 301,1 Bedroom ,2250
+1076,Mera,1 Bedroom ,2450
+1077,Mera,2 Bedrooms ,3600
+1078,Mera,3 Bedrooms ,8450
+1079,1556 NW Ballard Way Unit 2,2 Bedrooms ,2800
+1080,4704 22nd Ave NE Unit 8,1 Bedroom ,1375
+1081,12329 Roosevelt Way NE Unit A304,1 Bedroom ,1495
+1082,12312 40th Ave NE Unit 2C,1 Bedroom ,825
+1083,2003 Franklin Ave E Unit 403,2 Bedrooms ,2295
+1084,Origin Apartments,Studio ,1480
+1085,Origin Apartments,1 Bedroom ,1581
+1086,Origin Apartments,2 Bedrooms ,2195
+1087,2003 Franklin Ave E Unit 203,2 Bedrooms ,2250
+1088,1307 John E St Unit 105,1 Bedroom ,1750
+1089,3208 Rainier Ave S Unit 301,1 Bedroom ,1475
+1090,13702 Densmore Ave N,3 Bedrooms ,2695
+1091,2607 NW 56th St,3 Bedrooms ,4200
+1092,4836 S Austin St Unit 08,2 Bedrooms ,1720
+1093,1808 Minor Ave Unit 2208,2 Bedrooms ,4400
+1094,9557 Ashworth Ave N Unit A,2 Bedrooms ,1800
+1095,7940 35th Ave SW,1 Bedroom ,1700
+1096,337 NE 54th St Unit A,2 Bedrooms ,2950
+1097,4708 22nd Ave NE Unit 12,1 Bedroom ,1375
+1098,2012 43rd Ave E Unit 303,Studio ,1595
+1099,1116 Taylor Ave N Unit B,2 Bedrooms ,3100
+1100,14009 35th Ave NE Unit 14009,2 Bedrooms ,1700
+1101,1102 8th Ave Unit 202,Studio ,1350
+1102,Charbern Apartments,Studio ,1504
+1103,Charbern Apartments,1 Bedroom,0
+1104,Charbern Apartments,2 Bedrooms,0
+1105,1102 8th Ave Unit 3,1 Bedroom ,2600
+1106,4127 12th Ave NE Unit 9,Studio ,1040
+1107,326 Mercer W St Unit ###,Studio ,1395
+1108,2040 NW 59th St Unit 1,1 Bedroom ,1395
+1109,204 24th Ave E,2 Bedrooms ,3300
+1110,1707 NW 57th St Unit 205,2 Bedrooms ,2250
+1111,1519 NW 65th St Unit 3,1 Bedroom ,1535
+1112,8801 Aurora Ave N Unit 5,Studio ,995
+1113,848 NE 67th St Unit 109,2 Bedrooms ,1925
+1114,848 NE 67th St Unit 209,2 Bedrooms ,1945
+1115,ArtHouse,Studio ,1636
+1116,ArtHouse,1 Bedroom ,1951
+1117,ArtHouse,2 Bedrooms,0
+1118,4313 Fremont Ave N Unit 101,3 Bedrooms ,2595
+1119,1209 S Cloverdale St Unit 12,1 Bedroom ,1395
+1120,12329 Roosevelt Way NE Unit A204,1 Bedroom ,1495
+1121,4255 Gilman Ave W Unit A,1 Bedroom ,1350
+1122,705 N 39th St Unit A,2 Bedrooms ,2250
+1123,1313 Judkins S St Unit A,Studio ,1175
+1124,8801 Aurora Ave N Unit 19,4+ Bedrooms ,750
+1125,116 14th Ave E Unit 1,1 Bedroom ,1450
+1126,1215 Queen Anne Ave N Unit #9,2 Bedrooms ,1950
+1127,12329 Roosevelt Way NE Unit C302,2 Bedrooms ,1695
+1128,The Station At Othello Park,Studio ,1361
+1129,The Station At Othello Park,1 Bedroom ,1566
+1130,The Station At Othello Park,2 Bedrooms,0
+1131,465 45th N St Unit 304,1 Bedroom ,1535
+1132,2939 S Mt Baker Blvd Unit B4,Studio ,1032
+1133,4902 Rainier Ave S Unit 3,Studio ,938
+1134,5111 S Dawson St Unit 8,1 Bedroom ,1500
+1135,320 25th Ave S,2 Bedrooms ,3000
+1136,Elara At The Market,Studio,0
+1137,Elara At The Market,1 Bedroom ,1965
+1138,Elara At The Market,2 Bedrooms,0
+1139,3226 15th Ave W Unit A,1 Bedroom ,1465
+1140,3226 15th Ave W Unit C,3 Bedrooms ,2350
+1141,4703 9th Ave NE Unit 6,1 Bedroom ,800
+1142,1120 93rd N St Unit 405,1 Bedroom ,1445
+1143,1120 93rd N St Unit 403,2 Bedrooms ,1795
+1144,5224 Brooklyn Ave NE Unit 8,1 Bedroom ,800
+1145,16 Valley St Unit 35,1 Bedroom ,1395
+1146,904 N 178th St,2 Bedrooms ,1650
+1147,939 Martin Luther King Jr Way S Unit 1,1 Bedroom ,1500
+1148,939 Martin Luther King Jr Way S Unit 1,1 Bedroom ,1500
+1149,1808 Minor Ave Unit 3206,1 Bedroom ,2990
+1150,329 23rd Ave S Unit 407,1 Bedroom ,1140
+1151,6706 17th Ave SW,3 Bedrooms ,2600
+1152,6236 36th Ave NE,4 Bedrooms ,4100
+1153,1808 Minor Ave Unit 1406,1 Bedroom ,2550
+1154,5015 38th Ave NE Unit COTTAGE,1 Bedroom ,1695
+1155,5015 38th Ave NE Unit 2nd floor,1 Bedroom ,1695
+1156,8372 Wabash Ave S,4 Bedrooms ,3100
+1157,403 Roy St Unit 8,Studio ,1195
+1158,6244 25th Ave NE,4+ Bedrooms ,4000
+1159,1110 8th Ave Unit 10,1 Bedroom ,1299
+1160,Park South,1 Bedroom ,1412
+1161,Park South,2 Bedrooms ,1549
+1162,1102 8th Ave Unit 5,Studio ,1299
+1163,3650 13th Ave W Unit 2,1 Bedroom ,1500
+1164,6635 Carleton Ave S Unit A,1 Bedroom ,1550
+1165,1816 Boylston Ave Unit 306,1 Bedroom ,1645
+1166,11038 Greenwood Ave N Unit 35,1 Bedroom ,1800
+1167,Spruce,Studio ,1490
+1168,Spruce,1 Bedroom ,1590
+1169,Spruce,2 Bedrooms ,2295
+1170,11038 Greenwood Ave N Unit 32,2 Bedrooms ,1800
+1171,11038 Greenwood Ave N Unit 31,2 Bedrooms ,1800
+1172,11038 Greenwood Ave N Unit 41,2 Bedrooms ,1900
+1173,11038 Greenwood Ave N Unit 11,Studio ,1200
+1174,2004 Dexter Ave N Unit 402,2 Bedrooms ,3800
+1175,11038 Greenwood Ave N Unit 42,2 Bedrooms ,1900
+1176,2004 Dexter Ave N Unit 107,2 Bedrooms ,2000
+1177,2004 Dexter Ave N Unit 301,3 Bedrooms ,3500
+1178,2004 Dexter Ave N Unit 102,2 Bedrooms ,2800
+1179,2004 Dexter Ave N Unit 307,1 Bedroom ,3800
+1180,The Mill at First Hill,Studio ,1514
+1181,The Mill at First Hill,1 Bedroom ,1689
+1182,The Mill at First Hill,2 Bedrooms ,2170
+1183,2004 Dexter Ave N Unit 207,2 Bedrooms ,3200
+1184,2004 Dexter Ave N Unit 302,2 Bedrooms ,3800
+1185,2004 Dexter Ave N Unit 405,1 Bedroom ,1900
+1186,2004 Dexter Ave N Unit 106,1 Bedroom ,1450
+1187,2004 Dexter Ave N Unit 104,1 Bedroom ,1750
+1188,Lofts at the Junction,Studio ,1300
+1189,2004 Dexter Ave N Unit 206,1 Bedroom ,1600
+1190,2004 Dexter Ave N Unit 204,1 Bedroom ,1750
+1191,4073 Gilman Ave W Unit 101,1 Bedroom ,1495
+1192,1105 Spring St Unit 707,2 Bedrooms ,2350
+1193,2436 S Graham St Unit 11,1 Bedroom ,1195
+1194,2309 44th Ave SW Unit A,4 Bedrooms ,3795
+1195,1970 Harvard Ave E Unit 1,2 Bedrooms ,2350
+1196,8801 Aurora Ave N Unit 3,Studio ,995
+1197,13737 32nd Ave NE Unit 2,1 Bedroom ,1255
+1198,901 NE 43rd St Unit 204,Studio ,1195
+1199,1950 Alaskan Way Unit 237,2 Bedrooms ,4195
+1200,414 10th Ave,1 Bedroom ,625
+1201,621 S King St Unit 6,1 Bedroom ,645
+1202,1000 Queen Anne Ave N Unit 206,Studio ,1100
+1203,308 27th Ave E Unit 308,3 Bedrooms ,3250
+1204,Saxton,Studio,0
+1205,Saxton,1 Bedroom ,1865
+1206,Saxton,2 Bedrooms ,2545
+1207,3023 20th Ave W Unit 305,1 Bedroom ,1495
+1208,8511 2nd Ave NE,2 Bedrooms ,3000
+1209,4547 8th Ave NE Unit 601,2 Bedrooms ,2750
+1210,566 Prospect St Unit 309,1 Bedroom ,1800
+1211,2440 Western Ave Unit 710,1 Bedroom ,1995
+1212,14007 35th Ave NE Unit 14007,3 Bedrooms ,2136
+1213,1717 Taylor Ave N Unit 1717,1 Bedroom ,1800
+1214,1711 Taylor Ave N Unit 1711,1 Bedroom ,1800
+1215,8801 Aurora Ave N Unit 4,Studio ,995
+1216,7015 Rainier Ave S Unit 8,1 Bedroom ,1250
+1217,7015 Rainier Ave S Unit 14,1 Bedroom ,1275
+1218,5502 15th Ave NE Unit 4,1 Bedroom ,1375
+1219,412 30th Ave E,3 Bedrooms ,3400
+1220,5111 S Dawson St Unit 8,1 Bedroom ,1400
+1221,1310 Lakeside Ave S,3 Bedrooms ,6000
+1222,Bogtown Flats,1 Bedroom ,1600
+1223,Bogtown Flats,2 Bedrooms ,2405
+1224,839 NE 85th St,2 Bedrooms ,2800
+1225,819 NW 50th St,1 Bedroom ,1500
+1226,610 W McGraw St,1 Bedroom ,2300
+1227,1611 E Spring St,3 Bedrooms ,3000
+1228,2414 1st Ave Unit 624,1 Bedroom ,2400
+1229,2415 2nd Ave Unit 731,3 Bedrooms ,3200
+1230,1556 NW Ballard Way Unit 1,3 Bedrooms ,2400
+1231,3036 5th Ave W Unit 1,2 Bedrooms ,2600
+1232,819 NW 50th St Unit A,4+ Bedrooms ,4500
+1233,2415 2nd Ave Unit 744,2 Bedrooms ,3200
+1234,2415 2nd Ave Unit 732,3 Bedrooms ,3200
+1235,2415 2nd Ave Unit 745,3 Bedrooms ,3200
+1236,2414 1st Ave Unit 623,1 Bedroom ,2400
+1237,5808 15th Ave NE Unit 2,Studio ,1295
+1238,1215 Queen Anne Ave N Unit #5,2 Bedrooms ,1590
+1239,2040 62nd NW St,3 Bedrooms ,4122
+1240,1522 18th Ave Unit 402,2 Bedrooms ,3350
+1241,2614 S Dearborn St,3 Bedrooms ,4572
+1242,210 20th Ave S,3 Bedrooms ,4322
+1243,815 W Howe St,4 Bedrooms ,5433
+1244,803 15th Ave Unit 1,1 Bedroom ,1465
+1245,14345 Stone Ave N,1 Bedroom ,2350
+1246,1927 9th Ave W,3 Bedrooms ,4695
+1247,8728 14th Ave NW Unit 0,Studio ,1700
+1248,4511 40th Ave NE Unit 4511 1/2,1 Bedroom ,1350
+1249,3 bedroom in Seattle WA 98178,3 Bedrooms ,2700
+1250,403 Terry Ave Unit APARTMENT 2,2 Bedrooms ,1950
+1251,3119 W Commodore Way,1 Bedroom ,1395
+1252,"1 br, 1 bath Cooperative - 9256 21st Ave SW",1 Bedroom ,650
+1253,3128 Portage Bay Pl E,2 Bedrooms ,2000
+1254,2 bedroom in Seattle WA 98105,2 Bedrooms ,1850
+1255,4115 E Galer St,3 Bedrooms ,6700
+1256,12233 Fremont Ave N,2 Bedrooms ,2100
+1257,10229 38th Ave SW,3 Bedrooms ,2295
+1258,Single Family Home near Green Lake,3 Bedrooms ,2495
+1259,Rivet Apartments,1 Bedroom ,1965
+1260,Rivet Apartments,2 Bedrooms ,2998
+1261,Stunning Judkins Townhome!,3 Bedrooms ,4095
+1262,11334 40th Ave NE,2 Bedrooms ,2650
+1263,100 Martin Luther King Jr Way Unit #1,2 Bedrooms ,1895
+1264,0 bedroom in Seattle WA 98144,Studio ,1395
+1265,3 bedroom in Seattle WA 98106,3 Bedrooms ,2895
+1266,0 bedroom in Seattle WA 98112,Studio ,1750
+1267,6118 23rd Ave S,3 Bedrooms ,2750
+1268,817 Martin Luther King Jr Way Unit A23 (2SW),1 Bedroom ,825
+1269,Bright 3 Bedroom Beacon Hill Home,3 Bedrooms ,3595
+1270,"5 br, 3.5 bath House - 12636 4th Ave SW",4+ Bedrooms ,5600
+1271,"2 br, 1.5 bath House - 3622B 22nd Ave West",2 Bedrooms ,2450
+1272,5800 46th Ave S,2 Bedrooms ,2695
+1273,2345 NE 104th Way,3 Bedrooms ,2899
+1274,3018 NW 85th St,2 Bedrooms ,1695
+1275,1115 17th Ave,1 Bedroom ,1650
+1276,Bowman,Studio,0
+1277,Bowman,1 Bedroom ,1761
+1278,Bowman,2 Bedrooms ,3122
+1279,6012 5th Ave NW,4 Bedrooms ,2750
+1280,11038 Lake City Way NE,2 Bedrooms ,1995
+1281,13341 15th Ave NE,2 Bedrooms ,1700
+1282,611 N 50th St,2 Bedrooms ,1550
+1283,4001 NE 50th St,1 Bedroom ,1395
+1284,4051 Gilman Ave W,2 Bedrooms ,1625
+1285,7101 Roosevelt Way NE Unit #107,2 Bedrooms ,1795
+1286,"1 br, 1 bath Condo - 1000 Aurora Ave N",1 Bedroom ,1975
+1287,8626 10th Ave SW,2 Bedrooms ,1700
+1288,1038 Lakeview Blvd E Unit #B,2 Bedrooms ,2200
+1289,Ascent South Lake Union,1 Bedroom ,2400
+1290,Ascent South Lake Union,2 Bedrooms ,3206
+1291,Ascent South Lake Union,3 Bedrooms ,8415
+1292,10765 14th Ave SW,1 Bedroom ,1350
+1293,9405 45th Ave SW,4 Bedrooms ,3400
+1294,11050 16th Ave SW,2 Bedrooms ,1500
+1295,3115 S 192nd St,2 Bedrooms ,1460
+1296,2148 SW Holden St Unit B3,2 Bedrooms ,1600
+1297,14045 Greenwood Ave N Unit 201,1 Bedroom ,1595
+1298,2 bedroom in Seattle WA 98112,2 Bedrooms ,2995
+1299,5 bedroom in Seattle WA 98125,4+ Bedrooms ,9800
+1300,The Elektra Condominiums - 2 bedrooms,2 Bedrooms ,2650
+1301,Charming Ballard Tri Plex,2 Bedrooms ,2475
+1302,McKenzie,Studio ,2097
+1303,McKenzie,1 Bedroom ,2622
+1304,McKenzie,2 Bedrooms ,3604
+1305,McKenzie,3 Bedrooms ,8336
+1306,Gorgeous Whittier Craftsman,3 Bedrooms ,3795
+1307,9721 20th Ave NE,3 Bedrooms ,2895
+1308,3516 NE 75th St Unit 12,2 Bedrooms ,1750
+1309,"10011 51st Ave S, Unit C",1 Bedroom ,1700
+1310,1408 NE 154th St,2 Bedrooms ,1785
+1311,624 Yale,Studio ,1700
+1312,624 Yale,1 Bedroom ,1950
+1313,624 Yale,2 Bedrooms ,3150
+1314,11405 37th Ave SW,2 Bedrooms ,2554
+1315,5134 S Fountain St,3 Bedrooms ,2500
+1316,7309 3rd Ave NW,3 Bedrooms ,4495
+1317,"2 br, 2 bath Condo - Royal Crest Condominiums",2 Bedrooms ,3200
+1318,"2 br, 2 bath House - 2721 1st Ave #1002",2 Bedrooms ,4195
+1319,STAZIONE25,Studio ,1800
+1320,STAZIONE25,1 Bedroom ,1628
+1321,STAZIONE25,2 Bedrooms ,3000
+1322,5511 University Way NE,2 Bedrooms ,1450
+1323,"1 br, 1 bath House - 590 1st Ave S, Unit 1002",1 Bedroom ,2450
+1324,"4 br, 3 bath House - 1511 36th Ave S",4 Bedrooms ,6000
+1325,3250 California Ave SW,1 Bedroom ,1495
+1326,"1 br, 1 bath Apartment - 1120 N 93rd Street",1 Bedroom ,1445
+1327,2323 W Newton St,2 Bedrooms ,1700
+1328,5631 California Ave SW,2 Bedrooms ,2103
+1329,100 Aloha St,2 Bedrooms ,1795
+1330,6568 4th Ave NE Unit #26,1 Bedroom ,1745
+1331,201 Galer St Unit Ste. 328,2 Bedrooms ,3395
+1332,Cadence,1 Bedroom ,1849
+1333,Cadence,2 Bedrooms,0
+1334,9514 8th Ave NW,1 Bedroom ,1495
+1335,105 Mercer St,Studio ,1325
+1336,3849 Woodlawn Ave N,3 Bedrooms ,2995
+1337,1311 12th Ave S Unit #D201,2 Bedrooms ,2395
+1338,Top floor Condo filled with light,2 Bedrooms ,1695
+1339,Alexan 100,Studio ,1790
+1340,Alexan 100,1 Bedroom ,2287
+1341,Alexan 100,2 Bedrooms ,3495
+1342,Alexan 100,3 Bedrooms,0
+1343,1021 S Bailey St,2 Bedrooms ,1595
+1344,1210 Alki Ave SW Unit # 600,2 Bedrooms ,3300
+1345,2341 NE 55th St,1 Bedroom ,1350
+1346,"4 br, 3 bath House - 10044 46TH PL NE",4 Bedrooms ,3850
+1347,"3 br, 2 bath House - 9021 17th Ave. NE, upper",3 Bedrooms ,2995
+1348,Vida Seattle,Studio ,1717
+1349,Vida Seattle,1 Bedroom ,1940
+1350,Vida Seattle,2 Bedrooms ,3102
+1351,"2 br, 1 bath House - 3854 30th Ave W.",2 Bedrooms ,2399
+1352,9020 35th Ave SW,1 Bedroom ,1450
+1353,3017 60th Ave SW,1 Bedroom ,1995
+1354,12340 33rd Ave NE,1 Bedroom ,1395
+1355,"4 br, 2.5 bath House - 929 23rd Ave",4 Bedrooms ,4350
+1356,Sedona Apartments,Studio ,846
+1357,Sedona Apartments,1 Bedroom ,2322
+1358,Sedona Apartments,2 Bedrooms,0
+1359,4706 SW Spokane St,1 Bedroom ,1695
+1360,2407 E Ward St,1 Bedroom ,1350
+1361,1916 14th Ave W,Studio ,1150
+1362,3825 34th Ave W,1 Bedroom ,1675
+1363,11244 Greenwood Ave N,2 Bedrooms ,1895
+1364,7060 Lincoln Park Way SW,2 Bedrooms ,1895
+1365,4528 44th Ave SW,Studio ,1225
+1366,4915 Lake Washington Blvd S Unit A/B,1 Bedroom ,1550
+1367,9711 Greenwood Ave N,1 Bedroom ,1300
+1368,4919 SW Stevens St,1 Bedroom ,1895
+1369,Broadstone Sky,1 Bedroom ,1660
+1370,Broadstone Sky,2 Bedrooms ,2735
+1371,2425 Montavista Pl W,4+ Bedrooms ,5395
+1372,3518 SW Elmgrove St,1 Bedroom ,1500
+1373,"2 br, 1 bath House - 923 N 68th Street",2 Bedrooms ,2995
+1374,"3 br, 1 bath House - 8533 18th Ave NW",3 Bedrooms ,3600
+1375,1320 14th Ave S,2 Bedrooms ,1695
+1376,Overlook at Westridge,Studio,0
+1377,Overlook at Westridge,1 Bedroom ,1764
+1378,Overlook at Westridge,2 Bedrooms ,1899
+1379,Overlook at Westridge,3 Bedrooms ,2451
+1380,10306 Holman Rd N,Studio ,1100
+1381,311 6th Ave S,Studio ,1195
+1382,1307 N Northgate Way,Studio ,1295
+1383,3631 13th Ave W,2 Bedrooms ,1600
+1384,500 W Mercer St,2 Bedrooms ,2400
+1385,Batik,Studio,0
+1386,Batik,1 Bedroom ,2030
+1387,Batik,2 Bedrooms ,2940
+1388,"6 br, 3 bath House - 12705 27th Ave NE",4+ Bedrooms ,3150
+1389,3230 SW Avalon Way,1 Bedroom ,1395
+1390,7719 Renton Ave S,2 Bedrooms ,1725
+1391,Malloy,Studio ,1368
+1392,Malloy,1 Bedroom ,1889
+1393,Garden Pointe,1 Bedroom ,1525
+1394,Garden Pointe,2 Bedrooms ,1695
+1395,HANA Apartments,1 Bedroom ,1320
+1396,HANA Apartments,2 Bedrooms ,1936
+1397,Sorento Flats,Studio ,995
+1398,Rise on 67th,Studio ,1045
+1399,Derby South Lake Union,Studio ,1300
+1400,Oakwood Residence Seattle South Lake Union,Studio ,1699
+1401,Oakwood Residence Seattle South Lake Union,1 Bedroom ,2000
+1402,Novo Seattle,Studio ,1050
+1403,Maude Urban Living,Studio ,999
+1404,Common Madison,Studio ,1000
+1405,Kinects Tower,Studio ,1755
+1406,Kinects Tower,1 Bedroom ,2815
+1407,Kinects Tower,2 Bedrooms ,4065
+1408,Arrive,Studio ,2095
+1409,Arrive,1 Bedroom ,2895
+1410,Arrive,2 Bedrooms ,4120
+1411,Thornton Place,Studio ,1940
+1412,Thornton Place,1 Bedroom ,1612
+1413,Thornton Place,2 Bedrooms ,2018
+1414,Vertex Off Broadway,Studio ,1559
+1415,Vertex Off Broadway,1 Bedroom ,2050
+1416,Vertex Off Broadway,2 Bedrooms ,3185

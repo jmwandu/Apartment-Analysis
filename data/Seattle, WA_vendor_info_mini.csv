@@ -1,0 +1,419 @@
+,propertyName,verified,street,city,state,zipCode,neighborhood,reviewScore,reviewCount,walkScore,transitScore
+0,LUNA,False,2745 California Ave SW,Seattle,WA,98116,North Admiral,5,0,91,41
+1,Elan 41,False,4100 SW Edmunds St SW,Seattle,WA,98116,Junction,4,0,98,54
+2,Jackson Apartments,False,2401 S Jackson St,Seattle,WA,98144,Atlantic,0,0,90,70
+3,Circa Green Lake Apartments,False,6900 E Green Lake Way N,Seattle,WA,98115,Green Lake,0,6,95,56
+4,Tower 12,False,2015 2nd Ave,Seattle,WA,98121,Pike Place Market,0,4,98,100
+5,Common Summit,False,1722 Summit Ave,Seattle,WA,98122,Capitol Hill,3,0,99,99
+6,The Mill at First Hill,False,1000 8th Ave,Seattle,WA,98104,First Hill,0,15,98,100
+7,AMLI Arc,False,1800 Boren Ave,Seattle,WA,98101,Denny Triangle,5,0,99,100
+8,HANA Apartments,False,101 6th Ave S,Seattle,WA,98104,Pioneer Square,0,11,98,100
+9,The Olivian,False,809 Olive Way,Seattle,WA,98101,Denny Triangle,0,2,99,100
+10,AMLI South Lake Union,False,1260 Republican St,Seattle,WA,98109,South Lake Union,0,3,96,86
+11,AMLI Mark24,False,2428 NW Market St,Seattle,WA,98107,Ballard,0,2,97,54
+12,McKenzie,False,2202 Eighth Ave,Seattle,WA,98121,Denny Triangle,0,23,100,100
+13,CityLine,False,4740 32nd Ave S,Seattle,WA,98118,Columbia City,0,1,92,64
+14,The Kennedy Building,False,907 NE 45th St,Seattle,WA,98105,University District,5,0,97,82
+15,Lightbox,False,4545 8th Ave NE,Seattle,WA,98105,University District,0,3,94,80
+16,Sorento Flats,False,1414 E Yesler Way,Seattle,WA,98122,Minor,0,5,92,93
+17,Rise on 67th,False,829 NE 67th St,Seattle,WA,98115,Roosevelt,0,5,95,59
+18,Olympus,False,2801 Western Ave,Seattle,WA,98121,Belltown,0,5,95,95
+19,Centennial Tower and Court,False,2515 4th Ave,Seattle,WA,98121,Belltown,0,7,99,100
+20,Cascade,False,221 Minor Ave N,Seattle,WA,98109,South Lake Union,4,0,99,92
+21,Harbor Steps,False,1221 1st Ave,Seattle,WA,98101,Downtown Seattle,0,5,98,100
+22,Saxton,False,520 Terry Ave,Seattle,WA,98104,First Hill,0,2,96,100
+23,Via 6,False,2121 6th Ave,Seattle,WA,98121,Denny Triangle,0,53,99,100
+24,Helm,False,625 Boren Ave,Seattle,WA,98109,South Lake Union,0,8,96,86
+25,Mera,False,630 Boren Ave N,Seattle,WA,98109,South Lake Union,0,2,97,85
+26,Novo Seattle,False,6105 Roosevelt Way NE,Seattle,WA,98115,Roosevelt,5,0,97,66
+27,Maude Urban Living,False,836 NE 67th St,Seattle,WA,98115,Roosevelt,0,2,95,59
+28,Derby South Lake Union,False,1210 Republican St,Seattle,WA,98109,South Lake Union,5,0,97,86
+29,Griffis Belltown,False,2400 ELLIOTT Ave,Seattle,WA,98121,Belltown,0,5,97,100
+30,Tellus on Dexter Apartments,False,403 Dexter Ave N,Seattle,WA,98109,South Lake Union,5,0,94,93
+31,Sitka,False,1255 Harrison St,Seattle,WA,98109,South Lake Union,0,16,97,89
+32,Ascent South Lake Union,False,1145 Republican St,Seattle,WA,98109,South Lake Union,0,15,99,91
+33,Marlowe,False,1146 Harrison St,Seattle,WA,98109,South Lake Union,0,7,99,91
+34,Spruce,False,4555 39th Ave SW,Seattle,WA,98116,Genesee,0,8,95,54
+35,Helios,False,1600 2nd Ave,Seattle,WA,98101,Downtown Seattle,0,1,99,100
+36,Park South,False,10102 8th Ave S,Seattle,WA,98168,Southern Heights-Boulevard Park,0,12,35,0
+37,Elara At The Market,False,2134 Western Ave,Seattle,WA,98121,Belltown,0,1,98,100
+38,Pike Motorworks,False,715 E Pine St,Seattle,WA,98122,Capitol Hill,0,1,100,97
+39,The Station At Othello Park,False,4219 S Othello St,Seattle,WA,98118,Brighton,0,24,87,66
+40,Oakwood Residence Seattle South Lake Union,False,717 N Dexter Ave,Seattle,WA,98109,South Lake Union,5,0,88,85
+41,Chloe on Union,False,1408-1412 E Union St,Seattle,WA,98122,Minor,0,1,98,82
+42,ArtHouse,False,2334 Elliott Ave,Seattle,WA,98121,Belltown,0,4,97,100
+43,Charbern Apartments,False,1705 Belmont Ave,Seattle,WA,98122,Capitol Hill,4,0,99,100
+44,Leilani Apartment Homes,False,10215 Greenwood Ave N,Seattle,WA,98133,Greenwood,0,5,84,57
+45,Assembly118,False,4200 S Othello St,Seattle,WA,98118,Brighton,5,0,84,66
+46,Origin Apartments,False,12311 32nd Ave NE,Seattle,WA,98125,Lake City,0,1,90,59
+47,Overlook at Magnolia,False,3520 27th Pl W,Seattle,WA,98199,Lawton Park,0,5,52,44
+48,Met Tower,False,1942-1942 Westlake Ave,Seattle,WA,98101,Denny Triangle,0,5,99,100
+49,Airmark Apartments,False,229 Andover Park E,Seattle,WA,98188,Tukwila Urban Center,5,0,60,48
+50,Lofts at the Junction,False,4535 44th Ave SW,Seattle,WA,98116,Junction,5,0,97,53
+51,Fox & Finch Apartments,False,525 Boren Ave N,Seattle,WA,98109,South Lake Union,5,0,98,88
+52,Ballard 57 Apartments,False,1731 NW 57th St,Seattle,WA,98107,Ballard,5,0,97,55
+53,Odin,False,5398 Russell Ave NW,Seattle,WA,98107,Ballard,5,0,97,56
+54,Mark on 8th,False,285 8th Ave N,Seattle,WA,98109,South Lake Union,0,1,97,95
+55,Lane,False,10720 5th Ave NE,Seattle,WA,98125,Maple Leaf,0,1,91,63
+56,Bogtown Flats,False,9039 Greenwood Ave N,Seattle,WA,98103,Seattle,0,1,87,58
+57,Vida Seattle,False,1205 NE 66th St,Seattle,WA,98115,Roosevelt,0,1,97,59
+58,Alexan 100,False,100 Denny Way,Seattle,WA,98109,Lower Queen Anne,0,0,96,82
+59,STAZIONE25,False,2615 25th Ave S,Seattle,WA,98144,North Beacon Hill,5,0,80,73
+60,Vive,False,1516 NW 51st St,Seattle,WA,98107,Ballard,5,0,94,56
+61,Kiara,False,111 Terry Ave N,Seattle,WA,98109,South Lake Union,5,0,99,100
+62,624 Yale,False,624 Yale Ave N,Seattle,WA,98109,South Lake Union,0,3,93,84
+63,Westlake Steps,False,1207 Westlake Ave N,Seattle,WA,98109,Westlake,5,0,78,79
+64,Cadence,False,3040 NW Market St,Seattle,WA,98107,Ballard,4,0,84,51
+65,Infinity Apartments,False,1414 10th Ave,Seattle,WA,98122,Capitol Hill,5,0,100,92
+66,St. James Tower,False,920 N 34th St,Seattle,WA,98103,Fremont,5,0,95,63
+67,Sedona Apartments,False,8500 20th Ave NE,Seattle,WA,98115,Wedgewood,0,4,69,52
+68,Broadstone Sky,False,4745 40th Ave,Seattle,WA,98116,Genesee,5,0,97,54
+69,Overlook at Westridge,False,600 SW Kenyon St,Seattle,WA,98106,Highland Park,0,5,45,42
+70,Batik,False,123 Broadway,Seattle,WA,98122,First Hill,5,0,92,100
+71,One Lakefront,False,1287 Westlake Ave N,Seattle,WA,98109,Westlake,5,0,78,73
+72,JUXT,False,810 Dexter Ave N,Seattle,WA,98109,South Lake Union,0,1,90,85
+73,Rivet Apartments,False,1201 Mercer St,Seattle,WA,98109,South Lake Union,0,1,97,86
+74,Bowman,False,3801 Stone Way N,Seattle,WA,98103,Fremont,5,0,89,64
+75,Malloy,False,4337 15th Ave NE,Seattle,WA,98105,University District,4,0,99,83
+76,Premiere on Pine,False,1525 9th Ave,Seattle,WA,98101,Denny Triangle,0,5,99,100
+77,Garden Pointe,False,130 SW 112th St,Seattle,WA,98146,Highline,0,1,45,0
+78,Common Madison,False,1806 23rd Ave,Seattle,WA,98122,Mann,5,0,89,66
+79,Chroma SLU,False,1212 Harrison St,Seattle,WA,98109,South Lake Union,5,0,98,88
+80,Kinects Tower,False,1823 Minor Ave,Seattle,WA,98101,Denny Triangle,0,5,98,100
+81,Arrive,False,2116 4th Ave,Seattle,WA,98121,Belltown,5,0,99,100
+82,Verve Apartments,False,2720 4th Ave,Seattle,WA,98121,Denny Triangle,0,10,98,99
+83,Thornton Place,False,337 NE 103rd St,Seattle,WA,98125,Seattle,0,1,79,64
+84,Vertex Off Broadway,False,802 E Thomas St,Seattle,WA,98102,Capitol Hill,5,0,99,84
+85,Ballard on the Park,False,2233 NW 58th St,Seattle,WA,98107,Ballard,0,6,98,54
+86,Aura West Seattle,False,4435 35th Ave SW,Seattle,WA,98126,Fairmount Park,0,9,85,57
+87,Leeward,False,1305 Dexter Ave N,Seattle,WA,98109,Lake Union,0,11,77,77
+88,Alto Apartments,False,311 Cedar St,Seattle,WA,98121,Belltown,0,11,99,100
+89,206 Bell,False,206 BELL St,Seattle,WA,98121,Belltown,0,14,99,100
+90,The Post,False,888 Western Ave,Seattle,WA,98104,Downtown Seattle,0,15,98,100
+91,Summit At Madison Park,False,1819 23rd Ave,Seattle,WA,98122,Minor,0,14,90,68
+92,The Shelby,False,2201 4th Ave,Seattle,WA,98121,Belltown,0,6,99,100
+93,East Howe Steps,False,1823 Eastlake Ave E,Seattle,WA,98102,Eastlake,0,6,78,63
+94,Element 42,False,2641 42nd Ave SW,Seattle,WA,98116,North Admiral,0,8,92,42
+95,Excelsior,False,1535 Bellevue Ave,Seattle,WA,98122,Capitol Hill,0,12,99,100
+96,Koi,False,1139 NW Market St,Seattle,WA,98107,Ballard,0,3,94,57
+97,The Loop,False,407 NE 73rd St,Seattle,WA,98115,Green Lake,4,0,95,56
+98,The Wilcox,False,2003 NW 57th St,Seattle,WA,98107,Ballard,0,9,98,55
+99,3030 Lake City,False,3030 NE 143rd St,Seattle,WA,98125,Lake City,4,0,58,51
+100,Stack House,False,1280 Harrison St,Seattle,WA,98109,South Lake Union,0,10,96,86
+101,Westhaven Apartments,False,2201 SW Holden St,Seattle,WA,98106,South Delridge,0,19,51,48
+102,Wilsonian,False,4710 University Way NE,Seattle,WA,98105,University District,5,0,99,80
+103,The M,False,4700 Brooklyn NE,Seattle,WA,98105,University District,5,0,99,80
+104,Panorama Apartments,False,1100 University St,Seattle,WA,98101,First Hill,4,0,98,100
+105,Slate Apartments,False,3040 17th W,Seattle,WA,98119,Seattle,0,5,73,54
+106,Pratt Park Apartments,False,1800 S Jackson St,Seattle,WA,98144,Atlantic,0,3,93,78
+107,Marq West Seattle,False,3261 SW Avalon Way,Seattle,WA,98126,North Delridge,0,16,81,58
+108,Vantage Park Apartments,False,1011 E Terrace St,Seattle,WA,98122,Minor,5,0,94,100
+109,Augusta Apartments,False,4041 Roosevelt Way NE,Seattle,WA,98105,University District,0,1,94,84
+110,Axle,False,3230 16th Ave W,Seattle,WA,98119,Interbay,5,0,75,53
+111,AMLI Wallingford,False,1850 N 34th St,Seattle,WA,98103,Wallingford,5,0,71,61
+112,Ivy Ridge,False,4730 21st Ave NE,Seattle,WA,98105,University District,0,12,86,78
+113,Moda,False,2312 3rd Ave,Seattle,WA,98121,Belltown,0,4,99,100
+114,Alcyone,False,301 Minor Ave N,Seattle,WA,98109,South Lake Union,5,0,99,90
+115,Harrison Square,False,312 2nd Ave W,Seattle,WA,98119,Lower Queen Anne,5,0,92,74
+116,Chloe on Madison,False,1401-1409 E Madison St,Seattle,WA,98122,Minor,5,0,99,82
+117,Cielo,False,800 Seneca St,Seattle,WA,98101,First Hill,0,6,98,100
+118,The LeeAnn,False,701 5th Ave N,Seattle,WA,98109,Lower Queen Anne,5,0,96,87
+119,Iron Flats,False,828 NE 66th St,Seattle,WA,98115,Roosevelt,5,0,95,59
+120,MOD Apartments,False,6559 35th Ave NE,Seattle,WA,98115,Ravenna,5,0,78,51
+121,2900 On First,False,2900 1st Ave,Seattle,WA,98121,Belltown,0,150,96,93
+122,Skye at Belltown,False,500 Wall St,Seattle,WA,98121,Belltown,0,2,99,100
+123,Anthem on 12th,False,103 12th Ave,Seattle,WA,98122,Minor,0,3,95,100
+124,Marq 211,False,211 Lenora St,Seattle,WA,98121,Seattle,5,0,99,100
+125,Seventh and James,False,600 7th Ave,Seattle,WA,98104,First Hill,0,1,97,100
+126,Springline,False,3220 California Ave SW,Seattle,WA,98116,North Admiral,5,0,89,45
+127,Junction 47,False,4209 SW Alaska St,Seattle,WA,98116,Junction,0,3,98,54
+128,Dimension,False,225 Cedar St,Seattle,WA,98121,Belltown,0,2,99,100
+129,Medora,False,6810 Roosevelt Way NE,Seattle,WA,98115,Roosevelt,5,0,96,59
+130,Hillview,False,12825 60th Ln S,Seattle,WA,98178,Bryn Mawr-Skyway,0,1,30,0
+131,East Union,False,Union St @ 23rd ave,Seattle,WA,98122,Minor,5,0,93,65
+132,The Enclave,False,525 NE Northgate Way,Seattle,WA,98125,Maple Leaf,0,9,91,60
+133,The Eden Apartments,False,602-602 Galer St,Seattle,WA,98109,Queen Anne,4,0,53,71
+134,Haller Post,False,1130 N 115th St,Seattle,WA,98133,Seattle,0,4,52,54
+135,Washington Terrace Senior Affordable Apart...,False,120 6th Ave S,Seattle,WA,98104,Pioneer Square,4,0,98,100
+136,Metro on First,False,215 1st Ave W,Seattle,WA,98119,Lower Queen Anne,0,2,94,77
+137,Urbana,False,1501 NW 56th St,Seattle,WA,98107,Ballard,0,2,97,56
+138,2300 Elliott,False,2300 Elliott Ave,Seattle,WA,98121,Belltown,4,0,97,100
+139,Youngstown Flats,False,4040 26th Ave SW,Seattle,WA,98106,North Delridge,0,3,73,57
+140,Coppins Well,False,1000 Minor Ave,Seattle,WA,98104,First Hill,0,3,99,100
+141,John Winthrop Apartments,False,1020 Seneca St,Seattle,WA,98101,First Hill,4,0,98,100
+142,Taylor 28,False,100 Taylor Ave N,Seattle,WA,98109,South Lake Union,5,0,98,100
+143,Aspira Apartments,False,1823 Terry Ave,Seattle,WA,98101,Denny Triangle,0,3,100,100
+144,LEVA On Market,False,1545 NW Market St,Seattle,WA,98107,Ballard,0,4,97,56
+145,Lighthouse Apartments,False,7901 Delridge Way SW,Seattle,WA,98106,South Delridge,0,6,46,52
+146,Adell Apartments,False,4532 SW 42nd Ave,Seattle,WA,98116,West Seattle,0,0,98,54
+147,Union Bay,False,526 Yale Ave N,Seattle,WA,98109,South Lake Union,5,0,95,86
+148,Angeline Apartments,False,4801 Rainier Ave S,Seattle,WA,98118,Columbia City,0,5,95,61
+149,The Heights on Capitol Hill,False,130 Harvard Ave E,Seattle,WA,98102,Capitol Hill,5,0,99,91
+150,Rianna,False,810 12th Ave,Seattle,WA,98122,Minor,0,1,93,89
+151,Three20,False,320 E Pine St,Seattle,WA,98122,Capitol Hill,0,1,97,100
+152,The Pearl,False,1530 15th Ave,Seattle,WA,98122,Stevens,0,1,99,80
+153,Square One,False,1020 NE 63rd St,Seattle,WA,98115,Roosevelt,5,0,96,64
+154,Packard Building,False,1530 12th Ave,Seattle,WA,98122,Capitol Hill,5,0,99,85
+155,Uwajimaya Village,False,521 S Weller St,Seattle,WA,98104,Chinatown,0,1,98,100
+156,The Blake Apartments,False,5020 California Ave SW,Seattle,WA,98136,Junction,0,5,92,53
+157,Rollin Street,False,120 Westlake Ave,Seattle,WA,98109,South Lake Union,5,0,99,100
+158,TraVigne on 11th,False,4726 11th Ave NE,Seattle,WA,98105,University District,0,4,99,80
+159,Vox,False,1527 15th Ave,Seattle,WA,98122,Capitol Hill,5,0,99,80
+160,Cedar Park Senior Affordable Apartments,False,12740 30th Ave NE,Seattle,WA,98125,Lake City,4,0,89,59
+161,Prism,False,10711 8th Ave NE,Seattle,WA,98125,Maple Leaf,0,12,92,63
+162,Orion,False,910 John St,Seattle,WA,98109,South Lake Union,5,0,98,95
+163,The Perry,False,1001 Minor Ave,Seattle,WA,98104,First Hill,5,0,98,100
+164,Metroline Flats,False,915 E Spruce St,Seattle,WA,98104,First Hill,0,0,94,100
+165,Cypress,False,120 Broadway,Seattle,WA,98122,First Hill,4,0,94,100
+166,Upton Flats,False,3490 SW Graham St,Seattle,WA,98126,High Point,0,14,71,52
+167,The Summit at Lake Union,False,1735 Dexter Ave N,Seattle,WA,98109,Westlake,0,5,71,70
+168,Greenhouse Apartments,False,3701 S Hudson St,Seattle,WA,98118,Columbia City,0,4,94,60
+169,The Danforth,False,1425 Spring St,Seattle,WA,98122,Capitol Hill,5,0,99,96
+170,Cosmopolitan,False,400 NE 45th St,Seattle,WA,98105,Wallingford,4,0,91,79
+171,Epicenter,False,620 N 34th St,Seattle,WA,98103,Fremont,5,0,98,64
+172,Muse,False,1515 Bellevue Ave,Seattle,WA,98122,Capitol Hill,4,0,99,100
+173,Union Park,False,1310 Minor Ave,Seattle,WA,98101,First Hill,0,3,99,100
+174,The Martin,False,2105 5th Ave,Seattle,WA,98121,Belltown,0,2,99,100
+175,Keelson Ballard,False,1537 NW 56TH St,Seattle,WA,98107,Seattle,5,0,97,56
+176,Helix Ellipse,False,4751 12th Ave NE,Seattle,WA,98105,University District,5,0,99,80
+177,The Whittaker,False,4755 Fauntleroy Way SW,Seattle,WA,98116,Genesee,0,1,95,54
+178,Promenade at the Park,False,3215 NE 143rd St,Seattle,WA,98125,Lake City,0,3,64,51
+179,Willows Court,False,12316 28th Ave NE,Seattle,WA,98125,Lake City,0,8,88,60
+180,King Arthurs Court,False,12728 NE 28th Ave,Seattle,WA,98125,Lake City,0,6,87,59
+181,Guinevere,False,522 N 85th St,Seattle,WA,98103,Ballard,0,23,93,54
+182,Astro Apartments,False,315 1st Ave N,Seattle,WA,98109,Lower Queen Anne,5,0,96,77
+183,4730 California,False,4730 California Ave SW,Seattle,WA,98116,Junction,0,4,98,54
+184,Brookstone Apartments,False,3231 S 204th St,Seattle,WA,98198,Seatac,0,4,41,55
+185,Verse Seattle,False,402 22nd Ave S,Seattle,WA,98144,Atlantic,0,2,91,72
+186,True North,False,801 Dexter Ave N,Seattle,WA,98109,South Lake Union,0,13,88,85
+187,Neptune,False,912 Dexter Ave N,Seattle,WA,98109,South Lake Union,0,22,82,82
+188,Union SLU,False,905 Dexter Ave N,Seattle,WA,98109,South Lake Union,5,0,89,82
+189,100 on 6th,False,100 6th Ave S,Seattle,WA,98104,Pioneer Square,0,1,98,100
+190,SONATA At Columbia Station,False,3000-3004 S Alaska St,Seattle,WA,98108,Columbia City,5,0,87,64
+191,Willow Court Apartments,False,6901 Delridge Way SW,Seattle,WA,98106,High Point,4,0,41,47
+192,Andante Seattle,False,3031 NE 137th St,Seattle,WA,98125,Lake City,0,3,69,57
+193,Avanti,False,1401 Boren Ave,Seattle,WA,98101,First Hill,0,1,99,100
+194,Cyrene,False,50 University St,Seattle,WA,98101,Downtown Seattle,0,1,98,100
+195,The Redwood Apartments,False,111 21st Ave E,Seattle,WA,98112,Stevens,0,2,90,69
+196,Gilbert Apartments,False,1529 Queen Anne N,Seattle,WA,98109,Queen Anne,5,0,95,62
+197,Lucille on Roosevelt,False,6717 Roosevelt Way NE,Seattle,WA,98115,Roosevelt,5,0,96,59
+198,Holgate 12 Apartments,False,1814 12th Ave S,Seattle,WA,98144,North Beacon Hill,4,0,75,78
+199,Executive Estates,False,1227 NE 143rd St,Seattle,WA,98125,Lake City,0,4,55,50
+200,Nine & Pine,False,1601 9th Ave,Seattle,WA,98101,Denny Triangle,0,1,99,100
+201,M Street,False,910 8th Ave,Seattle,WA,98104,First Hill,5,0,98,100
+202,Maple Leaf Plaza,False,2021 NE 90th St,Seattle,WA,98115,Maple Leaf,0,2,61,52
+203,Avalon Micro Studios,False,3268 SW Avalon Way,Seattle,WA,98126,Fairmount Park,0,2,87,57
+204,Quintessa Apartments,False,201 Yesler Way,Seattle,WA,98104,Pioneer Square,0,1,98,100
+205,Sheridan Beach Terrace,False,15530 Bothell Way NE,Lake Forest Park,WA,98155,Sheridan Beach,4,0,35,0
+206,Junction 160,False,16100 Linden Ave N,Shoreline,WA,98133,Shoreline,0,6,77,52
+207,Sunset Electric,False,1111 E Pine St,Seattle,WA,98122,Capitol Hill,0,5,100,88
+208,REO Flats,False,1525 14th Ave,Seattle,WA,98122,Capitol Hill,0,14,99,82
+209,Cambridge Park Villa,False,6801 S 133rd St,Seattle,WA,98178,Bryn Mawr-Skyway,0,7,20,43
+210,Hayes On Stone Way,False,3627 Stone Way N,Seattle,WA,98103,Fremont,0,2,89,60
+211,Green Lake Village,False,427 NE 72nd St,Seattle,WA,98115,Green Lake,0,8,95,57
+212,Viktoria,False,1915 2nd Ave,Seattle,WA,98101,Pike Place Market,0,14,99,100
+213,Ballard Lofts,False,6450 24th Ave NW,Seattle,WA,98107,Ballard,0,4,85,46
+214,Campus View,False,4322 7th Ave NE,Seattle,WA,98105,University District,4,0,95,82
+215,Dexter,False,2465 Dexter Ave N,Seattle,WA,98109,Queen Anne,4,0,75,66
+216,Oxford Apartments,False,1920 1st Ave,Seattle,WA,98101,Downtown Seattle,4,0,99,100
+217,Zella,False,429 2nd Ave W,Seattle,WA,98119,Lower Queen Anne,0,18,94,72
+218,Alloy,False,802 5th Ave,Seattle,WA,98109,Lower Queen Anne,4,0,95,84
+219,Modera Jackson,False,1801 S Jackson St,Seattle,WA,98144,Central Seattle,5,0,93,78
+220,Array,False,14027 Lake City Way NE,Seattle,WA,98125,Lake City,0,8,65,50
+221,Boxcar,False,975 John St,Seattle,WA,98109,South Lake Union,0,1,99,100
+222,Modera South Lake Union,False,435 Dexter Ave N,Seattle,WA,98109,South Lake Union,0,12,94,90
+223,Metropolitan Park,False,601 S Washington St,Seattle,WA,98104,Chinatown,0,4,98,100
+224,Residences At 3295,False,3295 SW Avalon Way,Seattle,WA,98126,Fairmount Park,0,2,85,57
+225,Fifty Two Apartment,False,4710 20th Ave NE,Seattle,WA,98105,University District,0,2,86,78
+226,Towers on Greenwood,False,8551 Greenwood Ave N,Seattle,WA,98103,Greenwood,0,1,95,55
+227,Vista 7011,False,7011 Roosevelt Way NE,Seattle,WA,98115,Roosevelt,5,0,93,59
+228,North Court Apartments,False,2237 N 106th St,Seattle,WA,98133,North College Park,0,2,68,62
+229,Monticello,False,415 Boren Ave,Seattle,WA,98104,First Hill,0,4,96,100
+230,Collins on Pine,False,1601 13th Ave,Seattle,WA,98122,Capitol Hill,5,0,99,84
+231,8th + Republican,False,430 Eighth Ave N,Seattle,WA,98109,South Lake Union,5,0,96,90
+232,Expo,False,118 Republican St,Seattle,WA,98109,Lower Queen Anne,0,1,97,77
+233,Velo and Ray,False,3636 Stone Way N,Seattle,WA,98103,Wallingford,0,2,89,60
+234,The Bernard,False,115 Warren Ave N,Seattle,WA,98109,Lower Queen Anne,5,0,96,82
+235,Fountain Court,False,2400 4th Ave,Seattle,WA,98121,Belltown,0,2,99,100
+236,Icon Apartments,False,400 S Jackson St,Seattle,WA,98104,Seattle,5,0,98,100
+237,U20 Apartments,False,4536 20th Ave NE,Seattle,WA,98105,University District,5,0,87,80
+238,The Stax,False,5001 Brooklyn Ave NE,Seattle,WA,98105,University District,0,1,99,77
+239,Seattle Urban Studios,False,4730 20th Ave NE,Seattle,WA,98105,University District,5,0,86,78
+240,Montisi,False,4122 36th Ave SW,Seattle,WA,98126,West Seattle,0,2,89,54
+241,Sidney,False,400 Wall St,Seattle,WA,98121,Belltown,5,0,99,100
+242,The Noble Apartments,False,4301 Stone Way N,Seattle,WA,98103,Fremont,0,1,93,63
+243,AMLI 535,False,535 Pontius Ave N,Seattle,WA,98109,South Lake Union,5,0,97,86
+244,Marketside Flats,False,84 Union St,Seattle,WA,98101,Pike Place Market,0,1,98,100
+245,Parla,False,9176 Holman Rd NW,Seattle,WA,98117,Crown Hill,5,0,82,56
+246,Beryl Apt Homes,False,1200 E Pike St,Seattle,WA,98122,Capitol Hill,0,1,99,85
+247,Milan Apartments,False,4300 Aurora Ave N,Seattle,WA,98103,Wallingford,0,11,92,64
+248,Ellis Court,False,2510 Western Ave,Seattle,WA,98121,Belltown,5,0,98,100
+249,Mosaic on Greenwood,False,13543 Greenwood Ave N,Seattle,WA,98133,Broadview,4,0,65,50
+250,Annaliese,False,118 6th Ave N,Seattle,WA,98109,South Lake Union,0,1,98,100
+251,Linden Square,False,13530 Linden Ave N,Seattle,WA,98133,Bitter Lake,0,1,79,52
+252,Soren Apartments,False,5711 24th Ave NW,Seattle,WA,98107,Ballard,0,2,98,54
+253,AVA Ballard,False,5555 14th Ave NW,Seattle,WA,98107,West Woodland,0,2,97,56
+254,Canvas,False,600 Elliott Ave W,Seattle,WA,98119,Lower Queen Anne,0,24,80,62
+255,Illumina Lake Union,False,219 E Garfield St,Seattle,WA,98102,South Lake Union,0,3,79,63
+256,Belay Apartments,False,6559 15th Ave NW,Seattle,WA,98117,Loyal Heights,0,7,91,49
+257,Noba Apartments,False,8022 15th Ave NW,Seattle,WA,98117,Whittier Heights,0,2,88,55
+258,Collage,False,3606 Woodland Park Ave N,Seattle,WA,98103,Fremont,5,0,92,61
+259,Viva,False,1111 E Union St,Seattle,WA,98122,Capitol Hill,0,1,100,89
+260,Brentwood Square,False,13433 Greenwood Ave N,Seattle,WA,98133,Broadview,4,0,57,50
+261,Domaine,False,2483 Birch Ave N,Seattle,WA,98109,Queen Anne,0,2,73,66
+262,The Audrey at Belltown,False,2922 Western Ave,Seattle,WA,98121,Belltown,5,0,96,93
+263,Northgate Apartments,False,11060 NE 2nd Ave,Seattle,WA,98125,Pinehurst,0,2,76,60
+264,AVA Queen Anne,False,330 3rd Ave,Seattle,WA,98119,Lower Queen Anne,5,0,90,71
+265,Delridge Crossing,False,2425 SW Webster St,Seattle,WA,98106,High Point,0,5,46,48
+266,Alley24,False,241 Yale Ave N,Seattle,WA,98109,South Lake Union,0,9,97,89
+267,Jack Apartments,False,1427 11th Ave,Seattle,WA,98122,Capitol Hill,0,1,100,92
+268,Carolina Court,False,527 Eastlake Ave,Seattle,WA,98109,South Lake Union,4,0,95,86
+269,Northline Apartments,False,14359 Linden Ave N,Seattle,WA,98133,Bitter Lake,0,3,72,53
+270,The Galleria,False,10500 Meridian Ave N,Seattle,WA,98133,North College Park,0,4,73,64
+271,Addison on Fourth,False,308 4th Ave S,Seattle,WA,98104,Chinatown,0,5,98,100
+272,The Blakely at Echo Lake (Senior 55+*),False,1140-1160 N 192nd St,Seattle,WA,98133,Seattle,0,1,63,55
+273,Zindorf,False,714 7th Ave,Seattle,WA,98104,First Hill,4,0,98,100
+274,Beacon View,False,1701 12th Ave S,Seattle,WA,98144,North Beacon Hill,0,2,72,85
+275,700 Broadway Apartments,False,700 Broadway Ave E,Seattle,WA,98102,Capitol Hill,0,2,97,80
+276,Janus Apartments,False,121 NW 85th St,Seattle,WA,98117,Greenwood,5,0,95,55
+277,Wharfside Pointe,False,3812-3827 14th Ave W,Seattle,WA,98119,Queen Anne,0,2,69,57
+278,O2,False,2401 3rd Ave,Seattle,WA,98121,Belltown,5,0,99,100
+279,Avant Apartments,False,2112 E Denny Way,Seattle,WA,98122,Stevens,0,2,89,67
+280,Sundodger Apartments,False,4218 Roosevelt Way NE,Seattle,WA,98105,University District,0,1,98,83
+281,THAI BINH APARTMENTS,False,913 S Jackson St,Seattle,WA,98104,Chinatown,4,0,98,100
+282,Pike Flats,False,722 E Pike St,Seattle,WA,98122,Capitol Hill,0,3,100,97
+283,1404 Boylston,False,1404 Boylston Ave,Seattle,WA,98122,Capitol Hill,0,1,100,100
+284,Mysa Apartments,False,3025 NE 130th St,Seattle,WA,98125,Lake City,5,0,88,59
+285,Avalon Belltown Towers,False,210 Wall St,Seattle,WA,98121,Belltown,0,1,99,100
+286,Clarendon,False,105 Warren Ave N,Seattle,WA,98109,Lower Queen Anne,0,1,96,82
+287,AVA Capitol Hill,False,1530 Belmont Ave,Seattle,WA,98122,Capitol Hill,0,3,100,100
+288,AVA Belltown,False,2800-2816 Western Ave,Seattle,WA,98121,Belltown,5,0,97,98
+289,The Park At Northgate,False,10713 Roosevelt Way NE,Seattle,WA,98125,Maple Leaf,4,0,92,63
+290,Citizen,False,1222 E Madison St,Seattle,WA,98122,Capitol Hill,0,3,99,85
+291,Luxe at Meridian,False,10306 Meridian Ave N,Seattle,WA,98133,North College Park,4,0,68,63
+292,Joseph Arnold Lofts,False,62 Cedar St,Seattle,WA,98121,Belltown,0,2,96,99
+293,REV Fremont,False,317 NW 41st St,Seattle,WA,98107,Fremont,5,0,89,66
+294,The Flats at Interbay,False,3036 16th Ave W,Seattle,WA,98119,Interbay,0,2,73,54
+295,Sunset Park,False,11202 2nd Ln SW,Seattle,WA,98146,Highline,0,4,33,0
+296,Westside Flats,False,3233 SW Avalon Way,Seattle,WA,98126,West Seattle,0,1,77,58
+297,Greenlake Terrace Apartments,False,7415 5th Ave NE,Seattle,WA,98115,Green Lake,0,3,93,57
+298,Rooster Apartments,False,900 NE 65th St,Seattle,WA,98115,Seattle,5,0,97,59
+299,Stratus,False,820 Lenora St,Seattle,WA,98121,Denny Triangle,0,1,100,100
+300,Oregon 42,False,4502 42nd Ave SW,Seattle,WA,98116,Junction,0,1,98,54
+301,Tower 801,False,801 Pine St,Seattle,WA,98101,Denny Triangle,5,0,99,100
+302,Aperture on Fifth,False,206 5th Ave N,Seattle,WA,98109,South Lake Union,0,3,97,92
+303,Cirrus,False,2030 8th Ave,Seattle,WA,98121,Denny Triangle,0,1,99,100
+304,The Cornelius Apartments,False,306 Blanchard St,Seattle,WA,98121,Belltown,0,2,99,100
+305,Eastlake Flats,False,2820 Eastlake Ave E,Seattle,WA,98102,Eastlake,0,4,80,63
+306,LaVie at Queen Anne,False,229 Queen Anne Ave,Seattle,WA,98109,Lower Queen Anne,0,1,96,78
+307,Manhattan,False,18243 1st Ave S,Seattle,WA,98148,Seattle,0,1,48,0
+308,Walton Lofts,False,75 Vine St,Seattle,WA,98121,Belltown,5,0,98,100
+309,Axis,False,123 2nd Ave N,Seattle,WA,98109,Lower Queen Anne,0,6,96,91
+310,TRESSA,False,14200 Linden Ave N,Seattle,WA,98133,Bitter Lake,4,0,77,53
+311,Park 3025,False,3025 NE 137th St,Seattle,WA,98125,Lake City,0,5,75,58
+312,City Views,False,3021 SW Bradford St,Seattle,WA,98126,West Seattle,0,3,70,57
+313,Charlesgate,False,2230 4th Ave,Seattle,WA,98121,Belltown,0,1,99,100
+314,1111 East Olive Apartments,False,1111 E Olive St,Seattle,WA,98122,Capitol Hill,0,1,97,87
+315,Elliott Bayview,False,151 John St,Seattle,WA,98109,Lower Queen Anne,5,0,96,91
+316,Charbonneau Apartments,False,1201 Boylston Ave,Seattle,WA,98101,First Hill,0,1,100,100
+317,999 Hiawatha Apartments,False,999 Hiawatha Place South,Seattle,WA,98144,Atlantic,0,2,81,74
+318,Denny 18,False,1823 18th Ave,Seattle,WA,98122,Stevens,5,0,93,72
+319,Robins Nest,False,3272 Fuhrman Ave E,Seattle,WA,98102,Portage Bay,5,0,80,80
+320,A.W. Larson Building,False,3206 Harvard Ave E,Seattle,WA,98102,Portage Bay,5,0,76,76
+321,The Marlborough,False,1220 Boren Ave,Seattle,WA,98101,First Hill,5,0,98,100
+322,VIBE Fremont,False,3601 Greenwood Ave N,Seattle,WA,98103,Fremont,0,8,93,67
+323,Gardner House Apartments,False,2870 S Hanford St,Seattle,WA,98144,Columbia City,4,0,89,71
+324,Reverie,False,3309 Beacon Ave S,Seattle,WA,98144,North Beacon Hill,5,0,79,70
+325,NoCo Apartments,False,4525 Rainier Ave S,Seattle,WA,98118,Columbia City,5,0,93,61
+326,Franklin Station,False,2303 Franklin Ave E,Seattle,WA,98102,Eastlake,5,0,86,52
+327,Autumn Ridge Apartments,False,15135 Stone Ln N,Seattle,WA,98133,Seattle,4,0,71,53
+328,The Westside,False,801 E Thomas St,Seattle,WA,98102,Capitol Hill,0,1,99,84
+329,Balfour Place Apartments - AFFORDABLE,False,1820 Minor Ave,Seattle,WA,98101,Denny Triangle,0,22,98,100
+330,Skyline House Apartments,False,600 W Olympic Pl,Seattle,WA,98119,Seattle,0,1,71,61
+331,The Savoy at Lake City,False,13730 Lake City Way NE,Seattle,WA,98125,Lake City,0,1,68,55
+332,Oslo,False,323 Bellevue Ave E,Seattle,WA,98102,Capitol Hill,5,0,96,87
+333,Harlow Heights,False,4351 15th Ave S,Seattle,WA,98108,Beacon Hill,5,0,73,54
+334,City Watch Apartments,False,4744 41st Ave SW,Seattle,WA,98116,Genesee,0,1,97,54
+335,Hidden Creek Village,False,13751 32nd Ave. N.E.,Seattle,WA,98125,Lake City,0,2,65,56
+336,Nolan and Nora,False,4717 Brooklyn Ave NE,Seattle,WA,98105,University District,5,0,99,80
+337,Meridian Place Apartments,False,10711 Meridian Ave N,Seattle,WA,98133,North College Park,4,0,70,63
+338,Coronado Springs,False,1400 SW 107th St,Seattle,WA,98146,White Center,2,0,62,44
+339,Greenwood Place Apartments,False,14307 Greenwood Ave N,Seattle,WA,98133,Broadview,0,3,60,50
+340,Northbrook Place,False,10215 Lake City Way,Seattle,WA,98125,Lake City,0,5,51,52
+341,Vali Hai,False,800 1st Ave N,Seattle,WA,98109,Lower Queen Anne,4,0,96,72
+342,AJ Apartments,False,4505 42nd Ave SW,Seattle,WA,98116,Junction,5,0,98,54
+343,Sandpiper Apartments,False,3100 S 208th St,Seattle,WA,98198,Seattle,0,3,31,55
+344,La Vista Apartments,False,5565 152nd St,Seattle,WA,98188,Tukwila Urban Center,0,1,25,46
+345,Modern Luxe Condos,False,300 Lenora St,Seattle,WA,98121,Belltown,3,0,99,100
+346,Solis,False,1300 E Pike St,Seattle,WA,98122,Capitol Hill,5,0,99,85
+347,Mcguire Court Apartments,False,10740 NE 8th Ave,Seattle,WA,98125,Maple Leaf,0,1,92,63
+348,Muir Apartments,False,718 Rainier Ave S,Seattle,WA,98114,Atlantic,5,0,92,89
+349,Linden Flats Apartments,False,13280 Linden Ave N,Seattle,WA,98133,Bitter Lake,5,0,81,52
+350,The Grove,False,6301 15th Ave NW,Seattle,WA,98107,Ballard,4,0,93,53
+351,The Nelson,False,14300 Greenwood Ave N,Seattle,WA,98133,Bitter Lake,5,0,62,51
+352,Lillehammer,False,7016 15th Ave NW,Seattle,WA,98117,Whittier Heights,5,0,89,50
+353,Lake Washington Apartments,False,9061 Seward Park Ave S,Seattle,WA,98118,Dunlap,2,0,77,48
+354,Carkeek Park Place,False,431 NW 100th Pl,Seattle,WA,98177,Greenwood,5,0,81,56
+355,Lake City Court,False,12536 33rd Ave NE,Seattle,WA,98125,Lake City,4,0,85,58
+356,Sanford Hildebrandt Seattle Active Seniors,False,747 N 135th St,Seattle,WA,98133,Bitter Lake,4,0,71,52
+357,TOD Apartments,False,120 10th Ave E,Seattle,WA,98102,Capitol Hill,5,0,97,86
+358,Rainier Vista,False,4616 Martin Luther King Jr Way S,Seattle,WA,98108,Columbia City,3,0,87,64
+359,Watercrest,False,14812 Bothell Way NE,Lake Forest Park,WA,98155,Sheridan Beach,0,1,52,0
+360,Arbour Court Apartments,False,2225 S 112th St,Burien,WA,98168,Southern Heights-Boulevard Park,0,5,34,0
+361,11326 3rd Ave NE Unit 103,False,11326 3rd Ave NE Unit 103,Seattle,WA,98125,Pinehurst,0,0,91,60
+362,LUNA,False,2745 California Ave SW,Seattle,WA,98116,North Admiral,5,0,91,41
+363,Verve Flats,False,4302 7th Ave NE,Seattle,WA,98105,University District,5,0,95,82
+364,Stockbridge,False,1330 Boren Ave,Seattle,WA,98101,First Hill,4,0,99,100
+365,Ruth Court,False,123 18th Ave E,Seattle,WA,98112,Stevens,5,0,93,72
+366,Kulle Urban Living,False,1815 Bellevue Ave,Seattle,WA,98122,Capitol Hill,0,1,99,100
+367,Clearwater Apartments - Star Apartments,False,167 11th Ave,Seattle,WA,98122,Minor,0,1,94,100
+368,Elan 41,False,4100 SW Edmunds St SW,Seattle,WA,98116,Junction,4,0,98,54
+369,Valdok,False,1701 NW 56th St,Seattle,WA,98107,Ballard,0,1,97,56
+370,Twenty20 Mad,False,2020 E Madison St,Seattle,WA,98122,Seattle,0,1,92,70
+371,Northbridge Apartments,False,3800 Aurora Ave N,Seattle,WA,98103,Fremont,0,1,94,66
+372,Rainier View Homes,False,12672 60th Ave S,Seattle,WA,98178,Bryn Mawr-Skyway,5,0,30,40
+373,The Ludlow,False,701-711 E Pike St,Seattle,WA,98122,Capitol Hill,4,0,100,100
+374,Jackson Apartments,False,2401 S Jackson St,Seattle,WA,98144,Atlantic,0,0,90,70
+375,Taylor Creek,False,7050 S 116th Pl,Seattle,WA,98178,Bryn Mawr-Skyway,5,0,42,39
+376,Mad Flats,False,1523 E Madison St,Seattle,WA,98122,Stevens,5,0,98,77
+377,The Edge,False,500 13th Ave E,Seattle,WA,98102,Capitol Hill,4,0,97,78
+378,Ori on The Ave,False,5260 University Way NE,Seattle,WA,98105,University District,4,0,97,74
+379,Puget Vista,False,411 W Republican St,Seattle,WA,98119,Lower Queen Anne,0,1,87,68
+380,Circa Green Lake Apartments,False,6900 E Green Lake Way N,Seattle,WA,98115,Green Lake,0,6,95,56
+381,The Weatherford,False,1321 E John St,Seattle,WA,98102,Capitol Hill,4,0,98,78
+382,Spring Lake Apartments,False,12530 35th Ave NE,Seattle,WA,98125,Lake City,0,1,86,58
+383,Huxley,False,4754 Fauntleroy Way SW,Seattle,WA,98116,Fairmount Park,0,1,92,54
+384,SOUTHSIDE BY VINTAGE,False,125 SW 112th St,Seattle,WA,98168,Highline,4,0,45,36
+385,The Sedges - Property,False,8623 N Palatine Ave N,Seattle,WA,98103,Greenwood,5,0,96,54
+386,Rubix,False,515 Harvard Ave E,Seattle,WA,98102,Capitol Hill,5,0,98,83
+387,The Central,False,2203-2207 E Union St,Seattle,WA,98122,Minor,0,3,91,65
+388,Hill Crest,False,7524 35th Ave SW,Seattle,WA,98126,Roxhill,0,5,56,45
+389,Union Arms Apartments,False,604-614 E Union St,Seattle,WA,98122,Capitol Hill,0,1,100,100
+390,Parkridge Apartments,False,1210 15th Ave,Seattle,WA,98112,Stevens,4,0,71,62
+391,Common Summit,False,1722 Summit Ave,Seattle,WA,98122,Capitol Hill,3,0,99,99
+392,Magnolia and Magnolia Crest,False,3520 28th Ave W,Seattle,WA,98199,Lawton Park,0,1,60,42
+393,Riverview West Apartments,False,10300 Des Moines Memorial Dr,Seattle,WA,98168,Southern Heights-Boulevard Park,0,4,29,35
+394,1715 Apartments,False,1715 NW 58th St,Seattle,WA,98107,Seattle,0,1,98,56
+395,PARK HILL/GREENTREE APARTMENTS,False,6900 S 125th St,Seattle,WA,98178,Renton,4,0,37,0
+396,Lake Union Tower,False,766 Garfield St,Seattle,WA,98109,Westlake,0,1,78,73
+397,The Mill at First Hill,False,1000 8th Ave,Seattle,WA,98104,First Hill,0,15,98,100
+398,Lakeview Apartments,False,1551-1559 Lakeview Blvd E,Seattle,WA,98102,Capitol Hill,3,0,77,60
+399,The Q Apartments,False,1321 Queen Anne Ave N,Seattle,WA,98109,Lower Queen Anne,5,0,92,61
+400,Mio Apartments,False,1319 NE 65th St,Seattle,WA,98115,Roosevelt,0,0,96,59
+401,Nova,False,4600 36th Ave SW,Seattle,WA,98126,Fairmount Park,0,2,89,54
+402,Normandy Apartments,False,4040 8th Ave NE,Seattle,WA,98105,University District,0,1,94,84
+403,Spencer House,False,10541 Stone Ave N,Seattle,WA,98133,Haller Lake,0,2,86,60
+404,Star Apartments,False,170 11th Ave,Seattle,WA,98122,Minor,4,0,94,100
+405,Blue Ridge Apartments,False,9600 9th Ave NW,Seattle,WA,98117,Crown Hill,3,0,68,53
+406,The Portland Building,False,5403 Ballard Ave NW,Seattle,WA,98107,Ballard,4,0,95,55
+407,Altamira Apartments,False,4540 42nd Ave SW,Seattle,WA,98116,Junction,0,2,98,54
+408,HANA Apartments,False,101 6th Ave S,Seattle,WA,98104,Pioneer Square,0,11,98,100
+409,Paul Revere,False,1018 9th Ave,Seattle,WA,98104,First Hill,0,2,98,100
+410,Vermont Inn,False,2721 4th Ave,Seattle,WA,98121,Belltown,4,0,99,100
+411,725c 16th Ave,False,725c 16th Ave,Seattle,WA,98122,Minor,0,0,86,77
+412,2100 3rd Ave Unit 1401,False,2100 3rd Ave Unit 1401,Seattle,WA,98121,Belltown,0,0,99,100
+413,2415 2nd Ave Unit 535,False,2415 2nd Ave Unit 535,Seattle,WA,98121,Belltown,0,0,99,100
+414,The Olivian,False,809 Olive Way,Seattle,WA,98101,Denny Triangle,0,2,99,100
+415,4505 40th Ave SW Unit A,False,4505 40th Ave SW Unit A,Seattle,WA,98116,Genesee,0,0,96,54
+416,4410 Montana Cir,False,4410 Montana Cir,Seattle,WA,98199,Lawton Park,0,0,11,35
+417,4215 Whitman Ave N Unit 104,False,4215 Whitman Ave N Unit 104,Seattle,WA,98103,Fremont,0,0,90,65

@@ -1,0 +1,753 @@
+,propertyName,street,city,state,zipCode,neighborhood,reviewScore,reviewCount,walkScore,transitScore
+0,Jackson Apartments,2401 S Jackson St,Seattle,WA,98144,Atlantic,0,0,90,70
+1,Elan 41,4100 SW Edmunds St SW,Seattle,WA,98116,Junction,4,0,98,54
+2,Circa Green Lake Apartments,6900 E Green Lake Way N,Seattle,WA,98115,Green Lake,0,6,95,56
+3,LUNA,2745 California Ave SW,Seattle,WA,98116,North Admiral,5,0,91,41
+4,Tower 12,2015 2nd Ave,Seattle,WA,98121,Pike Place Market,0,4,98,100
+5,Common Summit,1722 Summit Ave,Seattle,WA,98122,Capitol Hill,3,0,99,99
+6,Harbor Steps,1221 1st Ave,Seattle,WA,98101,Downtown Seattle,0,5,98,100
+7,Ballard 57 Apartments,1731 NW 57th St,Seattle,WA,98107,Ballard,5,0,97,55
+8,Fox & Finch Apartments,525 Boren Ave N,Seattle,WA,98109,South Lake Union,5,0,98,88
+9,Tellus on Dexter Apartments,403 Dexter Ave N,Seattle,WA,98109,South Lake Union,5,0,94,93
+10,Lane,10720 5th Ave NE,Seattle,WA,98125,Maple Leaf,0,1,91,63
+11,Overlook at Magnolia,3520 27th Pl W,Seattle,WA,98199,Lawton Park,0,5,52,44
+12,Met Tower,1942-1942 Westlake Ave,Seattle,WA,98101,Denny Triangle,0,5,99,100
+13,Olympus,2801 Western Ave,Seattle,WA,98121,Belltown,0,5,95,95
+14,The Olivian,809 Olive Way,Seattle,WA,98101,Denny Triangle,0,2,99,100
+15,Leilani Apartment Homes,10215 Greenwood Ave N,Seattle,WA,98133,Greenwood,0,5,84,57
+16,Airmark Apartments,229 Andover Park E,Seattle,WA,98188,Tukwila Urban Center,5,0,60,48
+17,Assembly118,4200 S Othello St,Seattle,WA,98118,Brighton,5,0,84,66
+18,Helm,625 Boren Ave,Seattle,WA,98109,South Lake Union,0,8,96,86
+19,Mera,630 Boren Ave N,Seattle,WA,98109,South Lake Union,0,2,97,85
+20,Origin Apartments,12311 32nd Ave NE,Seattle,WA,98125,Lake City,0,1,90,59
+21,Chloe on Union,1408-1412 E Union St,Seattle,WA,98122,Minor,0,1,98,82
+22,Griffis Belltown,2400 ELLIOTT Ave,Seattle,WA,98121,Belltown,0,5,97,100
+23,Charbern Apartments,1705 Belmont Ave,Seattle,WA,98122,Capitol Hill,4,0,99,100
+24,AMLI South Lake Union,1260 Republican St,Seattle,WA,98109,South Lake Union,0,3,96,86
+25,ArtHouse,2334 Elliott Ave,Seattle,WA,98121,Belltown,0,4,97,100
+26,AMLI Mark24,2428 NW Market St,Seattle,WA,98107,Ballard,0,2,97,54
+27,The Station At Othello Park,4219 S Othello St,Seattle,WA,98118,Brighton,0,24,87,66
+28,Elara At The Market,2134 Western Ave,Seattle,WA,98121,Belltown,0,1,98,100
+29,Pike Motorworks,715 E Pine St,Seattle,WA,98122,Capitol Hill,0,1,100,97
+30,Via 6,2121 6th Ave,Seattle,WA,98121,Denny Triangle,0,53,99,100
+31,Cascade,221 Minor Ave N,Seattle,WA,98109,South Lake Union,4,0,99,92
+32,Park South,10102 8th Ave S,Seattle,WA,98168,Southern Heights-Boulevard Park,0,12,35,0
+33,Spruce,4555 39th Ave SW,Seattle,WA,98116,Genesee,0,8,95,54
+34,Mark on 8th,285 8th Ave N,Seattle,WA,98109,South Lake Union,0,1,97,95
+35,The Mill at First Hill,1000 8th Ave,Seattle,WA,98104,First Hill,0,15,98,100
+36,Lofts at the Junction,4535 44th Ave SW,Seattle,WA,98116,Junction,5,0,97,53
+37,Centennial Tower and Court,2515 4th Ave,Seattle,WA,98121,Belltown,0,7,99,100
+38,Helios,1600 2nd Ave,Seattle,WA,98101,Downtown Seattle,0,1,99,100
+39,Saxton,520 Terry Ave,Seattle,WA,98104,First Hill,0,2,96,100
+40,Odin,5398 Russell Ave NW,Seattle,WA,98107,Ballard,5,0,97,56
+41,Vive,1516 NW 51st St,Seattle,WA,98107,Ballard,5,0,94,56
+42,Bogtown Flats,9039 Greenwood Ave N,Seattle,WA,98103,Seattle,0,1,87,58
+43,Westlake Steps,1207 Westlake Ave N,Seattle,WA,98109,Westlake,5,0,78,79
+44,AMLI Arc,1800 Boren Ave,Seattle,WA,98101,Denny Triangle,5,0,99,100
+45,JUXT,810 Dexter Ave N,Seattle,WA,98109,South Lake Union,0,1,90,85
+46,CityLine,4740 32nd Ave S,Seattle,WA,98118,Columbia City,0,1,92,64
+47,Lightbox,4545 8th Ave NE,Seattle,WA,98105,University District,0,3,94,80
+48,One Lakefront,1287 Westlake Ave N,Seattle,WA,98109,Westlake,5,0,78,73
+49,Rivet Apartments,1201 Mercer St,Seattle,WA,98109,South Lake Union,0,1,97,86
+50,The Kennedy Building,907 NE 45th St,Seattle,WA,98105,University District,5,0,97,82
+51,Infinity Apartments,1414 10th Ave,Seattle,WA,98122,Capitol Hill,5,0,100,92
+52,Bowman,3801 Stone Way N,Seattle,WA,98103,Fremont,5,0,89,64
+53,Sitka,1255 Harrison St,Seattle,WA,98109,South Lake Union,0,16,97,89
+54,Ascent South Lake Union,1145 Republican St,Seattle,WA,98109,South Lake Union,0,15,99,91
+55,Marlowe,1146 Harrison St,Seattle,WA,98109,South Lake Union,0,7,99,91
+56,McKenzie,2202 Eighth Ave,Seattle,WA,98121,Denny Triangle,0,23,100,100
+57,624 Yale,624 Yale Ave N,Seattle,WA,98109,South Lake Union,0,3,93,84
+58,STAZIONE25,2615 25th Ave S,Seattle,WA,98144,North Beacon Hill,5,0,80,73
+59,St. James Tower,920 N 34th St,Seattle,WA,98103,Fremont,5,0,95,63
+60,Cadence,3040 NW Market St,Seattle,WA,98107,Ballard,4,0,84,51
+61,Alexan 100,100 Denny Way,Seattle,WA,98109,Lower Queen Anne,0,0,96,82
+62,Vida Seattle,1205 NE 66th St,Seattle,WA,98115,Roosevelt,0,1,97,59
+63,Sedona Apartments,8500 20th Ave NE,Seattle,WA,98115,Wedgewood,0,4,69,52
+64,Kiara,111 Terry Ave N,Seattle,WA,98109,South Lake Union,5,0,99,100
+65,Broadstone Sky,4745 40th Ave,Seattle,WA,98116,Genesee,5,0,97,54
+66,Overlook at Westridge,600 SW Kenyon St,Seattle,WA,98106,Highland Park,0,5,45,42
+67,Batik,123 Broadway,Seattle,WA,98122,First Hill,5,0,92,100
+68,Malloy,4337 15th Ave NE,Seattle,WA,98105,University District,4,0,99,83
+69,Premiere on Pine,1525 9th Ave,Seattle,WA,98101,Denny Triangle,0,5,99,100
+70,Garden Pointe,130 SW 112th St,Seattle,WA,98146,Highline,0,1,45,0
+71,HANA Apartments,101 6th Ave S,Seattle,WA,98104,Pioneer Square,0,11,98,100
+72,Sorento Flats,1414 E Yesler Way,Seattle,WA,98122,Minor,0,5,92,93
+73,Rise on 67th,829 NE 67th St,Seattle,WA,98115,Roosevelt,0,5,95,59
+74,Derby South Lake Union,1210 Republican St,Seattle,WA,98109,South Lake Union,5,0,97,86
+75,Oakwood Residence Seattle South Lake Union,717 N Dexter Ave,Seattle,WA,98109,South Lake Union,5,0,88,85
+76,Novo Seattle,6105 Roosevelt Way NE,Seattle,WA,98115,Roosevelt,5,0,97,66
+77,Maude Urban Living,836 NE 67th St,Seattle,WA,98115,Roosevelt,0,2,95,59
+78,Common Madison,1806 23rd Ave,Seattle,WA,98122,Mann,5,0,89,66
+79,Chroma SLU,1212 Harrison St,Seattle,WA,98109,South Lake Union,5,0,98,88
+80,Kinects Tower,1823 Minor Ave,Seattle,WA,98101,Denny Triangle,0,6,98,100
+81,Arrive,2116 4th Ave,Seattle,WA,98121,Belltown,5,0,99,100
+82,Verve Apartments,2720 4th Ave,Seattle,WA,98121,Denny Triangle,0,10,98,99
+83,Thornton Place,337 NE 103rd St,Seattle,WA,98125,Seattle,0,1,79,64
+84,Vertex Off Broadway,802 E Thomas St,Seattle,WA,98102,Capitol Hill,5,0,99,84
+85,Excelsior,1535 Bellevue Ave,Seattle,WA,98122,Capitol Hill,0,12,99,100
+86,Leeward,1305 Dexter Ave N,Seattle,WA,98109,Lake Union,0,11,77,77
+87,The Shelby,2201 4th Ave,Seattle,WA,98121,Belltown,0,6,99,100
+88,Koi,1139 NW Market St,Seattle,WA,98107,Ballard,0,5,94,57
+89,Alto Apartments,311 Cedar St,Seattle,WA,98121,Belltown,0,11,99,100
+90,206 Bell,206 BELL St,Seattle,WA,98121,Belltown,0,14,99,100
+91,East Howe Steps,1823 Eastlake Ave E,Seattle,WA,98102,Eastlake,0,6,77,63
+92,The Post,888 Western Ave,Seattle,WA,98104,Downtown Seattle,0,15,98,100
+93,The Wilcox,2003 NW 57th St,Seattle,WA,98107,Ballard,0,10,98,55
+94,Aura West Seattle,4435 35th Ave SW,Seattle,WA,98126,Fairmount Park,0,9,85,57
+95,Stack House,1280 Harrison St,Seattle,WA,98109,South Lake Union,0,10,96,86
+96,Ballard on the Park,2233 NW 58th St,Seattle,WA,98107,Ballard,0,8,98,54
+97,Summit At Madison Park,1819 23rd Ave,Seattle,WA,98122,Minor,0,14,90,68
+98,Element 42,2641 42nd Ave SW,Seattle,WA,98116,North Admiral,0,8,92,42
+99,The Loop,407 NE 73rd St,Seattle,WA,98115,Green Lake,4,0,95,56
+100,3030 Lake City,3030 NE 143rd St,Seattle,WA,98125,Lake City,4,0,58,51
+101,Westhaven Apartments,2201 SW Holden St,Seattle,WA,98106,South Delridge,0,20,51,48
+102,Wilsonian,4710 University Way NE,Seattle,WA,98105,University District,5,0,99,80
+103,The M,4700 Brooklyn NE,Seattle,WA,98105,University District,5,0,99,80
+104,Square One,1020 NE 63rd St,Seattle,WA,98115,Roosevelt,5,0,96,64
+105,Rollin Street,120 Westlake Ave,Seattle,WA,98109,South Lake Union,5,0,99,100
+106,100 on 6th,100 6th Ave S,Seattle,WA,98104,Pioneer Square,0,1,98,100
+107,Packard Building,1530 12th Ave,Seattle,WA,98122,Capitol Hill,5,0,99,85
+108,Marq 211,211 Lenora St,Seattle,WA,98121,Seattle,5,0,99,100
+109,The Redwood Apartments,111 21st Ave E,Seattle,WA,98112,Stevens,0,2,90,69
+110,Vantage Park Apartments,1011 E Terrace St,Seattle,WA,98122,Minor,5,0,94,100
+111,Union Bay,526 Yale Ave N,Seattle,WA,98109,South Lake Union,5,0,95,86
+112,2900 On First,2900 1st Ave,Seattle,WA,98121,Belltown,0,150,96,93
+113,Harrison Square,312 2nd Ave W,Seattle,WA,98119,Lower Queen Anne,5,0,92,74
+114,Lighthouse Apartments,7901 Delridge Way SW,Seattle,WA,98106,South Delridge,0,6,46,52
+115,Taylor 28,100 Taylor Ave N,Seattle,WA,98109,South Lake Union,5,0,98,100
+116,Metro on First,215 1st Ave W,Seattle,WA,98119,Lower Queen Anne,0,2,94,77
+117,Aspira Apartments,1823 Terry Ave,Seattle,WA,98101,Denny Triangle,0,3,100,100
+118,LEVA On Market,1545 NW Market St,Seattle,WA,98107,Ballard,0,4,97,56
+119,Adell Apartments,4532 SW 42nd Ave,Seattle,WA,98116,West Seattle,0,0,98,54
+120,Augusta Apartments,4041 Roosevelt Way NE,Seattle,WA,98105,University District,0,1,94,84
+121,Cielo,800 Seneca St,Seattle,WA,98101,First Hill,0,6,98,100
+122,Axle,3230 16th Ave W,Seattle,WA,98119,Interbay,5,0,75,53
+123,AMLI Wallingford,1850 N 34th St,Seattle,WA,98103,Wallingford,5,0,71,61
+124,Seventh and James,600 7th Ave,Seattle,WA,98104,First Hill,0,1,97,100
+125,John Winthrop Apartments,1020 Seneca St,Seattle,WA,98101,First Hill,4,0,98,100
+126,2300 Elliott,2300 Elliott Ave,Seattle,WA,98121,Belltown,4,0,97,100
+127,Urbana,1501 NW 56th St,Seattle,WA,98107,Ballard,0,2,97,56
+128,Youngstown Flats,4040 26th Ave SW,Seattle,WA,98106,North Delridge,0,3,73,57
+129,Panorama Apartments,1100 University St,Seattle,WA,98101,First Hill,4,0,98,100
+130,Coppins Well,1000 Minor Ave,Seattle,WA,98104,First Hill,0,3,99,100
+131,Washington Terrace Senior Affordable Apart...,120 6th Ave S,Seattle,WA,98104,Pioneer Square,4,0,98,100
+132,Slate Apartments,3040 17th W,Seattle,WA,98119,Seattle,0,5,73,54
+133,The Enclave,525 NE Northgate Way,Seattle,WA,98125,Maple Leaf,0,9,93,60
+134,The Eden Apartments,602-602 Galer St,Seattle,WA,98109,Queen Anne,4,0,53,71
+135,Haller Post,1130 N 115th St,Seattle,WA,98133,Seattle,0,4,52,54
+136,Skye at Belltown,500 Wall St,Seattle,WA,98121,Belltown,0,2,99,100
+137,Springline,3220 California Ave SW,Seattle,WA,98116,North Admiral,5,0,89,45
+138,The Heights on Capitol Hill,130 Harvard Ave E,Seattle,WA,98102,Capitol Hill,5,0,99,91
+139,Rianna,810 12th Ave,Seattle,WA,98122,Minor,0,1,93,89
+140,Uwajimaya Village,521 S Weller St,Seattle,WA,98104,Chinatown,0,1,98,100
+141,The Pearl,1530 15th Ave,Seattle,WA,98122,Stevens,0,1,99,80
+142,Anthem on 12th,103 12th Ave,Seattle,WA,98122,Minor,0,3,95,100
+143,Marq West Seattle,3261 SW Avalon Way,Seattle,WA,98126,North Delridge,0,16,81,58
+144,Alcyone,301 Minor Ave N,Seattle,WA,98109,South Lake Union,5,0,99,90
+145,Moda,2312 3rd Ave,Seattle,WA,98121,Belltown,0,4,99,100
+146,Chloe on Madison,1401-1409 E Madison St,Seattle,WA,98122,Minor,5,0,99,82
+147,Three20,320 E Pine St,Seattle,WA,98122,Capitol Hill,0,1,97,100
+148,Junction 47,4209 SW Alaska St,Seattle,WA,98116,Junction,0,3,98,54
+149,The Blake Apartments,5020 California Ave SW,Seattle,WA,98136,Junction,0,5,92,53
+150,TraVigne on 11th,4726 11th Ave NE,Seattle,WA,98105,University District,0,4,99,80
+151,The Whittaker,4755 Fauntleroy Way SW,Seattle,WA,98116,Genesee,0,1,95,54
+152,The Summit at Lake Union,1735 Dexter Ave N,Seattle,WA,98109,Westlake,0,5,71,70
+153,Vox,1527 15th Ave,Seattle,WA,98122,Capitol Hill,5,0,99,80
+154,4730 California,4730 California Ave SW,Seattle,WA,98116,Junction,0,4,98,54
+155,Astro Apartments,315 1st Ave N,Seattle,WA,98109,Lower Queen Anne,5,0,96,77
+156,Union SLU,905 Dexter Ave N,Seattle,WA,98109,South Lake Union,5,0,89,82
+157,Angeline Apartments,4801 Rainier Ave S,Seattle,WA,98118,Columbia City,0,5,95,61
+158,Muse,1515 Bellevue Ave,Seattle,WA,98122,Capitol Hill,4,0,99,100
+159,Greenhouse Apartments,3701 S Hudson St,Seattle,WA,98118,Columbia City,0,4,94,60
+160,Prism,10711 8th Ave NE,Seattle,WA,98125,Maple Leaf,0,12,92,63
+161,Cedar Park Senior Affordable Apartments,12740 30th Ave NE,Seattle,WA,98125,Lake City,4,0,89,59
+162,The Danforth,1425 Spring St,Seattle,WA,98122,Capitol Hill,5,0,99,96
+163,The LeeAnn,701 5th Ave N,Seattle,WA,98109,Lower Queen Anne,5,0,96,87
+164,Orion,910 John St,Seattle,WA,98109,South Lake Union,5,0,98,95
+165,Cosmopolitan,400 NE 45th St,Seattle,WA,98105,Wallingford,4,0,91,79
+166,Epicenter,620 N 34th St,Seattle,WA,98103,Fremont,5,0,98,64
+167,Metroline Flats,915 E Spruce St,Seattle,WA,98104,First Hill,0,0,94,100
+168,Cypress,120 Broadway,Seattle,WA,98122,First Hill,4,0,94,100
+169,The Perry,1001 Minor Ave,Seattle,WA,98104,First Hill,5,0,98,100
+170,Union Park,1310 Minor Ave,Seattle,WA,98101,First Hill,0,3,99,100
+171,The Martin,2105 5th Ave,Seattle,WA,98121,Belltown,0,2,99,100
+172,Upton Flats,3490 SW Graham St,Seattle,WA,98126,High Point,0,14,71,52
+173,East Union,Union St @ 23rd ave,Seattle,WA,98122,Minor,5,0,93,65
+174,Keelson Ballard,1537 NW 56TH St,Seattle,WA,98107,Seattle,5,0,97,56
+175,Helix Ellipse,4751 12th Ave NE,Seattle,WA,98105,University District,5,0,99,80
+176,Dimension,225 Cedar St,Seattle,WA,98121,Belltown,0,2,99,100
+177,Guinevere,522 N 85th St,Seattle,WA,98103,Ballard,0,23,93,54
+178,Promenade at the Park,3215 NE 143rd St,Seattle,WA,98125,Lake City,0,3,64,51
+179,Willows Court,12316 28th Ave NE,Seattle,WA,98125,Lake City,0,8,88,60
+180,King Arthurs Court,12728 NE 28th Ave,Seattle,WA,98125,Lake City,0,6,87,59
+181,Brookstone Apartments,3231 S 204th St,Seattle,WA,98198,Seatac,0,4,41,55
+182,Verse Seattle,402 22nd Ave S,Seattle,WA,98144,Atlantic,0,2,91,72
+183,True North,801 Dexter Ave N,Seattle,WA,98109,South Lake Union,0,13,88,85
+184,Neptune,912 Dexter Ave N,Seattle,WA,98109,South Lake Union,0,22,82,82
+185,Pratt Park Apartments,1800 S Jackson St,Seattle,WA,98144,Atlantic,0,3,93,78
+186,SONATA At Columbia Station,3000-3004 S Alaska St,Seattle,WA,98108,Columbia City,5,0,87,64
+187,Ivy Ridge,4730 21st Ave NE,Seattle,WA,98105,University District,0,12,86,78
+188,Iron Flats,828 NE 66th St,Seattle,WA,98115,Roosevelt,5,0,95,59
+189,MOD Apartments,6559 35th Ave NE,Seattle,WA,98115,Ravenna,5,0,78,51
+190,Medora,6810 Roosevelt Way NE,Seattle,WA,98115,Roosevelt,5,0,96,59
+191,Hillview,12825 60th Ln S,Seattle,WA,98178,Bryn Mawr-Skyway,0,1,30,0
+192,Willow Court Apartments,6901 Delridge Way SW,Seattle,WA,98106,High Point,4,0,41,47
+193,Andante Seattle,3031 NE 137th St,Seattle,WA,98125,Lake City,0,3,69,57
+194,Avanti,1401 Boren Ave,Seattle,WA,98101,First Hill,0,1,99,100
+195,Cyrene,50 University St,Seattle,WA,98101,Downtown Seattle,0,1,98,100
+196,Gilbert Apartments,1529 Queen Anne N,Seattle,WA,98109,Queen Anne,5,0,95,62
+197,Lucille on Roosevelt,6717 Roosevelt Way NE,Seattle,WA,98115,Roosevelt,5,0,96,59
+198,Holgate 12 Apartments,1814 12th Ave S,Seattle,WA,98144,North Beacon Hill,4,0,75,78
+199,Executive Estates,1227 NE 143rd St,Seattle,WA,98125,Lake City,0,4,55,50
+200,Nine & Pine,1601 9th Ave,Seattle,WA,98101,Denny Triangle,0,1,99,100
+201,M Street,910 8th Ave,Seattle,WA,98104,First Hill,5,0,98,100
+202,Maple Leaf Plaza,2021 NE 90th St,Seattle,WA,98115,Maple Leaf,0,2,61,52
+203,Avalon Micro Studios,3268 SW Avalon Way,Seattle,WA,98126,Fairmount Park,0,2,87,57
+204,Quintessa Apartments,201 Yesler Way,Seattle,WA,98104,Pioneer Square,0,1,98,100
+205,Junction 160,16100 Linden Ave N,Shoreline,WA,98133,Shoreline,0,6,77,52
+206,Sheridan Beach Terrace,15530 Bothell Way NE,Lake Forest Park,WA,98155,Sheridan Beach,4,0,35,0
+207,REO Flats,1525 14th Ave,Seattle,WA,98122,Capitol Hill,0,14,99,82
+208,Sunset Electric,1111 E Pine St,Seattle,WA,98122,Capitol Hill,0,5,100,88
+209,Cambridge Park Villa,6801 S 133rd St,Seattle,WA,98178,Bryn Mawr-Skyway,0,7,20,0
+210,Hayes On Stone Way,3627 Stone Way N,Seattle,WA,98103,Fremont,0,2,89,60
+211,Viktoria,1915 2nd Ave,Seattle,WA,98101,Pike Place Market,0,15,99,100
+212,Ballard Lofts,6450 24th Ave NW,Seattle,WA,98107,Ballard,0,4,85,46
+213,Green Lake Village,427 NE 72nd St,Seattle,WA,98115,Green Lake,0,8,95,57
+214,Campus View,4322 7th Ave NE,Seattle,WA,98105,University District,4,0,95,82
+215,Dexter,2465 Dexter Ave N,Seattle,WA,98109,Queen Anne,4,0,75,66
+216,Oxford Apartments,1920 1st Ave,Seattle,WA,98101,Downtown Seattle,4,0,99,100
+217,Zella,429 2nd Ave W,Seattle,WA,98119,Lower Queen Anne,0,18,94,72
+218,Alloy,802 5th Ave,Seattle,WA,98109,Lower Queen Anne,4,0,95,84
+219,Linden Square,13530 Linden Ave N,Seattle,WA,98133,Bitter Lake,0,1,79,52
+220,Soren Apartments,5711 24th Ave NW,Seattle,WA,98107,Ballard,0,2,98,54
+221,Charlesgate,2230 4th Ave,Seattle,WA,98121,Belltown,0,1,99,100
+222,City Views,3021 SW Bradford St,Seattle,WA,98126,West Seattle,0,3,70,57
+223,Parla,9176 Holman Rd NW,Seattle,WA,98117,Crown Hill,5,0,82,56
+224,Avant Apartments,2112 E Denny Way,Seattle,WA,98122,Stevens,0,2,89,67
+225,Zindorf,714 7th Ave,Seattle,WA,98104,First Hill,4,0,98,100
+226,Modera South Lake Union,435 Dexter Ave N,Seattle,WA,98109,South Lake Union,0,12,94,90
+227,Beacon View,1701 12th Ave S,Seattle,WA,98144,North Beacon Hill,0,2,72,85
+228,700 Broadway Apartments,700 Broadway Ave E,Seattle,WA,98102,Capitol Hill,0,2,97,80
+229,The Audrey at Belltown,2922 Western Ave,Seattle,WA,98121,Belltown,5,0,96,93
+230,Metropolitan Park,601 S Washington St,Seattle,WA,98104,Chinatown,0,4,98,100
+231,The Galleria,10500 Meridian Ave N,Seattle,WA,98133,North College Park,0,4,73,64
+232,Addison on Fourth,308 4th Ave S,Seattle,WA,98104,Chinatown,0,5,98,100
+233,Northline Apartments,14359 Linden Ave N,Seattle,WA,98133,Bitter Lake,0,3,72,53
+234,Jack Apartments,1427 11th Ave,Seattle,WA,98122,Capitol Hill,0,1,100,92
+235,Residences At 3295,3295 SW Avalon Way,Seattle,WA,98126,Fairmount Park,0,2,85,57
+236,8th + Republican,430 Eighth Ave N,Seattle,WA,98109,South Lake Union,5,0,96,90
+237,Modera Jackson,1801 S Jackson St,Seattle,WA,98144,Central Seattle,5,0,93,78
+238,Carolina Court,527 Eastlake Ave,Seattle,WA,98109,South Lake Union,4,0,95,86
+239,Northgate Apartments,11060 NE 2nd Ave,Seattle,WA,98125,Pinehurst,0,2,76,60
+240,AVA Queen Anne,330 3rd Ave,Seattle,WA,98119,Lower Queen Anne,5,0,90,71
+241,Delridge Crossing,2425 SW Webster St,Seattle,WA,98106,High Point,0,5,46,48
+242,Alley24,241 Yale Ave N,Seattle,WA,98109,South Lake Union,0,10,97,89
+243,Domaine,2483 Birch Ave N,Seattle,WA,98109,Queen Anne,0,2,73,66
+244,Belay Apartments,6559 15th Ave NW,Seattle,WA,98117,Loyal Heights,0,7,91,49
+245,Noba Apartments,8022 15th Ave NW,Seattle,WA,98117,Whittier Heights,0,2,88,55
+246,Collage,3606 Woodland Park Ave N,Seattle,WA,98103,Fremont,5,0,92,61
+247,Viva,1111 E Union St,Seattle,WA,98122,Capitol Hill,0,1,100,89
+248,Expo,118 Republican St,Seattle,WA,98109,Lower Queen Anne,0,1,97,77
+249,The Bernard,115 Warren Ave N,Seattle,WA,98109,Lower Queen Anne,5,0,96,82
+250,Array,14027 Lake City Way NE,Seattle,WA,98125,Lake City,0,8,65,50
+251,AVA Ballard,5555 14th Ave NW,Seattle,WA,98107,West Woodland,0,2,97,56
+252,Canvas,600 Elliott Ave W,Seattle,WA,98119,Lower Queen Anne,0,24,80,62
+253,Annaliese,118 6th Ave N,Seattle,WA,98109,South Lake Union,0,1,98,100
+254,Wharfside Pointe,3812-3827 14th Ave W,Seattle,WA,98119,Queen Anne,0,2,69,57
+255,Velo and Ray,3636 Stone Way N,Seattle,WA,98103,Wallingford,0,2,89,60
+256,Collins on Pine,1601 13th Ave,Seattle,WA,98122,Capitol Hill,5,0,99,84
+257,Fountain Court,2400 4th Ave,Seattle,WA,98121,Belltown,0,2,99,100
+258,Janus Apartments,121 NW 85th St,Seattle,WA,98117,Greenwood,5,0,95,55
+259,Rooster Apartments,900 NE 65th St,Seattle,WA,98115,Seattle,5,0,97,59
+260,Westside Flats,3233 SW Avalon Way,Seattle,WA,98126,West Seattle,0,1,77,58
+261,AVA Capitol Hill,1530 Belmont Ave,Seattle,WA,98122,Capitol Hill,0,3,100,100
+262,Walton Lofts,75 Vine St,Seattle,WA,98121,Belltown,5,0,98,100
+263,Sunset Park,11202 2nd Ln SW,Seattle,WA,98146,Highline,0,4,33,0
+264,Greenlake Terrace Apartments,7415 5th Ave NE,Seattle,WA,98115,Green Lake,0,3,93,57
+265,Park 3025,3025 NE 137th St,Seattle,WA,98125,Lake City,0,5,75,58
+266,REV Fremont,317 NW 41st St,Seattle,WA,98107,Fremont,5,0,89,66
+267,Marketside Flats,84 Union St,Seattle,WA,98101,Pike Place Market,0,1,98,100
+268,Cirrus,2030 8th Ave,Seattle,WA,98121,Denny Triangle,0,1,99,100
+269,Axis,123 2nd Ave N,Seattle,WA,98109,Lower Queen Anne,0,6,96,91
+270,Beryl Apt Homes,1200 E Pike St,Seattle,WA,98122,Capitol Hill,0,1,99,85
+271,Avalon Belltown Towers,210 Wall St,Seattle,WA,98121,Belltown,0,1,99,100
+272,AVA Belltown,2800-2816 Western Ave,Seattle,WA,98121,Belltown,5,0,97,98
+273,Monticello,415 Boren Ave,Seattle,WA,98104,First Hill,0,4,96,100
+274,Boxcar,975 John St,Seattle,WA,98109,South Lake Union,0,1,99,100
+275,The Park At Northgate,10713 Roosevelt Way NE,Seattle,WA,98125,Maple Leaf,4,0,92,63
+276,Citizen,1222 E Madison St,Seattle,WA,98122,Capitol Hill,0,3,99,85
+277,Luxe at Meridian,10306 Meridian Ave N,Seattle,WA,98133,North College Park,4,0,68,63
+278,Joseph Arnold Lofts,62 Cedar St,Seattle,WA,98121,Belltown,0,2,96,99
+279,The Flats at Interbay,3036 16th Ave W,Seattle,WA,98119,Interbay,0,2,73,54
+280,Sundodger Apartments,4218 Roosevelt Way NE,Seattle,WA,98105,University District,0,1,98,83
+281,Ellis Court,2510 Western Ave,Seattle,WA,98121,Belltown,5,0,98,100
+282,Icon Apartments,400 S Jackson St,Seattle,WA,98104,Seattle,5,0,98,100
+283,Mysa Apartments,3025 NE 130th St,Seattle,WA,98125,Lake City,5,0,88,59
+284,Mosaic on Greenwood,13543 Greenwood Ave N,Seattle,WA,98133,Broadview,4,0,65,50
+285,O2,2401 3rd Ave,Seattle,WA,98121,Belltown,5,0,99,100
+286,THAI BINH APARTMENTS,913 S Jackson St,Seattle,WA,98104,Chinatown,4,0,98,100
+287,Pike Flats,722 E Pike St,Seattle,WA,98122,Capitol Hill,0,3,100,97
+288,Clarendon,105 Warren Ave N,Seattle,WA,98109,Lower Queen Anne,0,1,96,82
+289,1404 Boylston,1404 Boylston Ave,Seattle,WA,98122,Capitol Hill,0,1,100,100
+290,Stratus,820 Lenora St,Seattle,WA,98121,Denny Triangle,0,1,100,100
+291,Oregon 42,4502 42nd Ave SW,Seattle,WA,98116,Junction,0,1,98,54
+292,Tower 801,801 Pine St,Seattle,WA,98101,Denny Triangle,5,0,99,100
+293,Aperture on Fifth,206 5th Ave N,Seattle,WA,98109,South Lake Union,0,3,97,92
+294,The Cornelius Apartments,306 Blanchard St,Seattle,WA,98121,Belltown,0,2,99,100
+295,LaVie at Queen Anne,229 Queen Anne Ave,Seattle,WA,98109,Lower Queen Anne,0,1,96,78
+296,Eastlake Flats,2820 Eastlake Ave E,Seattle,WA,98102,Eastlake,0,4,80,63
+297,Manhattan,18243 1st Ave S,Seattle,WA,98148,Seattle,0,1,48,0
+298,TRESSA,14200 Linden Ave N,Seattle,WA,98133,Bitter Lake,4,0,77,53
+299,AMLI 535,535 Pontius Ave N,Seattle,WA,98109,South Lake Union,5,0,97,86
+300,The Noble Apartments,4301 Stone Way N,Seattle,WA,98103,Fremont,0,1,93,63
+301,Denny 18,1823 18th Ave,Seattle,WA,98122,Stevens,5,0,93,72
+302,North Court Apartments,2237 N 106th St,Seattle,WA,98133,North College Park,0,2,68,62
+303,Illumina Lake Union,219 E Garfield St,Seattle,WA,98102,South Lake Union,0,3,79,63
+304,Fifty Two Apartment,4710 20th Ave NE,Seattle,WA,98105,University District,0,2,86,78
+305,Towers on Greenwood,8551 Greenwood Ave N,Seattle,WA,98103,Greenwood,0,1,95,55
+306,Vista 7011,7011 Roosevelt Way NE,Seattle,WA,98115,Roosevelt,5,0,93,59
+307,U20 Apartments,4536 20th Ave NE,Seattle,WA,98105,University District,5,0,87,80
+308,The Stax,5001 Brooklyn Ave NE,Seattle,WA,98105,University District,0,1,99,77
+309,Seattle Urban Studios,4730 20th Ave NE,Seattle,WA,98105,University District,5,0,86,78
+310,Montisi,4122 36th Ave SW,Seattle,WA,98126,West Seattle,0,2,89,54
+311,Sidney,400 Wall St,Seattle,WA,98121,Belltown,5,0,99,100
+312,Milan Apartments,4300 Aurora Ave N,Seattle,WA,98103,Wallingford,0,11,92,64
+313,Brentwood Square,13433 Greenwood Ave N,Seattle,WA,98133,Broadview,4,0,57,50
+314,The Blakely at Echo Lake (Senior 55+*),1140-1160 N 192nd St,Seattle,WA,98133,Seattle,0,1,63,55
+315,1111 East Olive Apartments,1111 E Olive St,Seattle,WA,98122,Capitol Hill,0,1,97,87
+316,Elliott Bayview,151 John St,Seattle,WA,98109,Lower Queen Anne,5,0,96,91
+317,Charbonneau Apartments,1201 Boylston Ave,Seattle,WA,98101,First Hill,0,1,100,100
+318,999 Hiawatha Apartments,999 Hiawatha Place South,Seattle,WA,98144,Atlantic,0,2,81,74
+319,Robins Nest,3272 Fuhrman Ave E,Seattle,WA,98102,Portage Bay,5,0,80,80
+320,A.W. Larson Building,3206 Harvard Ave E,Seattle,WA,98102,Portage Bay,5,0,76,76
+321,The Marlborough,1220 Boren Ave,Seattle,WA,98101,First Hill,5,0,98,100
+322,VIBE Fremont,3601 Greenwood Ave N,Seattle,WA,98103,Fremont,0,8,93,67
+323,Gardner House Apartments,2870 S Hanford St,Seattle,WA,98144,Columbia City,4,0,89,71
+324,Reverie,3309 Beacon Ave S,Seattle,WA,98144,North Beacon Hill,5,0,79,70
+325,NoCo Apartments,4525 Rainier Ave S,Seattle,WA,98118,Columbia City,5,0,93,61
+326,Franklin Station,2303 Franklin Ave E,Seattle,WA,98102,Eastlake,5,0,86,52
+327,Autumn Ridge Apartments,15135 Stone Ln N,Seattle,WA,98133,Seattle,4,0,71,53
+328,The Westside,801 E Thomas St,Seattle,WA,98102,Capitol Hill,0,1,99,84
+329,Balfour Place Apartments - AFFORDABLE,1820 Minor Ave,Seattle,WA,98101,Denny Triangle,0,23,98,100
+330,Skyline House Apartments,600 W Olympic Pl,Seattle,WA,98119,Seattle,0,1,71,61
+331,The Savoy at Lake City,13730 Lake City Way NE,Seattle,WA,98125,Lake City,0,1,68,55
+332,Oslo,323 Bellevue Ave E,Seattle,WA,98102,Capitol Hill,5,0,96,87
+333,Harlow Heights,4351 15th Ave S,Seattle,WA,98108,Beacon Hill,5,0,73,54
+334,City Watch Apartments,4744 41st Ave SW,Seattle,WA,98116,Genesee,0,1,97,54
+335,Hidden Creek Village,13751 32nd Ave. N.E.,Seattle,WA,98125,Lake City,0,2,65,56
+336,Nolan and Nora,4717 Brooklyn Ave NE,Seattle,WA,98105,University District,5,0,99,80
+337,Meridian Place Apartments,10711 Meridian Ave N,Seattle,WA,98133,North College Park,4,0,70,63
+338,Coronado Springs,1400 SW 107th St,Seattle,WA,98146,White Center,2,0,62,0
+339,Greenwood Place Apartments,14307 Greenwood Ave N,Seattle,WA,98133,Broadview,0,3,60,50
+340,Northbrook Place,10215 Lake City Way,Seattle,WA,98125,Lake City,0,5,51,52
+341,Vali Hai,800 1st Ave N,Seattle,WA,98109,Lower Queen Anne,4,0,96,72
+342,AJ Apartments,4505 42nd Ave SW,Seattle,WA,98116,Junction,5,0,98,54
+343,Sandpiper Apartments,3100 S 208th St,Seattle,WA,98198,Seattle,0,3,31,55
+344,La Vista Apartments,5565 152nd St,Seattle,WA,98188,Tukwila Urban Center,0,1,25,46
+345,Modern Luxe Condos,300 Lenora St,Seattle,WA,98121,Belltown,3,0,99,100
+346,Solis,1300 E Pike St,Seattle,WA,98122,Capitol Hill,5,0,99,85
+347,Mcguire Court Apartments,10740 NE 8th Ave,Seattle,WA,98125,Maple Leaf,0,1,92,63
+348,Muir Apartments,718 Rainier Ave S,Seattle,WA,98114,Atlantic,5,0,92,89
+349,Linden Flats Apartments,13280 Linden Ave N,Seattle,WA,98133,Bitter Lake,5,0,81,52
+350,The Grove,6301 15th Ave NW,Seattle,WA,98107,Ballard,4,0,93,53
+351,The Nelson,14300 Greenwood Ave N,Seattle,WA,98133,Bitter Lake,5,0,62,51
+352,Lillehammer,7016 15th Ave NW,Seattle,WA,98117,Whittier Heights,5,0,89,50
+353,Lake Washington Apartments,9061 Seward Park Ave S,Seattle,WA,98118,Dunlap,2,0,77,48
+354,Carkeek Park Place,431 NW 100th Pl,Seattle,WA,98177,Greenwood,5,0,81,56
+355,Lake City Court,12536 33rd Ave NE,Seattle,WA,98125,Lake City,4,0,85,58
+356,Sanford Hildebrandt Seattle Active Seniors,747 N 135th St,Seattle,WA,98133,Bitter Lake,4,0,71,52
+357,TOD Apartments,120 10th Ave E,Seattle,WA,98102,Capitol Hill,5,0,97,86
+358,Rainier Vista,4616 Martin Luther King Jr Way S,Seattle,WA,98108,Columbia City,3,0,87,64
+359,Watercrest,14812 Bothell Way NE,Lake Forest Park,WA,98155,Sheridan Beach,0,1,52,0
+360,Arbour Court Apartments,2225 S 112th St,Burien,WA,98168,Southern Heights-Boulevard Park,0,5,34,0
+361,11326 3rd Ave NE Unit 103,11326 3rd Ave NE Unit 103,Seattle,WA,98125,Pinehurst,0,0,91,60
+362,Jackson Apartments,2401 S Jackson St,Seattle,WA,98144,Atlantic,0,0,90,70
+363,Verve Flats,4302 7th Ave NE,Seattle,WA,98105,University District,5,0,95,82
+364,Puget Vista,411 W Republican St,Seattle,WA,98119,Lower Queen Anne,0,1,87,68
+365,The Weatherford,1321 E John St,Seattle,WA,98102,Capitol Hill,4,0,98,78
+366,Spring Lake Apartments,12530 35th Ave NE,Seattle,WA,98125,Lake City,0,1,86,58
+367,The Edge,500 13th Ave E,Seattle,WA,98102,Capitol Hill,4,0,97,78
+368,Elan 41,4100 SW Edmunds St SW,Seattle,WA,98116,Junction,4,0,98,54
+369,Mad Flats,1523 E Madison St,Seattle,WA,98122,Stevens,5,0,98,77
+370,Taylor Creek,7050 S 116th Pl,Seattle,WA,98178,Bryn Mawr-Skyway,5,0,42,0
+371,Clearwater Apartments - Star Apartments,167 11th Ave,Seattle,WA,98122,Minor,0,1,94,100
+372,The Ludlow,701-711 E Pike St,Seattle,WA,98122,Capitol Hill,4,0,100,100
+373,Twenty20 Mad,2020 E Madison St,Seattle,WA,98122,Seattle,0,1,92,70
+374,Circa Green Lake Apartments,6900 E Green Lake Way N,Seattle,WA,98115,Green Lake,0,6,95,56
+375,Rubix,515 Harvard Ave E,Seattle,WA,98102,Capitol Hill,5,0,98,83
+376,Union Arms Apartments,604-614 E Union St,Seattle,WA,98122,Capitol Hill,0,1,100,100
+377,Parkridge Apartments,1210 15th Ave,Seattle,WA,98112,Stevens,4,0,71,62
+378,Valdok,1701 NW 56th St,Seattle,WA,98107,Ballard,0,1,97,56
+379,The Sedges - Property,8623 N Palatine Ave N,Seattle,WA,98103,Greenwood,5,0,96,54
+380,LUNA,2745 California Ave SW,Seattle,WA,98116,North Admiral,5,0,91,41
+381,Huxley,4754 Fauntleroy Way SW,Seattle,WA,98116,Fairmount Park,0,1,92,54
+382,SOUTHSIDE BY VINTAGE,125 SW 112th St,Seattle,WA,98168,Highline,4,0,45,0
+383,The Central,2203-2207 E Union St,Seattle,WA,98122,Minor,0,3,91,65
+384,Ruth Court,123 18th Ave E,Seattle,WA,98112,Stevens,5,0,93,72
+385,Hill Crest,7524 35th Ave SW,Seattle,WA,98126,Roxhill,0,5,56,45
+386,Magnolia and Magnolia Crest,3520 28th Ave W,Seattle,WA,98199,Lawton Park,0,1,60,42
+387,Stockbridge,1330 Boren Ave,Seattle,WA,98101,First Hill,4,0,99,100
+388,Kulle Urban Living,1815 Bellevue Ave,Seattle,WA,98122,Capitol Hill,0,1,99,100
+389,Northbridge Apartments,3800 Aurora Ave N,Seattle,WA,98103,Fremont,0,1,94,66
+390,Rainier View Homes,12672 60th Ave S,Seattle,WA,98178,Bryn Mawr-Skyway,5,0,30,40
+391,Common Summit,1722 Summit Ave,Seattle,WA,98122,Capitol Hill,3,0,99,99
+392,Ori on The Ave,5260 University Way NE,Seattle,WA,98105,University District,4,0,97,74
+393,Riverview West Apartments,10300 Des Moines Memorial Dr,Seattle,WA,98168,Southern Heights-Boulevard Park,0,4,29,35
+394,1715 Apartments,1715 NW 58th St,Seattle,WA,98107,Seattle,0,1,98,56
+395,PARK HILL/GREENTREE APARTMENTS,6900 S 125th St,Seattle,WA,98178,Renton,4,0,37,0
+396,Lake Union Tower,766 Garfield St,Seattle,WA,98109,Westlake,0,1,78,73
+397,Lakeview Apartments,1551-1559 Lakeview Blvd E,Seattle,WA,98102,Capitol Hill,3,0,77,60
+398,The Q Apartments,1321 Queen Anne Ave N,Seattle,WA,98109,Lower Queen Anne,5,0,92,61
+399,Mio Apartments,1319 NE 65th St,Seattle,WA,98115,Roosevelt,0,0,96,59
+400,Nova,4600 36th Ave SW,Seattle,WA,98126,Fairmount Park,0,2,89,54
+401,Normandy Apartments,4040 8th Ave NE,Seattle,WA,98105,University District,0,1,94,84
+402,Ballard 57 Apartments,1731 NW 57th St,Seattle,WA,98107,Ballard,5,0,97,55
+403,Spencer House,10541 Stone Ave N,Seattle,WA,98133,Haller Lake,0,2,86,60
+404,Star Apartments,170 11th Ave,Seattle,WA,98122,Minor,4,0,94,100
+405,Blue Ridge Apartments,9600 9th Ave NW,Seattle,WA,98117,Crown Hill,3,0,68,53
+406,The Portland Building,5403 Ballard Ave NW,Seattle,WA,98107,Ballard,4,0,95,55
+407,Altamira Apartments,4540 42nd Ave SW,Seattle,WA,98116,Junction,0,2,98,54
+408,Fox & Finch Apartments,525 Boren Ave N,Seattle,WA,98109,South Lake Union,5,0,98,88
+409,Paul Revere,1018 9th Ave,Seattle,WA,98104,First Hill,0,2,98,100
+410,Vermont Inn,2721 4th Ave,Seattle,WA,98121,Belltown,4,0,99,100
+411,3517 110th SW St Unit Basement,3517 110th SW St Unit Basement,Seattle,WA,98146,Arbor Heights,0,0,22,37
+412,1449 S Main St,1449 S Main St,Seattle,WA,98144,Atlantic,0,0,94,90
+413,720 Lakeside Ave S Unit 108,720 Lakeside Ave S Unit 108,Seattle,WA,98144,Leschi,0,0,64,45
+414,Tellus on Dexter Apartments,403 Dexter Ave N,Seattle,WA,98109,South Lake Union,5,0,94,93
+415,2100 3rd Ave Unit 1401,2100 3rd Ave Unit 1401,Seattle,WA,98121,Belltown,0,0,99,100
+416,2415 2nd Ave Unit 535,2415 2nd Ave Unit 535,Seattle,WA,98121,Belltown,0,0,99,100
+417,4505 40th Ave SW Unit A,4505 40th Ave SW Unit A,Seattle,WA,98116,Genesee,0,0,96,54
+418,4215 Whitman Ave N Unit 104,4215 Whitman Ave N Unit 104,Seattle,WA,98103,Fremont,0,0,90,65
+419,Lane,10720 5th Ave NE,Seattle,WA,98125,Maple Leaf,0,1,91,63
+420,113 13th Ave,113 13th Ave,Seattle,WA,98122,Minor,0,0,93,97
+421,5526 16th Ave NE Unit B,5526 16th Ave NE Unit B,Seattle,WA,98105,University District,0,0,93,71
+422,7150 Sunnycrest S Rd Unit 3,7150 Sunnycrest S Rd Unit 3,Seattle,WA,98178,Rainier Beach,0,0,16,0
+423,1740 Melrose Ave Unit 705,1740 Melrose Ave Unit 705,Seattle,WA,98122,Capitol Hill,0,0,98,100
+424,3431 16th Ave S Unit A,3431 16th Ave S Unit A,Seattle,WA,98144,North Beacon Hill,0,0,73,67
+425,829 19th Ave S,829 19th Ave S,Seattle,WA,98144,Atlantic,0,0,84,75
+426,1969 Thorndyke Ave W Unit n/a,1969 Thorndyke Ave W Unit n/a,Seattle,WA,98199,Magnolia,0,0,59,46
+427,12329 Roosevelt Way NE Unit A204,12329 Roosevelt Way NE Unit A204,Seattle,WA,98125,Pinehurst,0,0,76,53
+428,3208 Rainier Ave S Unit 303,3208 Rainier Ave S Unit 303,Seattle,WA,98144,Mt Baker,0,0,90,70
+429,308 E Republican St Unit 412,308 E Republican St Unit 412,Seattle,WA,98102,Capitol Hill,0,0,95,85
+430,Met Tower,1942-1942 Westlake Ave,Seattle,WA,98101,Denny Triangle,0,5,99,100
+431,5424 Delridge Way SW Unit E,5424 Delridge Way SW Unit E,Seattle,WA,98106,Riverview,0,0,49,46
+432,5414 Delridge Way SW,5414 Delridge Way SW,Seattle,WA,98106,Riverview,0,0,49,46
+433,2700 4th Ave Unit 406,2700 4th Ave Unit 406,Seattle,WA,98121,Denny Triangle,0,0,99,100
+434,12329 Roosevelt Way NE Unit D302,12329 Roosevelt Way NE Unit D302,Seattle,WA,98125,Pinehurst,0,0,76,53
+435,114 1st Ave S Unit 1,114 1st Ave S Unit 1,Seattle,WA,98104,Pioneer Square,0,0,97,100
+436,6732 15th Ave NW Unit A,6732 15th Ave NW Unit A,Seattle,WA,98117,Whittier Heights,0,0,90,49
+437,10528 Midvale Ave N Unit 1,10528 Midvale Ave N Unit 1,Seattle,WA,98133,Haller Lake,0,0,86,60
+438,3012 17th Ave S Unit C,3012 17th Ave S Unit C,Seattle,WA,98144,North Beacon Hill,0,0,84,72
+439,3811 Aurora Ave N Unit 2,3811 Aurora Ave N Unit 2,Seattle,WA,98103,Fremont,0,0,94,66
+440,3044 30th Ave W,3044 30th Ave W,Seattle,WA,98199,Magnolia,0,0,67,39
+441,The Olivian,809 Olive Way,Seattle,WA,98101,Denny Triangle,0,2,99,100
+442,1124 Lakeview Blvd E Unit 2,1124 Lakeview Blvd E Unit 2,Seattle,WA,98102,Capitol Hill,0,0,81,75
+443,2420 Myrtle SW St,2420 Myrtle SW St,Seattle,WA,98106,High Point,0,0,41,48
+444,3043 Alki Ave SW Unit Apt 2,3043 Alki Ave SW Unit Apt 2,Seattle,WA,98116,Alki,0,0,49,35
+445,5015 38th Ave NE Unit 1,5015 38th Ave NE Unit 1,Seattle,WA,98105,Bryant,0,0,79,62
+446,1320 University St Unit 203,1320 University St Unit 203,Seattle,WA,98101,First Hill,0,0,100,100
+447,1931 Broadway E Unit 2A,1931 Broadway E Unit 2A,Seattle,WA,98102,Capitol Hill,0,0,82,57
+448,1415 2nd Ave Unit 2001,1415 2nd Ave Unit 2001,Seattle,WA,98101,Pike Place Market,0,0,99,100
+449,1907 1st Ave Unit 26,1907 1st Ave Unit 26,Seattle,WA,98101,Pike Place Market,0,0,98,100
+450,3061 64th Ave SW Unit 3061,3061 64th Ave SW Unit 3061,Seattle,WA,98116,Alki,0,0,54,35
+451,1808 Minor Ave Unit 908,1808 Minor Ave Unit 908,Seattle,WA,98101,Denny Triangle,0,0,98,100
+452,Airmark Apartments,229 Andover Park E,Seattle,WA,98188,Tukwila Urban Center,5,0,60,48
+453,583 Battery St Unit 3106N,583 Battery St Unit 3106N,Seattle,WA,98121,Denny Triangle,0,0,98,100
+454,1307 E John St Unit 306,1307 E John St Unit 306,Seattle,WA,98102,Capitol Hill,0,0,97,80
+455,3300 Beach Dr SW Unit 5,3300 Beach Dr SW Unit 5,Seattle,WA,98116,Alki,0,0,37,34
+456,4744 22nd Ave NE Unit 4744,4744 22nd Ave NE Unit 4744,Seattle,WA,98105,University District,0,0,83,77
+457,822 6th Ave N Unit C,822 6th Ave N Unit C,Seattle,WA,98109,Lower Queen Anne,0,0,92,85
+458,Assembly118,4200 S Othello St,Seattle,WA,98118,Brighton,5,0,84,66
+459,4127 12th Ave NE Unit 4,4127 12th Ave NE Unit 4,Seattle,WA,98105,University District,0,0,98,85
+460,5101 Ravenna Ave NE Unit 3,5101 Ravenna Ave NE Unit 3,Seattle,WA,98105,University District,0,0,88,75
+461,1816 Boylston Ave Unit 202,1816 Boylston Ave Unit 202,Seattle,WA,98122,Capitol Hill,0,0,99,96
+462,5512 15th Ave NE Unit 203,5512 15th Ave NE Unit 203,Seattle,WA,98105,University District,0,0,96,74
+463,5428 Delridge Way SW Unit C,5428 Delridge Way SW Unit C,Seattle,WA,98106,Riverview,0,0,49,46
+464,1026 NE 65th St Unit 306,1026 NE 65th St Unit 306,Seattle,WA,98115,Roosevelt,0,0,97,59
+465,5528 E Green Lake Way N Unit 24,5528 E Green Lake Way N Unit 24,Seattle,WA,98103,Wallingford,0,0,63,51
+466,5530 E Green Lake Way N Unit 302,5530 E Green Lake Way N Unit 302,Seattle,WA,98103,Wallingford,0,0,63,51
+467,622 86th NW St Unit A,622 86th NW St Unit A,Seattle,WA,98117,Greenwood,0,0,89,56
+468,1800 43rd Ave E Unit 301,1800 43rd Ave E Unit 301,Seattle,WA,98112,Madison Park,0,0,81,33
+469,Mera,630 Boren Ave N,Seattle,WA,98109,South Lake Union,0,2,97,85
+470,1556 NW Ballard Way Unit 2,1556 NW Ballard Way Unit 2,Seattle,WA,98107,Ballard,0,0,92,58
+471,4704 22nd Ave NE Unit 8,4704 22nd Ave NE Unit 8,Seattle,WA,98105,Seattle,0,0,83,79
+472,12329 Roosevelt Way NE Unit A304,12329 Roosevelt Way NE Unit A304,Seattle,WA,98125,Pinehurst,0,0,76,53
+473,12312 40th Ave NE Unit 2C,12312 40th Ave NE Unit 2C,Seattle,WA,98125,Lake City,0,0,56,54
+474,2003 Franklin Ave E Unit 403,2003 Franklin Ave E Unit 403,Seattle,WA,98102,Eastlake,0,0,84,59
+475,Origin Apartments,12311 32nd Ave NE,Seattle,WA,98125,Lake City,0,1,90,59
+476,2003 Franklin Ave E Unit 203,2003 Franklin Ave E Unit 203,Seattle,WA,98102,Eastlake,0,0,84,59
+477,1307 John E St Unit 105,1307 John E St Unit 105,Seattle,WA,98102,Capitol Hill,0,0,97,80
+478,3208 Rainier Ave S Unit 301,3208 Rainier Ave S Unit 301,Seattle,WA,98144,Mt Baker,0,0,90,70
+479,13702 Densmore Ave N,13702 Densmore Ave N,Seattle,WA,98133,Seattle,0,0,69,52
+480,2607 NW 56th St,2607 NW 56th St,Seattle,WA,98107,Ballard,0,0,94,53
+481,4836 S Austin St Unit 08,4836 S Austin St Unit 08,Seattle,WA,98118,Brighton,0,0,77,61
+482,1808 Minor Ave Unit 2208,1808 Minor Ave Unit 2208,Seattle,WA,98101,Denny Triangle,0,0,98,100
+483,9557 Ashworth Ave N Unit A,9557 Ashworth Ave N Unit A,Seattle,WA,98103,North College Park,0,0,83,63
+484,7940 35th Ave SW,7940 35th Ave SW,Seattle,WA,98126,Roxhill,0,0,54,49
+485,337 NE 54th St Unit A,337 NE 54th St Unit A,Seattle,WA,98105,Wallingford,0,0,76,72
+486,4708 22nd Ave NE Unit 12,4708 22nd Ave NE Unit 12,Seattle,WA,98105,University District,0,0,83,79
+487,2012 43rd Ave E Unit 303,2012 43rd Ave E Unit 303,Seattle,WA,98112,Madison Park,0,0,80,33
+488,1116 Taylor Ave N Unit B,1116 Taylor Ave N Unit B,Seattle,WA,98109,Queen Anne,0,0,87,80
+489,14009 35th Ave NE Unit 14009,14009 35th Ave NE Unit 14009,Seattle,WA,98125,Lake City,0,0,68,55
+490,1102 8th Ave Unit 202,1102 8th Ave Unit 202,Seattle,WA,98101,First Hill,0,0,99,100
+491,Charbern Apartments,1705 Belmont Ave,Seattle,WA,98122,Capitol Hill,4,0,99,100
+492,1102 8th Ave Unit 3,1102 8th Ave Unit 3,Seattle,WA,98101,First Hill,0,0,99,100
+493,4127 12th Ave NE Unit 9,4127 12th Ave NE Unit 9,Seattle,WA,98105,University District,0,0,98,85
+494,326 Mercer W St Unit ###,326 Mercer W St Unit ###,Seattle,WA,98119,Lower Queen Anne,0,0,91,68
+495,2040 NW 59th St Unit 1,2040 NW 59th St Unit 1,Seattle,WA,98107,Ballard,0,0,97,54
+496,204 24th Ave E,204 24th Ave E,Seattle,WA,98112,Stevens,0,0,90,61
+497,1707 NW 57th St Unit 205,1707 NW 57th St Unit 205,Seattle,WA,98107,Ballard,0,0,98,56
+498,1519 NW 65th St Unit 3,1519 NW 65th St Unit 3,Seattle,WA,98117,Ballard,0,0,91,47
+499,8801 Aurora Ave N Unit 5,8801 Aurora Ave N Unit 5,Seattle,WA,98103,Greenwood,0,0,87,57
+500,848 NE 67th St Unit 109,848 NE 67th St Unit 109,Seattle,WA,98115,Roosevelt,0,0,96,59
+501,848 NE 67th St Unit 209,848 NE 67th St Unit 209,Seattle,WA,98115,Roosevelt,0,0,96,59
+502,ArtHouse,2334 Elliott Ave,Seattle,WA,98121,Belltown,0,4,97,100
+503,4313 Fremont Ave N Unit 101,4313 Fremont Ave N Unit 101,Seattle,WA,98103,Fremont,0,0,90,64
+504,1209 S Cloverdale St Unit 12,1209 S Cloverdale St Unit 12,Seattle,WA,98108,South Park,0,0,74,41
+505,12329 Roosevelt Way NE Unit A204,12329 Roosevelt Way NE Unit A204,Seattle,WA,98125,Pinehurst,0,0,76,53
+506,4255 Gilman Ave W Unit A,4255 Gilman Ave W Unit A,Seattle,WA,98199,Lawton Park,0,0,71,49
+507,705 N 39th St Unit A,705 N 39th St Unit A,Seattle,WA,98103,Fremont,0,0,96,66
+508,1313 Judkins S St Unit A,1313 Judkins S St Unit A,Seattle,WA,98144,North Beacon Hill,0,0,77,92
+509,8801 Aurora Ave N Unit 19,8801 Aurora Ave N Unit 19,Seattle,WA,98103,Greenwood,0,0,87,57
+510,116 14th Ave E Unit 1,116 14th Ave E Unit 1,Seattle,WA,98112,Capitol Hill,0,0,97,80
+511,1215 Queen Anne Ave N Unit #9,1215 Queen Anne Ave N Unit #9,Seattle,WA,98109,Lower Queen Anne,0,0,92,64
+512,12329 Roosevelt Way NE Unit C302,12329 Roosevelt Way NE Unit C302,Seattle,WA,98125,Pinehurst,0,0,76,53
+513,The Station At Othello Park,4219 S Othello St,Seattle,WA,98118,Brighton,0,24,87,66
+514,465 45th N St Unit 304,465 45th N St Unit 304,Seattle,WA,98103,Fremont,0,0,90,63
+515,2939 S Mt Baker Blvd Unit B4,2939 S Mt Baker Blvd Unit B4,Seattle,WA,98144,Mt Baker,0,0,90,70
+516,4902 Rainier Ave S Unit 3,4902 Rainier Ave S Unit 3,Seattle,WA,98118,Columbia City,0,0,95,60
+517,5111 S Dawson St Unit 8,5111 S Dawson St Unit 8,Seattle,WA,98118,Seward Park,0,0,74,43
+518,320 25th Ave S,320 25th Ave S,Seattle,WA,98144,Atlantic,0,0,89,67
+519,Elara At The Market,2134 Western Ave,Seattle,WA,98121,Belltown,0,1,98,100
+520,3226 15th Ave W Unit A,3226 15th Ave W Unit A,Seattle,WA,98119,Queen Anne,0,0,74,57
+521,3226 15th Ave W Unit C,3226 15th Ave W Unit C,Seattle,WA,98119,Queen Anne,0,0,74,57
+522,4703 9th Ave NE Unit 6,4703 9th Ave NE Unit 6,Seattle,WA,98105,University District,0,0,96,80
+523,1120 93rd N St Unit 405,1120 93rd N St Unit 405,Seattle,WA,98103,North College Park,0,0,86,61
+524,1120 93rd N St Unit 403,1120 93rd N St Unit 403,Seattle,WA,98103,North College Park,0,0,86,61
+525,5224 Brooklyn Ave NE Unit 8,5224 Brooklyn Ave NE Unit 8,Seattle,WA,98105,University District,0,0,98,76
+526,16 Valley St Unit 35,16 Valley St Unit 35,Seattle,WA,98109,Lower Queen Anne,0,0,96,70
+527,904 N 178th St,904 N 178th St,Seattle,WA,98133,Seattle,0,0,70,50
+528,939 Martin Luther King Jr Way S Unit 1,939 Martin Luther King Jr Way S Unit 1,Seattle,WA,98144,Atlantic,0,0,70,63
+529,939 Martin Luther King Jr Way S Unit 1,939 Martin Luther King Jr Way S Unit 1,Seattle,WA,98144,Atlantic,0,0,70,63
+530,1808 Minor Ave Unit 3206,1808 Minor Ave Unit 3206,Seattle,WA,98101,Denny Triangle,0,0,98,100
+531,329 23rd Ave S Unit 407,329 23rd Ave S Unit 407,Seattle,WA,98144,Atlantic,0,0,89,70
+532,6706 17th Ave SW,6706 17th Ave SW,Seattle,WA,98106,Riverview,0,0,35,46
+533,6236 36th Ave NE,6236 36th Ave NE,Seattle,WA,98115,Bryant,0,0,77,56
+534,1808 Minor Ave Unit 1406,1808 Minor Ave Unit 1406,Seattle,WA,98101,Denny Triangle,0,0,98,100
+535,5015 38th Ave NE Unit COTTAGE,5015 38th Ave NE Unit COTTAGE,Seattle,WA,98105,Bryant,0,0,79,62
+536,5015 38th Ave NE Unit 2nd floor,5015 38th Ave NE Unit 2nd floor,Seattle,WA,98105,Bryant,0,0,79,62
+537,8372 Wabash Ave S,8372 Wabash Ave S,Seattle,WA,98118,Dunlap,0,0,82,58
+538,403 Roy St Unit 8,403 Roy St Unit 8,Seattle,WA,98109,Lower Queen Anne,0,0,97,86
+539,6244 25th Ave NE,6244 25th Ave NE,Seattle,WA,98115,Seattle,0,0,81,59
+540,1110 8th Ave Unit 10,1110 8th Ave Unit 10,Seattle,WA,98101,First Hill,0,0,99,100
+541,Park South,10102 8th Ave S,Seattle,WA,98168,Southern Heights-Boulevard Park,0,12,35,0
+542,1102 8th Ave Unit 5,1102 8th Ave Unit 5,Seattle,WA,98101,First Hill,0,0,99,100
+543,3650 13th Ave W Unit 2,3650 13th Ave W Unit 2,Seattle,WA,98119,Queen Anne,0,0,68,58
+544,6635 Carleton Ave S Unit A,6635 Carleton Ave S Unit A,Seattle,WA,98108,Georgetown,0,0,64,48
+545,1816 Boylston Ave Unit 306,1816 Boylston Ave Unit 306,Seattle,WA,98122,Capitol Hill,0,0,99,96
+546,11038 Greenwood Ave N Unit 35,11038 Greenwood Ave N Unit 35,Seattle,WA,98133,Bitter Lake,0,0,73,53
+547,Spruce,4555 39th Ave SW,Seattle,WA,98116,Genesee,0,8,95,54
+548,11038 Greenwood Ave N Unit 32,11038 Greenwood Ave N Unit 32,Seattle,WA,98133,Bitter Lake,0,0,73,53
+549,11038 Greenwood Ave N Unit 31,11038 Greenwood Ave N Unit 31,Seattle,WA,98133,Bitter Lake,0,0,73,53
+550,11038 Greenwood Ave N Unit 41,11038 Greenwood Ave N Unit 41,Seattle,WA,98133,Bitter Lake,0,0,73,53
+551,11038 Greenwood Ave N Unit 11,11038 Greenwood Ave N Unit 11,Seattle,WA,98133,Bitter Lake,0,0,73,53
+552,2004 Dexter Ave N Unit 402,2004 Dexter Ave N Unit 402,Seattle,WA,98109,Westlake,0,0,70,69
+553,11038 Greenwood Ave N Unit 42,11038 Greenwood Ave N Unit 42,Seattle,WA,98133,Bitter Lake,0,0,73,53
+554,2004 Dexter Ave N Unit 107,2004 Dexter Ave N Unit 107,Seattle,WA,98109,Westlake,0,0,70,69
+555,2004 Dexter Ave N Unit 301,2004 Dexter Ave N Unit 301,Seattle,WA,98109,Westlake,0,0,70,69
+556,2004 Dexter Ave N Unit 102,2004 Dexter Ave N Unit 102,Seattle,WA,98109,Westlake,0,0,70,69
+557,2004 Dexter Ave N Unit 307,2004 Dexter Ave N Unit 307,Seattle,WA,98109,Westlake,0,0,70,69
+558,The Mill at First Hill,1000 8th Ave,Seattle,WA,98104,First Hill,0,15,98,100
+559,2004 Dexter Ave N Unit 207,2004 Dexter Ave N Unit 207,Seattle,WA,98109,Westlake,0,0,70,69
+560,2004 Dexter Ave N Unit 302,2004 Dexter Ave N Unit 302,Seattle,WA,98109,Westlake,0,0,70,69
+561,2004 Dexter Ave N Unit 405,2004 Dexter Ave N Unit 405,Seattle,WA,98109,Westlake,0,0,70,69
+562,2004 Dexter Ave N Unit 106,2004 Dexter Ave N Unit 106,Seattle,WA,98109,Westlake,0,0,70,69
+563,2004 Dexter Ave N Unit 104,2004 Dexter Ave N Unit 104,Seattle,WA,98109,Westlake,0,0,70,69
+564,Lofts at the Junction,4535 44th Ave SW,Seattle,WA,98116,Junction,5,0,97,53
+565,2004 Dexter Ave N Unit 206,2004 Dexter Ave N Unit 206,Seattle,WA,98109,Westlake,0,0,70,69
+566,2004 Dexter Ave N Unit 204,2004 Dexter Ave N Unit 204,Seattle,WA,98109,Westlake,0,0,70,69
+567,4073 Gilman Ave W Unit 101,4073 Gilman Ave W Unit 101,Seattle,WA,98199,Lawton Park,0,0,76,50
+568,1105 Spring St Unit 707,1105 Spring St Unit 707,Seattle,WA,98104,First Hill,0,0,98,100
+569,2436 S Graham St Unit 11,2436 S Graham St Unit 11,Seattle,WA,98108,Beacon Hill,0,0,42,52
+570,2309 44th Ave SW Unit A,2309 44th Ave SW Unit A,Seattle,WA,98116,North Admiral,0,0,91,43
+571,1970 Harvard Ave E Unit 1,1970 Harvard Ave E Unit 1,Seattle,WA,98102,Seattle,0,0,75,55
+572,8801 Aurora Ave N Unit 3,8801 Aurora Ave N Unit 3,Seattle,WA,98103,Greenwood,0,0,87,57
+573,13737 32nd Ave NE Unit 2,13737 32nd Ave NE Unit 2,Seattle,WA,98125,Lake City,0,0,67,56
+574,901 NE 43rd St Unit 204,901 NE 43rd St Unit 204,Seattle,WA,98105,University District,0,0,96,82
+575,1950 Alaskan Way Unit 237,1950 Alaskan Way Unit 237,Seattle,WA,98101,Pike Place Market,0,0,96,100
+576,414 10th Ave,414 10th Ave,Seattle,WA,98122,Minor,0,0,94,100
+577,621 S King St Unit 6,621 S King St Unit 6,Seattle,WA,98104,Chinatown,0,0,99,100
+578,1000 Queen Anne Ave N Unit 206,1000 Queen Anne Ave N Unit 206,Seattle,WA,98109,Queen Anne,0,0,95,67
+579,308 27th Ave E Unit 308,308 27th Ave E Unit 308,Seattle,WA,98112,Mann,0,0,90,57
+580,Saxton,520 Terry Ave,Seattle,WA,98104,First Hill,0,2,96,100
+581,3023 20th Ave W Unit 305,3023 20th Ave W Unit 305,Seattle,WA,98199,Magnolia,0,0,72,52
+582,8511 2nd Ave NE,8511 2nd Ave NE,Seattle,WA,98115,Maple Leaf,0,0,57,59
+583,4547 8th Ave NE Unit 601,4547 8th Ave NE Unit 601,Seattle,WA,98105,University District,0,0,94,80
+584,566 Prospect St Unit 309,566 Prospect St Unit 309,Seattle,WA,98109,Queen Anne,0,0,87,80
+585,2440 Western Ave Unit 710,2440 Western Ave Unit 710,Seattle,WA,98121,Belltown,0,0,98,100
+586,14007 35th Ave NE Unit 14007,14007 35th Ave NE Unit 14007,Seattle,WA,98125,Lake City,0,0,68,55
+587,1717 Taylor Ave N Unit 1717,1717 Taylor Ave N Unit 1717,Seattle,WA,98109,Queen Anne,0,0,73,71
+588,1711 Taylor Ave N Unit 1711,1711 Taylor Ave N Unit 1711,Seattle,WA,98109,Queen Anne,0,0,73,71
+589,8801 Aurora Ave N Unit 4,8801 Aurora Ave N Unit 4,Seattle,WA,98103,Greenwood,0,0,87,57
+590,7015 Rainier Ave S Unit 8,7015 Rainier Ave S Unit 8,Seattle,WA,98118,Brighton,0,0,72,61
+591,7015 Rainier Ave S Unit 14,7015 Rainier Ave S Unit 14,Seattle,WA,98118,Brighton,0,0,72,61
+592,5502 15th Ave NE Unit 4,5502 15th Ave NE Unit 4,Seattle,WA,98105,University District,0,0,96,74
+593,412 30th Ave E,412 30th Ave E,Seattle,WA,98112,Harrison/Denny Blaine,0,0,88,55
+594,5111 S Dawson St Unit 8,5111 S Dawson St Unit 8,Seattle,WA,98118,Seward Park,0,0,74,43
+595,1310 Lakeside Ave S,1310 Lakeside Ave S,Seattle,WA,98144,Leschi,0,0,43,45
+596,Bogtown Flats,9039 Greenwood Ave N,Seattle,WA,98103,Seattle,0,1,87,58
+597,839 NE 85th St,839 NE 85th St,Seattle,WA,98115,Roosevelt,0,0,79,57
+598,819 NW 50th St,819 NW 50th St,Seattle,WA,98107,West Woodland,0,0,91,57
+599,610 W McGraw St,610 W McGraw St,Seattle,WA,98119,Queen Anne,0,0,89,62
+600,1611 E Spring St,1611 E Spring St,Seattle,WA,98122,Minor,0,0,95,76
+601,2414 1st Ave Unit 624,2414 1st Ave Unit 624,Seattle,WA,98121,Belltown,0,0,99,100
+602,2415 2nd Ave Unit 731,2415 2nd Ave Unit 731,Seattle,WA,98121,Belltown,0,0,99,100
+603,1556 NW Ballard Way Unit 1,1556 NW Ballard Way Unit 1,Seattle,WA,98107,Ballard,0,0,92,58
+604,3036 5th Ave W Unit 1,3036 5th Ave W Unit 1,Seattle,WA,98119,Queen Anne,0,0,72,64
+605,819 NW 50th St Unit A,819 NW 50th St Unit A,Seattle,WA,98107,West Woodland,0,0,91,57
+606,2415 2nd Ave Unit 744,2415 2nd Ave Unit 744,Seattle,WA,98121,Belltown,0,0,99,100
+607,2415 2nd Ave Unit 732,2415 2nd Ave Unit 732,Seattle,WA,98121,Belltown,0,0,99,100
+608,2415 2nd Ave Unit 745,2415 2nd Ave Unit 745,Seattle,WA,98121,Belltown,0,0,99,100
+609,2414 1st Ave Unit 623,2414 1st Ave Unit 623,Seattle,WA,98121,Belltown,0,0,99,100
+610,5808 15th Ave NE Unit 2,5808 15th Ave NE Unit 2,Seattle,WA,98105,Ravenna,0,0,95,69
+611,1215 Queen Anne Ave N Unit #5,1215 Queen Anne Ave N Unit #5,Seattle,WA,98109,Lower Queen Anne,0,0,92,64
+612,2040 62nd NW St,2040 62nd NW St,Seattle,WA,98107,Ballard,0,0,89,53
+613,1522 18th Ave Unit 402,1522 18th Ave Unit 402,Seattle,WA,98122,Minor,0,0,97,73
+614,2614 S Dearborn St,2614 S Dearborn St,Seattle,WA,98144,Atlantic,0,0,76,63
+615,210 20th Ave S,210 20th Ave S,Seattle,WA,98144,Atlantic,0,0,92,76
+616,815 W Howe St,815 W Howe St,Seattle,WA,98119,Queen Anne,0,0,86,60
+617,803 15th Ave Unit 1,803 15th Ave Unit 1,Seattle,WA,98122,Minor,0,0,90,77
+618,14345 Stone Ave N,14345 Stone Ave N,Seattle,WA,98133,Haller Lake,0,0,74,53
+619,1927 9th Ave W,1927 9th Ave W,Seattle,WA,98119,Queen Anne,0,0,85,61
+620,8728 14th Ave NW Unit 0,8728 14th Ave NW,Seattle,WA,98117,Crown Hill,0,0,86,56
+621,4511 40th Ave NE Unit 4511 1/2,4511 40th Ave NE,Seattle,WA,98105,Laurelhurst,0,0,79,61
+622,3 bedroom in Seattle WA 98178,7905 S 120th St,Seattle,WA,98178,Bryn Mawr-Skyway,0,0,43,0
+623,403 Terry Ave Unit APARTMENT 2,403 Terry Ave,Seattle,WA,98104,Downtown Seattle,0,0,94,100
+624,3119 W Commodore Way,3119 W Commodore Way,Seattle,WA,98199,Interbay,0,0,54,49
+625,"1 br, 1 bath Cooperative - 9256 21st Ave SW",9256 21st Ave SW,Seattle,WA,98106,South Delridge,0,0,89,58
+626,3128 Portage Bay Pl E,3128 Portage Bay Pl E,Seattle,WA,98102,Portage Bay,0,0,68,79
+627,2 bedroom in Seattle WA 98105,4016 8th Ave NE,Seattle,WA,98105,University District,0,0,94,84
+628,4115 E Galer St,4115 E Galer St,Seattle,WA,98112,Madison Park,0,0,81,33
+629,12233 Fremont Ave N,12233 Fremont Ave N,Seattle,WA,98133,Bitter Lake,0,0,75,52
+630,10229 38th Ave SW,10229 38th Ave SW,Seattle,WA,98146,Arbor Heights,0,0,40,45
+631,Single Family Home near Green Lake,1315 N 85th St,Seattle,WA,98103,Green Lake,0,0,82,57
+632,Rivet Apartments,1201 Mercer St,Seattle,WA,98109,South Lake Union,0,1,97,86
+633,Stunning Judkins Townhome!,1118 21st Ave S,Seattle,WA,98144,Atlantic,0,0,75,70
+634,11334 40th Ave NE,11334 40th Ave NE,Seattle,WA,98125,Lake City,0,0,42,49
+635,100 Martin Luther King Jr Way Unit #1,100 Martin Luther King Jr Way,Seattle,WA,98122,,0,0,83,61
+636,0 bedroom in Seattle WA 98144,400 Lakeside Ave S,Seattle,WA,98144,Leschi,0,0,69,47
+637,3 bedroom in Seattle WA 98106,4815 Delridge Way SW,Seattle,WA,98106,North Delridge,0,0,53,52
+638,0 bedroom in Seattle WA 98112,535 16th Ave E,Seattle,WA,98112,Stevens,0,0,95,71
+639,6118 23rd Ave S,6118 23rd Ave S,Seattle,WA,98108,Beacon Hill,0,0,38,52
+640,817 Martin Luther King Jr Way Unit A23 (2SW),817 Martin Luther King Jr Way,Seattle,WA,98122,,0,0,89,59
+641,Bright 3 Bedroom Beacon Hill Home,4137 12th Ave S,Seattle,WA,98108,Beacon Hill,0,0,62,60
+642,"5 br, 3.5 bath House - 12636 4th Ave SW",12636 4th Ave SW,Seattle,WA,98146,Highline,0,0,62,0
+643,"2 br, 1.5 bath House - 3622B 22nd Ave West",3622 22nd Ave W,Seattle,WA,98199,Lawton Park,0,0,70,50
+644,5800 46th Ave S,5800 46th Ave S,Seattle,WA,98118,Columbia City,0,0,78,52
+645,2345 NE 104th Way,2345 NE 104th Way,Seattle,WA,98125,Lake City,0,0,53,53
+646,3018 NW 85th St,3018 NW 85th St,Seattle,WA,98117,North Beach/ Blue Ridge,0,0,51,45
+647,1115 17th Ave,1115 17th Ave,Seattle,WA,98122,Minor,0,0,93,72
+648,Bowman,3801 Stone Way N,Seattle,WA,98103,Fremont,5,0,89,64
+649,6012 5th Ave NW,6012 5th Ave NW,Seattle,WA,98107,West Woodland,0,0,81,55
+650,11038 Lake City Way NE,11038 Lake City Way NE,Seattle,WA,98125,Lake City,0,0,69,56
+651,13341 15th Ave NE,13341 15th Ave NE,Seattle,WA,98125,Pinehurst,0,0,62,52
+652,611 N 50th St,611 N 50th St,Seattle,WA,98103,Fremont,0,0,82,57
+653,4001 NE 50th St,4001 NE 50th St,Seattle,WA,98105,Bryant,0,0,80,61
+654,4051 Gilman Ave W,4051 Gilman Ave W,Seattle,WA,98199,Lawton Park,0,0,76,50
+655,7101 Roosevelt Way NE Unit #107,7101 Roosevelt Way NE,Seattle,WA,98115,Roosevelt,0,0,93,59
+656,"1 br, 1 bath Condo - 1000 Aurora Ave N",1000 Aurora Ave N,Seattle,WA,98109,South Lake Union,0,0,89,82
+657,8626 10th Ave SW,8626 10th Ave SW,Seattle,WA,98106,Highland Park,0,0,52,46
+658,1038 Lakeview Blvd E Unit #B,1038 Lakeview Blvd E,Seattle,WA,98102,Capitol Hill,0,0,81,75
+659,Ascent South Lake Union,1145 Republican St,Seattle,WA,98109,South Lake Union,0,15,99,91
+660,10765 14th Ave SW,10765 14th Ave SW,Seattle,WA,98146,Highline,0,0,74,43
+661,9405 45th Ave SW,9405 45th Ave SW,Seattle,WA,98136,Fauntleroy,0,0,43,47
+662,11050 16th Ave SW,11050 16th Ave SW,Seattle,WA,98146,Highline,0,0,71,0
+663,3115 S 192nd St,3115 S 192nd St,Seattle,WA,98188,Seattle,0,0,47,56
+664,2148 SW Holden St Unit B3,2148 SW Holden St,Seattle,WA,98106,High Point,0,0,52,48
+665,14045 Greenwood Ave N Unit 201,14045 Greenwood Ave N,Seattle,WA,98133,Broadview,0,0,60,50
+666,2 bedroom in Seattle WA 98112,2501 Canterbury Ln E,Seattle,WA,98112,Madison Park,0,0,57,33
+667,5 bedroom in Seattle WA 98125,10514 Riviera Pl NE,Seattle,WA,98125,Lake City,0,0,21,39
+668,The Elektra Condominiums - 2 bedrooms,1400 Hubbell Pl,Seattle,WA,98101,First Hill,0,0,98,100
+669,Charming Ballard Tri Plex,814 NW 60th St,Seattle,WA,98107,West Woodland,0,0,81,55
+670,McKenzie,2202 Eighth Ave,Seattle,WA,98121,Denny Triangle,0,23,100,100
+671,Gorgeous Whittier Craftsman,7017 12th Ave NW,Seattle,WA,98117,Whittier Heights,0,0,86,50
+672,9721 20th Ave NE,9721 20th Ave NE,Seattle,WA,98115,Maple Leaf,0,0,56,52
+673,3516 NE 75th St Unit 12,3516 NE 75th St,Seattle,WA,98115,Wedgewood,0,0,80,50
+674,"10011 51st Ave S, Unit C",10011 51st Ave S,Seattle,WA,98178,Rainier Beach,0,0,29,47
+675,1408 NE 154th St,1408 NE 154th St,Seattle,WA,98155,Seattle,0,0,44,48
+676,624 Yale,624 Yale Ave N,Seattle,WA,98109,South Lake Union,0,3,93,84
+677,11405 37th Ave SW,11405 37th Ave SW,Seattle,WA,98146,Arbor Heights,0,0,10,37
+678,5134 S Fountain St,5134 S Fountain St,Seattle,WA,98178,Bryn Mawr-Skyway,0,0,9,42
+679,7309 3rd Ave NW,7309 3rd Ave NW,Seattle,WA,98117,Phinney Ridge,0,0,87,52
+680,"2 br, 2 bath Condo - Royal Crest Condominiums",2100 3rd Ave,Seattle,WA,98121,Belltown,0,0,99,100
+681,"2 br, 2 bath House - 2721 1st Ave #1002",2721 1st Ave,Seattle,WA,98121,Belltown,0,0,99,100
+682,STAZIONE25,2615 25th Ave S,Seattle,WA,98144,North Beacon Hill,5,0,80,73
+683,5511 University Way NE,5511 University Way NE,Seattle,WA,98105,University District,0,0,97,74
+684,"1 br, 1 bath House - 590 1st Ave S, Unit 1002",590 1st Ave S,Seattle,WA,98104,Pioneer Square,0,0,93,100
+685,"4 br, 3 bath House - 1511 36th Ave S",1511 36th Ave S,Seattle,WA,98144,Mt Baker,0,0,41,45
+686,3250 California Ave SW,3250 California Ave SW,Seattle,WA,98116,North Admiral,0,0,89,45
+687,"1 br, 1 bath Apartment - 1120 N 93rd Street",1120 N 93rd St,Seattle,WA,98103,North College Park,0,0,86,61
+688,2323 W Newton St,2323 W Newton St,Seattle,WA,98199,Interbay,0,0,45,49
+689,5631 California Ave SW,5631 California Ave SW,Seattle,WA,98136,Seaview Seattle,0,0,80,50
+690,100 Aloha St,100 Aloha St,Seattle,WA,98109,Lower Queen Anne,0,0,94,68
+691,6568 4th Ave NE Unit #26,6568 4th Ave NE,Seattle,WA,98115,Green Lake,0,0,96,57
+692,201 Galer St Unit Ste. 328,201 Galer St,Seattle,WA,98109,Queen Anne,0,0,82,74
+693,Cadence,3040 NW Market St,Seattle,WA,98107,Ballard,4,0,84,51
+694,9514 8th Ave NW,9514 8th Ave NW,Seattle,WA,98117,Greenwood,0,0,70,54
+695,105 Mercer St,105 Mercer St,Seattle,WA,98109,Lower Queen Anne,0,0,97,74
+696,3849 Woodlawn Ave N,3849 Woodlawn Ave N,Seattle,WA,98103,Wallingford,0,0,87,63
+697,1311 12th Ave S Unit #D201,1311 12th Ave S,Seattle,WA,98144,North Beacon Hill,0,0,71,93
+698,Top floor Condo filled with light,13227 35th Ave NE,Seattle,WA,98125,Lake City,0,0,83,57
+699,Alexan 100,100 Denny Way,Seattle,WA,98109,Lower Queen Anne,0,0,96,82
+700,1021 S Bailey St,1021 S Bailey St,Seattle,WA,98108,Georgetown,0,0,71,50
+701,1210 Alki Ave SW Unit # 600,1210 Alki Ave SW,Seattle,WA,98116,Alki,0,0,37,38
+702,2341 NE 55th St,2341 NE 55th St,Seattle,WA,98105,Ravenna,0,0,90,69
+703,"4 br, 3 bath House - 10044 46TH PL NE",10044 46th Pl NE,Seattle,WA,98125,Lake City,0,0,19,41
+704,"3 br, 2 bath House - 9021 17th Ave. NE, upper",9021 17th Ave NE,Seattle,WA,98115,Maple Leaf,0,0,67,51
+705,Vida Seattle,1205 NE 66th St,Seattle,WA,98115,Roosevelt,0,1,97,59
+706,"2 br, 1 bath House - 3854 30th Ave W.",3854 30th Ave W,Seattle,WA,98199,Lawton Park,0,0,65,41
+707,9020 35th Ave SW,9020 35th Ave SW,Seattle,WA,98126,Roxhill,0,0,80,55
+708,3017 60th Ave SW,3017 60th Ave SW,Seattle,WA,98116,Alki,0,0,63,35
+709,12340 33rd Ave NE,12340 33rd Ave NE,Seattle,WA,98125,Lake City,0,0,84,58
+710,"4 br, 2.5 bath House - 929 23rd Ave",929 23rd Ave,Seattle,WA,98122,Minor,0,0,91,65
+711,Sedona Apartments,8500 20th Ave NE,Seattle,WA,98115,Wedgewood,0,4,69,52
+712,4706 SW Spokane St,4706 SW Spokane St,Seattle,WA,98116,North Admiral,0,0,71,43
+713,2407 E Ward St,2407 E Ward St,Seattle,WA,98112,Stevens,0,0,75,57
+714,1916 14th Ave W,1916 14th Ave W,Seattle,WA,98119,Queen Anne,0,0,79,59
+715,3825 34th Ave W,3825 34th Ave W,Seattle,WA,98199,Lawton Park,0,0,60,37
+716,11244 Greenwood Ave N,11244 Greenwood Ave N,Seattle,WA,98133,Bitter Lake,0,0,67,53
+717,7060 Lincoln Park Way SW,7060 Lincoln Park Way SW,Seattle,WA,98136,,0,0,64,47
+718,4528 44th Ave SW,4528 44th Ave SW,Seattle,WA,98116,Junction,0,0,97,53
+719,4915 Lake Washington Blvd S Unit A/B,4915 Lake Washington Blvd S,Seattle,WA,98118,,0,0,43,35
+720,9711 Greenwood Ave N,9711 Greenwood Ave N,Seattle,WA,98103,Greenwood,0,0,82,57
+721,4919 SW Stevens St,4919 SW Stevens St,Seattle,WA,98116,North Admiral,0,0,59,40
+722,Broadstone Sky,4745 40th Ave,Seattle,WA,98116,Genesee,5,0,97,54
+723,2425 Montavista Pl W,2425 Montavista Pl W,Seattle,WA,98199,Briarcliff,0,0,72,36
+724,3518 SW Elmgrove St,3518 SW Elmgrove St,Seattle,WA,98126,Gatewood,0,0,54,45
+725,"2 br, 1 bath House - 923 N 68th Street",923 N 68th St,Seattle,WA,98103,Phinney Ridge,0,0,81,52
+726,"3 br, 1 bath House - 8533 18th Ave NW",8533 18th Ave NW,Seattle,WA,98117,Crown Hill,0,0,85,54
+727,1320 14th Ave S,1320 14th Ave S,Seattle,WA,98144,Seattle,0,0,74,89
+728,Overlook at Westridge,600 SW Kenyon St,Seattle,WA,98106,Highland Park,0,5,45,42
+729,10306 Holman Rd N,10306 Holman Rd N,Seattle,WA,98133,Greenwood,0,0,85,57
+730,311 6th Ave S,311 6th Ave S,Seattle,WA,98104,Chinatown,0,0,99,100
+731,1307 N Northgate Way,1307 N Northgate Way,Seattle,WA,98133,North College Park,0,0,87,61
+732,3631 13th Ave W,3631 13th Ave W,Seattle,WA,98119,Queen Anne,0,0,69,56
+733,500 W Mercer St,500 W Mercer St,Seattle,WA,98119,Lower Queen Anne,0,0,84,63
+734,Batik,123 Broadway,Seattle,WA,98122,First Hill,5,0,92,100
+735,"6 br, 3 bath House - 12705 27th Ave NE",12705 27th Ave NE,Seattle,WA,98125,Lake City,0,0,88,60
+736,3230 SW Avalon Way,3230 SW Avalon Way,Seattle,WA,98126,Fairmount Park,0,0,78,58
+737,7719 Renton Ave S,7719 Renton Ave S,Seattle,WA,98118,Brighton,0,0,76,64
+738,Malloy,4337 15th Ave NE,Seattle,WA,98105,University District,4,0,99,83
+739,Garden Pointe,130 SW 112th St,Seattle,WA,98146,Highline,0,1,45,0
+740,HANA Apartments,101 6th Ave S,Seattle,WA,98104,Pioneer Square,0,11,98,100
+741,Sorento Flats,1414 E Yesler Way,Seattle,WA,98122,Minor,0,5,92,93
+742,Rise on 67th,829 NE 67th St,Seattle,WA,98115,Roosevelt,0,5,95,59
+743,Derby South Lake Union,1210 Republican St,Seattle,WA,98109,South Lake Union,5,0,97,86
+744,Oakwood Residence Seattle South Lake Union,717 N Dexter Ave,Seattle,WA,98109,South Lake Union,5,0,88,85
+745,Novo Seattle,6105 Roosevelt Way NE,Seattle,WA,98115,Roosevelt,5,0,97,66
+746,Maude Urban Living,836 NE 67th St,Seattle,WA,98115,Roosevelt,0,2,95,59
+747,Common Madison,1806 23rd Ave,Seattle,WA,98122,Mann,5,0,89,66
+748,Kinects Tower,1823 Minor Ave,Seattle,WA,98101,Denny Triangle,0,6,98,100
+749,Arrive,2116 4th Ave,Seattle,WA,98121,Belltown,5,0,99,100
+750,Thornton Place,337 NE 103rd St,Seattle,WA,98125,Seattle,0,1,79,64
+751,Vertex Off Broadway,802 E Thomas St,Seattle,WA,98102,Capitol Hill,5,0,99,84
