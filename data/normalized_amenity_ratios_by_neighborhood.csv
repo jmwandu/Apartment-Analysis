@@ -1,0 +1,876 @@
+neighborhood,amenitytype,amenitytype
+Alki,Features,0.42857142857142855
+Alki,Kitchen,0.23809523809523808
+Alki,Lease Length,0.14285714285714285
+Alki,Outdoor Space,0.09523809523809523
+Alki,Living Space,0.047619047619047616
+Alki,Services,0.047619047619047616
+Arbor Heights,Kitchen,0.3888888888888889
+Arbor Heights,Features,0.2777777777777778
+Arbor Heights,Living Space,0.2777777777777778
+Arbor Heights,Lease Length,0.05555555555555555
+Atlantic,Unique Features,0.5593879839081976
+Atlantic,Property Information,0.1022225153333773
+Atlantic,Pet Policy,0.058893358834003824
+Atlantic,Fitness & Recreation,0.054738508210776235
+Atlantic,Lease Length,0.05163885774582866
+Atlantic,Kitchen,0.03620655543098331
+Atlantic,Features,0.03389830508474576
+Atlantic,Living Space,0.03343665501549825
+Atlantic,Outdoor Space,0.028028754204313132
+Atlantic,Services,0.017938402690760403
+Atlantic,Security,0.011871001780650267
+Atlantic,Interior,0.010749851612477742
+Atlantic,Student Features,0.0009892501483875222
+Ballard,Unique Features,0.23865035946495575
+Ballard,Kitchen,0.14126543121473376
+Ballard,Features,0.1245094950305044
+Ballard,Services,0.09933262681522642
+Ballard,Living Space,0.09749949875404577
+Ballard,Outdoor Space,0.07690545069171942
+Ballard,Interior,0.06733881362243291
+Ballard,Pet Policy,0.03906854180391258
+Ballard,Security,0.03737862687251167
+Ballard,Property Information,0.03391286913184201
+Ballard,Fitness & Recreation,0.028986337467419014
+Ballard,Lease Length,0.015151949130696302
+Beacon Hill,Kitchen,0.25301204819277107
+Beacon Hill,Features,0.20481927710843373
+Beacon Hill,Living Space,0.1566265060240964
+Beacon Hill,Pet Policy,0.0963855421686747
+Beacon Hill,Interior,0.07228915662650602
+Beacon Hill,Services,0.060240963855421686
+Beacon Hill,Outdoor Space,0.04819277108433735
+Beacon Hill,Property Information,0.04819277108433735
+Beacon Hill,Lease Length,0.03614457831325301
+Beacon Hill,Security,0.024096385542168676
+Belltown,Unique Features,0.2971556477589125
+Belltown,Features,0.12012065294535132
+Belltown,Kitchen,0.10703171916798603
+Belltown,Services,0.10385161325544576
+Belltown,Living Space,0.08455260140852759
+Belltown,Outdoor Space,0.0697439537042092
+Belltown,Interior,0.06450292078397117
+Belltown,Security,0.03903477643718949
+Belltown,Property Information,0.03458535786427908
+Belltown,Pet Policy,0.0333569907735983
+Belltown,Fitness & Recreation,0.030791068406398427
+Belltown,Lease Length,0.01521810340121199
+Belltown,Student Features,5.4594092919146145e-05
+Bitter Lake,Unique Features,0.3130704991260439
+Bitter Lake,Features,0.1256554670809866
+Bitter Lake,Kitchen,0.09691202175179646
+Bitter Lake,Outdoor Space,0.09089143523014177
+Bitter Lake,Services,0.08331714896096329
+Bitter Lake,Living Space,0.07826762478151097
+Bitter Lake,Interior,0.054767916100213636
+Bitter Lake,Fitness & Recreation,0.038842493688094774
+Bitter Lake,Security,0.03709458147213051
+Bitter Lake,Pet Policy,0.03456981938240435
+Bitter Lake,Property Information,0.03165663235579724
+Bitter Lake,Lease Length,0.01495436006991649
+Briarcliff,Unique Features,1.0
+Brighton,Unique Features,0.29213093130618906
+Brighton,Living Space,0.12556839876427506
+Brighton,Kitchen,0.1134020618556701
+Brighton,Services,0.10888958311638725
+Brighton,Outdoor Space,0.10219028775729806
+Brighton,Features,0.08337672255198028
+Brighton,Security,0.04443055989447742
+Brighton,Fitness & Recreation,0.03443368391822
+Brighton,Interior,0.03443368391822
+Brighton,Pet Policy,0.024436807941962582
+Brighton,Property Information,0.024436807941962582
+Brighton,Lease Length,0.01227047103335763
+Broadview,Unique Features,0.25796178343949044
+Broadview,Kitchen,0.1942675159235669
+Broadview,Features,0.1592356687898089
+Broadview,Living Space,0.08121019108280254
+Broadview,Outdoor Space,0.06847133757961783
+Broadview,Services,0.06369426751592357
+Broadview,Pet Policy,0.041401273885350316
+Broadview,Property Information,0.041401273885350316
+Broadview,Interior,0.03821656050955414
+Broadview,Security,0.03184713375796178
+Broadview,Lease Length,0.020700636942675158
+Broadview,Fitness & Recreation,0.0015923566878980893
+Bryant,Features,0.2222222222222222
+Bryant,Lease Length,0.14814814814814814
+Bryant,Living Space,0.14814814814814814
+Bryant,Outdoor Space,0.14814814814814814
+Bryant,Kitchen,0.1111111111111111
+Bryant,Services,0.1111111111111111
+Bryant,Property Information,0.07407407407407407
+Bryant,Unique Features,0.037037037037037035
+Bryn Mawr-Skyway,Unique Features,0.1890547263681592
+Bryn Mawr-Skyway,Features,0.1517412935323383
+Bryn Mawr-Skyway,Living Space,0.14759535655058043
+Bryn Mawr-Skyway,Kitchen,0.14427860696517414
+Bryn Mawr-Skyway,Outdoor Space,0.10530679933665009
+Bryn Mawr-Skyway,Services,0.05472636815920398
+Bryn Mawr-Skyway,Pet Policy,0.05306799336650083
+Bryn Mawr-Skyway,Fitness & Recreation,0.03316749585406302
+Bryn Mawr-Skyway,Interior,0.03316749585406302
+Bryn Mawr-Skyway,Property Information,0.03150912106135987
+Bryn Mawr-Skyway,Security,0.03150912106135987
+Bryn Mawr-Skyway,Lease Length,0.014925373134328358
+Bryn Mawr-Skyway,Student Features,0.009950248756218905
+Capitol Hill,Unique Features,0.2875544815086523
+Capitol Hill,Features,0.12318215164199715
+Capitol Hill,Kitchen,0.11159539118802055
+Capitol Hill,Services,0.09282354464247185
+Capitol Hill,Living Space,0.08809821775341993
+Capitol Hill,Outdoor Space,0.08002848142234498
+Capitol Hill,Interior,0.053294782721270445
+Capitol Hill,Security,0.043736244767617484
+Capitol Hill,Property Information,0.040262374314935484
+Capitol Hill,Pet Policy,0.03743580891554827
+Capitol Hill,Fitness & Recreation,0.020023302981918612
+Capitol Hill,Lease Length,0.016916238726103656
+Capitol Hill,Student Features,0.005048979415699305
+Central Seattle,Unique Features,0.6190476190476191
+Central Seattle,Features,0.07142857142857142
+Central Seattle,Fitness & Recreation,0.07142857142857142
+Central Seattle,Interior,0.07142857142857142
+Central Seattle,Pet Policy,0.07142857142857142
+Central Seattle,Property Information,0.047619047619047616
+Central Seattle,Kitchen,0.023809523809523808
+Central Seattle,Lease Length,0.023809523809523808
+Chinatown,Unique Features,0.1942942942942943
+Chinatown,Kitchen,0.14084084084084084
+Chinatown,Features,0.12282282282282282
+Chinatown,Living Space,0.11201201201201201
+Chinatown,Services,0.07837837837837838
+Chinatown,Property Information,0.06426426426426426
+Chinatown,Pet Policy,0.05915915915915916
+Chinatown,Outdoor Space,0.05645645645645646
+Chinatown,Security,0.05645645645645646
+Chinatown,Interior,0.054954954954954956
+Chinatown,Fitness & Recreation,0.036036036036036036
+Chinatown,Lease Length,0.024324324324324326
+Columbia City,Unique Features,0.3903089575461214
+Columbia City,Kitchen,0.09424316514781063
+Columbia City,Features,0.08401867081573683
+Columbia City,Pet Policy,0.0722382751722605
+Columbia City,Services,0.06645921315847966
+Columbia City,Property Information,0.057790620137808404
+Columbia City,Interior,0.055345632362747275
+Columbia City,Living Space,0.0531229162036008
+Columbia City,Outdoor Space,0.0437875083351856
+Columbia City,Fitness & Recreation,0.03000666814847744
+Columbia City,Security,0.029562124916648145
+Columbia City,Lease Length,0.02111580351189153
+Columbia City,Student Features,0.0020004445432318294
+Crown Hill,Unique Features,0.37656427758816835
+Crown Hill,Kitchen,0.11035267349260523
+Crown Hill,Features,0.1080773606370876
+Crown Hill,Services,0.07281001137656427
+Crown Hill,Pet Policy,0.07053469852104664
+Crown Hill,Interior,0.06143344709897611
+Crown Hill,Outdoor Space,0.04778156996587031
+Crown Hill,Living Space,0.038680318543799774
+Crown Hill,Fitness & Recreation,0.034129692832764506
+Crown Hill,Property Information,0.03185437997724687
+Crown Hill,Security,0.03185437997724687
+Crown Hill,Lease Length,0.015927189988623434
+Denny Triangle,Unique Features,0.5249368198463046
+Denny Triangle,Features,0.09081180050544123
+Denny Triangle,Pet Policy,0.06823456599102584
+Denny Triangle,Kitchen,0.05595956470163495
+Denny Triangle,Property Information,0.04389086595492289
+Denny Triangle,Living Space,0.04378771468358347
+Denny Triangle,Outdoor Space,0.03615452060446645
+Denny Triangle,Security,0.03445252462736603
+Denny Triangle,Services,0.034439630718448605
+Denny Triangle,Fitness & Recreation,0.028160297075661457
+Denny Triangle,Interior,0.019714786734746505
+Denny Triangle,Lease Length,0.019456908556397957
+Downtown Seattle,Unique Features,0.22697512003491924
+Downtown Seattle,Features,0.12418158009602794
+Downtown Seattle,Interior,0.10657645860613997
+Downtown Seattle,Kitchen,0.09275425578350066
+Downtown Seattle,Outdoor Space,0.07900480139676996
+Downtown Seattle,Fitness & Recreation,0.0767495998836025
+Downtown Seattle,Services,0.06991124690819148
+Downtown Seattle,Living Space,0.0673650516513895
+Downtown Seattle,Pet Policy,0.04728648334060818
+Downtown Seattle,Security,0.04495853339153208
+Downtown Seattle,Property Information,0.0429215771860905
+Downtown Seattle,Lease Length,0.021315291721227994
+Dunlap,Unique Features,0.20249221183800623
+Dunlap,Features,0.16510903426791276
+Dunlap,Kitchen,0.12149532710280374
+Dunlap,Living Space,0.102803738317757
+Dunlap,Outdoor Space,0.102803738317757
+Dunlap,Pet Policy,0.08099688473520249
+Dunlap,Property Information,0.06074766355140187
+Dunlap,Services,0.06074766355140187
+Dunlap,Interior,0.040498442367601244
+Dunlap,Lease Length,0.021806853582554516
+Dunlap,Fitness & Recreation,0.020249221183800622
+Dunlap,Security,0.020249221183800622
+Eastlake,Unique Features,0.5257461462774681
+Eastlake,Features,0.10593637258117415
+Eastlake,Outdoor Space,0.07969826172515579
+Eastlake,Kitchen,0.07445063955395212
+Eastlake,Property Information,0.04493276484093145
+Eastlake,Pet Policy,0.04394883568383076
+Eastlake,Living Space,0.04296490652673007
+Eastlake,Services,0.03246966218432273
+Eastlake,Security,0.02361429977041653
+Eastlake,Lease Length,0.01803870121351263
+Eastlake,Interior,0.008199409642505739
+Fairmount Park,Unique Features,0.43998566821927626
+Fairmount Park,Kitchen,0.11035471157291293
+Fairmount Park,Features,0.09799355069867431
+Fairmount Park,Services,0.0949480472948764
+Fairmount Park,Interior,0.052848441418846294
+Fairmount Park,Security,0.04084557506270154
+Fairmount Park,Outdoor Space,0.039949838767466855
+Fairmount Park,Living Space,0.03511286277319957
+Fairmount Park,Pet Policy,0.026155499820852742
+Fairmount Park,Fitness & Recreation,0.025618058043711932
+Fairmount Park,Property Information,0.024364027230383375
+Fairmount Park,Lease Length,0.011823719097097814
+First Hill,Unique Features,0.29565574029087927
+First Hill,Services,0.1313562797741111
+First Hill,Kitchen,0.09668422879136827
+First Hill,Living Space,0.09050067829763069
+First Hill,Features,0.08856989620468814
+First Hill,Outdoor Space,0.07767927564122788
+First Hill,Interior,0.06890241978736159
+First Hill,Security,0.03795311859166483
+First Hill,Fitness & Recreation,0.03539767170394675
+First Hill,Property Information,0.03011010505726094
+First Hill,Pet Policy,0.01872732435246238
+First Hill,Student Features,0.016847020222734013
+First Hill,Lease Length,0.011616241284664163
+Fremont,Unique Features,0.3282379719717933
+Fremont,Outdoor Space,0.11978934214049808
+Fremont,Services,0.11787021333571365
+Fremont,Kitchen,0.10657859501919129
+Fremont,Features,0.09990627510488262
+Fremont,Living Space,0.05670356154601446
+Fremont,Interior,0.03847183790056235
+Fremont,Pet Policy,0.03621797732750156
+Fremont,Fitness & Recreation,0.034164955815406586
+Fremont,Security,0.0294563956083192
+Fremont,Property Information,0.022025350352584128
+Fremont,Lease Length,0.010577523877532804
+Gatewood,Features,0.5
+Gatewood,Unique Features,0.5
+Genesee,Unique Features,0.2904543642885612
+Genesee,Kitchen,0.16831905141490633
+Genesee,Features,0.12691809485850936
+Genesee,Living Space,0.10312873654842566
+Genesee,Outdoor Space,0.08175567955360702
+Genesee,Services,0.07351036269430052
+Genesee,Fitness & Recreation,0.034749900358708646
+Genesee,Interior,0.029145077720207253
+Genesee,Property Information,0.029070346751693902
+Genesee,Security,0.02687823834196891
+Genesee,Pet Policy,0.021522518931845355
+Genesee,Lease Length,0.014547628537265843
+Georgetown,Features,0.2
+Georgetown,Kitchen,0.2
+Georgetown,Lease Length,0.2
+Georgetown,Living Space,0.2
+Georgetown,Outdoor Space,0.2
+Green Lake,Unique Features,0.37896024783276494
+Green Lake,Kitchen,0.1056413193450134
+Green Lake,Features,0.09538437508135267
+Green Lake,Living Space,0.08809517611225366
+Green Lake,Services,0.08726212480149949
+Green Lake,Outdoor Space,0.0845026423346263
+Green Lake,Interior,0.051857444094447196
+Green Lake,Security,0.026813839064899904
+Green Lake,Fitness & Recreation,0.02624111628875641
+Green Lake,Pet Policy,0.024158488011870982
+Green Lake,Property Information,0.020722151355010023
+Green Lake,Lease Length,0.010361075677505011
+Greenwood,Unique Features,0.4609446792868958
+Greenwood,Features,0.08380812350670833
+Greenwood,Services,0.08380812350670833
+Greenwood,Kitchen,0.06892115419959566
+Greenwood,Outdoor Space,0.06800220547693439
+Greenwood,Fitness & Recreation,0.05256386693622496
+Greenwood,Interior,0.050725969490902405
+Greenwood,Living Space,0.03565521043925749
+Greenwood,Pet Policy,0.03142804631501562
+Greenwood,Property Information,0.029957728358757582
+Greenwood,Security,0.01837897445322551
+Greenwood,Lease Length,0.01580591802977394
+Haller Lake,Kitchen,0.35294117647058826
+Haller Lake,Features,0.20588235294117646
+Haller Lake,Living Space,0.20588235294117646
+Haller Lake,Lease Length,0.058823529411764705
+Haller Lake,Outdoor Space,0.058823529411764705
+Haller Lake,Property Information,0.058823529411764705
+Haller Lake,Fitness & Recreation,0.029411764705882353
+Haller Lake,Security,0.029411764705882353
+Harrison/Denny Blaine,Features,0.6666666666666666
+Harrison/Denny Blaine,Lease Length,0.3333333333333333
+High Point,Unique Features,0.3444976076555024
+High Point,Kitchen,0.15789473684210525
+High Point,Features,0.1339712918660287
+High Point,Services,0.06256900993743099
+High Point,Living Space,0.05925653294074347
+High Point,Pet Policy,0.04085388295914612
+High Point,Outdoor Space,0.039749723960250276
+High Point,Security,0.03901361796098638
+High Point,Interior,0.0360691939639308
+High Point,Property Information,0.03312476996687523
+High Point,Fitness & Recreation,0.0305483989694516
+High Point,Lease Length,0.016930437983069563
+High Point,Student Features,0.005520794994479205
+Highland Park,Unique Features,0.2236842105263158
+Highland Park,Kitchen,0.14473684210526316
+Highland Park,Features,0.13157894736842105
+Highland Park,Outdoor Space,0.11842105263157894
+Highland Park,Services,0.10526315789473684
+Highland Park,Interior,0.07894736842105263
+Highland Park,Living Space,0.06578947368421052
+Highland Park,Property Information,0.039473684210526314
+Highland Park,Fitness & Recreation,0.02631578947368421
+Highland Park,Pet Policy,0.02631578947368421
+Highland Park,Security,0.02631578947368421
+Highland Park,Lease Length,0.013157894736842105
+Highline,Features,0.20617466694861494
+Highline,Kitchen,0.13935292873757665
+Highline,Living Space,0.1069993656164094
+Highline,Interior,0.10298160287587228
+Highline,Fitness & Recreation,0.09600338337914993
+Highline,Outdoor Space,0.08077817720448298
+Highline,Services,0.072319729329668
+Highline,Unique Features,0.0714738845421865
+Highline,Security,0.04313808416155635
+Highline,Property Information,0.03848593783040812
+Highline,Pet Policy,0.03721717064918587
+Highline,Lease Length,0.0050750687248889825
+Interbay,Unique Features,0.21520402459474566
+Interbay,Kitchen,0.1626607043040805
+Interbay,Features,0.12744550027948576
+Interbay,Services,0.11235326998323085
+Interbay,Living Space,0.09055338177752935
+Interbay,Interior,0.0737842370039128
+Interbay,Outdoor Space,0.06372275013974288
+Interbay,Security,0.05366126327557295
+Interbay,Fitness & Recreation,0.03521520402459474
+Interbay,Pet Policy,0.03018446059250978
+Interbay,Property Information,0.023476802683063163
+Interbay,Lease Length,0.011738401341531582
+Junction,Features,0.17094408799266728
+Junction,Unique Features,0.14482126489459213
+Junction,Kitchen,0.1444775435380385
+Junction,Living Space,0.12729147571035748
+Junction,Outdoor Space,0.09045600366636114
+Junction,Services,0.08100366636113657
+Junction,Interior,0.0752749770852429
+Junction,Property Information,0.05442254812098992
+Junction,Security,0.04898029330889093
+Junction,Fitness & Recreation,0.031507791017415215
+Junction,Pet Policy,0.020623281393217233
+Junction,Lease Length,0.010197066911090742
+Lake City,Unique Features,0.16744116770926423
+Lake City,Features,0.1405421507298183
+Lake City,Kitchen,0.12946082812034554
+Lake City,Services,0.12654155495978553
+Lake City,Outdoor Space,0.10845993446529639
+Lake City,Living Space,0.08537384569556151
+Lake City,Interior,0.07229669347631815
+Lake City,Pet Policy,0.0442061364313375
+Lake City,Fitness & Recreation,0.0418230563002681
+Lake City,Security,0.04098897825439381
+Lake City,Property Information,0.028865058087578194
+Lake City,Lease Length,0.014000595770032768
+Lake Union,Unique Features,0.5333333333333333
+Lake Union,Services,0.1111111111111111
+Lake Union,Pet Policy,0.06666666666666667
+Lake Union,Security,0.06666666666666667
+Lake Union,Features,0.044444444444444446
+Lake Union,Interior,0.044444444444444446
+Lake Union,Kitchen,0.044444444444444446
+Lake Union,Property Information,0.044444444444444446
+Lake Union,Fitness & Recreation,0.022222222222222223
+Lake Union,Lease Length,0.022222222222222223
+Lawton Park,Unique Features,0.3058089294287086
+Lawton Park,Features,0.1185789726356217
+Lawton Park,Outdoor Space,0.10369659145463274
+Lawton Park,Living Space,0.10225636101776284
+Lawton Park,Kitchen,0.07345175228036485
+Lawton Park,Interior,0.059049447911665866
+Lawton Park,Services,0.05184829572731637
+Lawton Park,Pet Policy,0.0513682189150264
+Lawton Park,Fitness & Recreation,0.04464714354296687
+Lawton Park,Property Information,0.044167066730676906
+Lawton Park,Lease Length,0.023043686989918388
+Lawton Park,Security,0.022083533365338453
+Leschi,Features,0.36363636363636365
+Leschi,Outdoor Space,0.18181818181818182
+Leschi,Fitness & Recreation,0.09090909090909091
+Leschi,Kitchen,0.09090909090909091
+Leschi,Lease Length,0.09090909090909091
+Leschi,Living Space,0.09090909090909091
+Leschi,Property Information,0.09090909090909091
+Lower Queen Anne,Unique Features,0.505786249149081
+Lower Queen Anne,Features,0.06500101190366678
+Lower Queen Anne,Services,0.0628852133276912
+Lower Queen Anne,Outdoor Space,0.05756811951502217
+Lower Queen Anne,Interior,0.05534193144812614
+Lower Queen Anne,Property Information,0.04706271962909131
+Lower Queen Anne,Pet Policy,0.04443177009548691
+Lower Queen Anne,Kitchen,0.043125494452928084
+Lower Queen Anne,Living Space,0.034220742185343954
+Lower Queen Anne,Security,0.034128750942910235
+Lower Queen Anne,Fitness & Recreation,0.026438283075451218
+Lower Queen Anne,Lease Length,0.022611447390208452
+Lower Queen Anne,Student Features,0.0013982668849925487
+Loyal Heights,Unique Features,0.3125
+Loyal Heights,Kitchen,0.125
+Loyal Heights,Features,0.1125
+Loyal Heights,Services,0.1125
+Loyal Heights,Outdoor Space,0.075
+Loyal Heights,Interior,0.0625
+Loyal Heights,Living Space,0.0625
+Loyal Heights,Fitness & Recreation,0.0375
+Loyal Heights,Security,0.0375
+Loyal Heights,Pet Policy,0.025
+Loyal Heights,Property Information,0.025
+Loyal Heights,Lease Length,0.0125
+Madison Park,Kitchen,0.3333333333333333
+Madison Park,Outdoor Space,0.3333333333333333
+Madison Park,Features,0.1111111111111111
+Madison Park,Lease Length,0.1111111111111111
+Madison Park,Services,0.1111111111111111
+Magnolia,Features,0.5
+Magnolia,Lease Length,0.25
+Magnolia,Outdoor Space,0.16666666666666666
+Magnolia,Kitchen,0.08333333333333333
+Mann,Services,0.3323076923076923
+Mann,Features,0.14846153846153845
+Mann,Outdoor Space,0.07461538461538461
+Mann,Fitness & Recreation,0.07384615384615385
+Mann,Interior,0.07384615384615385
+Mann,Kitchen,0.07384615384615385
+Mann,Property Information,0.07384615384615385
+Mann,Security,0.07384615384615385
+Mann,Unique Features,0.07384615384615385
+Mann,Lease Length,0.0007692307692307692
+Mann,Living Space,0.0007692307692307692
+Maple Leaf,Unique Features,0.23777855153203342
+Maple Leaf,Kitchen,0.14655292479108636
+Maple Leaf,Features,0.13513231197771589
+Maple Leaf,Services,0.12555710306406687
+Maple Leaf,Outdoor Space,0.09004178272980501
+Maple Leaf,Interior,0.07583565459610028
+Maple Leaf,Living Space,0.05501392757660167
+Maple Leaf,Security,0.033983286908077996
+Maple Leaf,Property Information,0.0314066852367688
+Maple Leaf,Fitness & Recreation,0.030501392757660166
+Maple Leaf,Pet Policy,0.023502785515320333
+Maple Leaf,Lease Length,0.014623955431754874
+Maple Leaf,Student Features,6.963788300835655e-05
+Minor,Unique Features,0.1573587385019711
+Minor,Features,0.14602496714848884
+Minor,Kitchen,0.12680683311432325
+Minor,Services,0.11785479632063076
+Minor,Outdoor Space,0.10684954007884363
+Minor,Living Space,0.09707621550591328
+Minor,Interior,0.0614323258869908
+Minor,Property Information,0.042706964520367936
+Minor,Pet Policy,0.04196780551905387
+Minor,Security,0.04163929040735874
+Minor,Fitness & Recreation,0.03523324572930355
+Minor,Lease Length,0.01987516425755585
+Minor,Student Features,0.005174113009198423
+Mt Baker,Kitchen,0.391304347826087
+Mt Baker,Features,0.2608695652173913
+Mt Baker,Lease Length,0.13043478260869565
+Mt Baker,Interior,0.08695652173913043
+Mt Baker,Services,0.08695652173913043
+Mt Baker,Outdoor Space,0.043478260869565216
+North Admiral,Unique Features,0.5260267430754537
+North Admiral,Pet Policy,0.09742120343839542
+North Admiral,Property Information,0.0725883476599809
+North Admiral,Interior,0.06303724928366762
+North Admiral,Kitchen,0.04632282712511939
+North Admiral,Outdoor Space,0.04202483285577841
+North Admiral,Features,0.0389207258834766
+North Admiral,Lease Length,0.036532951289398284
+North Admiral,Living Space,0.030563514804202482
+North Admiral,Security,0.019102196752626553
+North Admiral,Services,0.015281757402101241
+North Admiral,Fitness & Recreation,0.012177650429799427
+North Beach/ Blue Ridge,Unique Features,1.0
+North Beacon Hill,Unique Features,0.8645050125313283
+North Beacon Hill,Property Information,0.05670426065162907
+North Beacon Hill,Pet Policy,0.030492898913951544
+North Beacon Hill,Lease Length,0.02850877192982456
+North Beacon Hill,Services,0.0045426065162907266
+North Beacon Hill,Features,0.00402046783625731
+North Beacon Hill,Kitchen,0.003498329156223893
+North Beacon Hill,Living Space,0.002140768588137009
+North Beacon Hill,Outdoor Space,0.0020363408521303257
+North Beacon Hill,Fitness & Recreation,0.0014097744360902255
+North Beacon Hill,Security,0.0014097744360902255
+North Beacon Hill,Interior,0.0007309941520467836
+North College Park,Unique Features,0.23215898825654924
+North College Park,Features,0.15943992773261065
+North College Park,Kitchen,0.10298102981029811
+North College Park,Services,0.09439927732610659
+North College Park,Living Space,0.08265582655826559
+North College Park,Outdoor Space,0.07678410117434507
+North College Park,Interior,0.052393857271906055
+North College Park,Fitness & Recreation,0.051490514905149054
+North College Park,Pet Policy,0.04697380307136405
+North College Park,Property Information,0.04697380307136405
+North College Park,Security,0.03523035230352303
+North College Park,Lease Length,0.018518518518518517
+North Delridge,Unique Features,0.31108764519535376
+North Delridge,Features,0.11890179514255544
+North Delridge,Services,0.08933474128827877
+North Delridge,Living Space,0.07940865892291446
+North Delridge,Interior,0.07434002111932418
+North Delridge,Kitchen,0.06948257655755016
+North Delridge,Outdoor Space,0.06948257655755016
+North Delridge,Fitness & Recreation,0.05448785638859557
+North Delridge,Security,0.04963041182682154
+North Delridge,Pet Policy,0.03949313621964097
+North Delridge,Property Information,0.029567053854276663
+North Delridge,Lease Length,0.014783526927138331
+Phinney Ridge,Kitchen,0.38461538461538464
+Phinney Ridge,Living Space,0.23076923076923078
+Phinney Ridge,Features,0.15384615384615385
+Phinney Ridge,Outdoor Space,0.15384615384615385
+Phinney Ridge,Unique Features,0.07692307692307693
+Pike Place Market,Unique Features,0.5483448049819731
+Pike Place Market,Features,0.08062930186823992
+Pike Place Market,Services,0.06369496339997816
+Pike Place Market,Kitchen,0.04315524964492516
+Pike Place Market,Interior,0.04097017371353655
+Pike Place Market,Security,0.040751666120397684
+Pike Place Market,Living Space,0.04053315852725882
+Pike Place Market,Fitness & Recreation,0.035070468698787285
+Pike Place Market,Outdoor Space,0.03397793073309297
+Pike Place Market,Property Information,0.031246585818857205
+Pike Place Market,Pet Policy,0.029498525073746312
+Pike Place Market,Lease Length,0.012127171419206818
+Pinehurst,Unique Features,0.2542372881355932
+Pinehurst,Living Space,0.1694915254237288
+Pinehurst,Kitchen,0.15254237288135594
+Pinehurst,Features,0.13771186440677965
+Pinehurst,Outdoor Space,0.1271186440677966
+Pinehurst,Pet Policy,0.04449152542372881
+Pinehurst,Lease Length,0.04025423728813559
+Pinehurst,Property Information,0.029661016949152543
+Pinehurst,Services,0.029661016949152543
+Pinehurst,Fitness & Recreation,0.014830508474576272
+Pioneer Square,Unique Features,0.6567411083540116
+Pioneer Square,Pet Policy,0.12324234904880066
+Pioneer Square,Property Information,0.06341328921974083
+Pioneer Square,Features,0.05031706644609871
+Pioneer Square,Lease Length,0.03184449958643507
+Pioneer Square,Interior,0.01764543700027571
+Pioneer Square,Services,0.016542597187758478
+Pioneer Square,Kitchen,0.012958367797077475
+Pioneer Square,Outdoor Space,0.0075820237110559695
+Pioneer Square,Security,0.007444168734491315
+Pioneer Square,Living Space,0.006617038875103391
+Pioneer Square,Fitness & Recreation,0.005652054039150814
+Portage Bay,Kitchen,0.1908713692946058
+Portage Bay,Features,0.17634854771784234
+Portage Bay,Living Space,0.16804979253112035
+Portage Bay,Outdoor Space,0.13070539419087138
+Portage Bay,Services,0.0912863070539419
+Portage Bay,Pet Policy,0.058091286307053944
+Portage Bay,Security,0.04979253112033195
+Portage Bay,Unique Features,0.03734439834024896
+Portage Bay,Property Information,0.029045643153526972
+Portage Bay,Fitness & Recreation,0.026970954356846474
+Portage Bay,Interior,0.026970954356846474
+Portage Bay,Lease Length,0.014522821576763486
+Queen Anne,Unique Features,0.30792163543441226
+Queen Anne,Features,0.14948892674616696
+Queen Anne,Kitchen,0.10902896081771721
+Queen Anne,Living Space,0.08901192504258944
+Queen Anne,Outdoor Space,0.08006814310051108
+Queen Anne,Services,0.06345826235093696
+Queen Anne,Interior,0.04770017035775128
+Queen Anne,Property Information,0.04557069846678024
+Queen Anne,Pet Policy,0.041737649063032366
+Queen Anne,Security,0.02512776831345826
+Queen Anne,Lease Length,0.022998296422487224
+Queen Anne,Fitness & Recreation,0.01788756388415673
+Rainier Beach,Features,0.35714285714285715
+Rainier Beach,Kitchen,0.21428571428571427
+Rainier Beach,Living Space,0.14285714285714285
+Rainier Beach,Outdoor Space,0.14285714285714285
+Rainier Beach,Lease Length,0.07142857142857142
+Rainier Beach,Property Information,0.07142857142857142
+Ravenna,Kitchen,0.1510204081632653
+Ravenna,Features,0.1469387755102041
+Ravenna,Services,0.1346938775510204
+Ravenna,Outdoor Space,0.11428571428571428
+Ravenna,Living Space,0.08571428571428572
+Ravenna,Pet Policy,0.08163265306122448
+Ravenna,Fitness & Recreation,0.0653061224489796
+Ravenna,Security,0.0653061224489796
+Ravenna,Unique Features,0.053061224489795916
+Ravenna,Interior,0.04897959183673469
+Ravenna,Property Information,0.0326530612244898
+Ravenna,Lease Length,0.02040816326530612
+Renton,Features,0.2777777777777778
+Renton,Kitchen,0.1388888888888889
+Renton,Living Space,0.1388888888888889
+Renton,Pet Policy,0.1388888888888889
+Renton,Outdoor Space,0.08333333333333333
+Renton,Unique Features,0.08333333333333333
+Renton,Property Information,0.05555555555555555
+Renton,Fitness & Recreation,0.027777777777777776
+Renton,Lease Length,0.027777777777777776
+Renton,Security,0.027777777777777776
+Riverview,Features,0.35714285714285715
+Riverview,Outdoor Space,0.25
+Riverview,Kitchen,0.14285714285714285
+Riverview,Lease Length,0.14285714285714285
+Riverview,Living Space,0.10714285714285714
+Roosevelt,Unique Features,0.2262091649846752
+Roosevelt,Kitchen,0.152351050310234
+Roosevelt,Features,0.13675213675213677
+Roosevelt,Services,0.12010665071889562
+Roosevelt,Living Space,0.07019511101143754
+Roosevelt,Interior,0.06473798310533005
+Roosevelt,Outdoor Space,0.0630186140390222
+Roosevelt,Security,0.046099025690862425
+Roosevelt,Property Information,0.046049188906331764
+Roosevelt,Pet Policy,0.041040592061000226
+Roosevelt,Fitness & Recreation,0.01677007799456779
+Roosevelt,Lease Length,0.015773342303954548
+Roosevelt,Student Features,0.0008970621215519175
+Roxhill,Unique Features,0.33844765342960287
+Roxhill,Features,0.12364620938628158
+Roxhill,Living Space,0.1092057761732852
+Roxhill,Services,0.09476534296028881
+Roxhill,Kitchen,0.08393501805054152
+Roxhill,Pet Policy,0.06768953068592058
+Roxhill,Outdoor Space,0.05776173285198556
+Roxhill,Property Information,0.04151624548736462
+Roxhill,Security,0.04061371841155235
+Roxhill,Interior,0.02707581227436823
+Roxhill,Lease Length,0.01444043321299639
+Roxhill,Fitness & Recreation,0.0009025270758122744
+Seatac,Unique Features,0.3707865168539326
+Seatac,Features,0.10112359550561797
+Seatac,Outdoor Space,0.10112359550561797
+Seatac,Services,0.10112359550561797
+Seatac,Kitchen,0.0898876404494382
+Seatac,Fitness & Recreation,0.06741573033707865
+Seatac,Living Space,0.06741573033707865
+Seatac,Pet Policy,0.033707865168539325
+Seatac,Property Information,0.02247191011235955
+Seatac,Security,0.02247191011235955
+Seatac,Interior,0.011235955056179775
+Seatac,Lease Length,0.011235955056179775
+Seattle,Unique Features,0.2687840332795812
+Seattle,Kitchen,0.1262240295403024
+Seattle,Features,0.12176026548879385
+Seattle,Living Space,0.12105915071630559
+Seattle,Services,0.1027600551543621
+Seattle,Outdoor Space,0.0724017855056206
+Seattle,Interior,0.060786650774731825
+Seattle,Security,0.038935240365514504
+Seattle,Fitness & Recreation,0.032274650026876066
+Seattle,Pet Policy,0.025707541657902733
+Seattle,Property Information,0.0196078431372549
+Seattle,Lease Length,0.009441678936175184
+Seattle,Student Features,0.0002570754165790273
+Seaview Seattle,Unique Features,1.0
+Seward Park,Lease Length,0.3333333333333333
+Seward Park,Services,0.3333333333333333
+Seward Park,Features,0.16666666666666666
+Seward Park,Living Space,0.16666666666666666
+Sheridan Beach,Unique Features,0.3924731182795699
+Sheridan Beach,Kitchen,0.11559139784946236
+Sheridan Beach,Features,0.10080645161290322
+Sheridan Beach,Pet Policy,0.0739247311827957
+Sheridan Beach,Living Space,0.07123655913978495
+Sheridan Beach,Outdoor Space,0.05913978494623656
+Sheridan Beach,Services,0.056451612903225805
+Sheridan Beach,Property Information,0.05241935483870968
+Sheridan Beach,Fitness & Recreation,0.03225806451612903
+Sheridan Beach,Interior,0.01747311827956989
+Sheridan Beach,Lease Length,0.01747311827956989
+Sheridan Beach,Security,0.010752688172043012
+Shoreline,Kitchen,0.15384615384615385
+Shoreline,Unique Features,0.15384615384615385
+Shoreline,Outdoor Space,0.1346153846153846
+Shoreline,Interior,0.09615384615384616
+Shoreline,Living Space,0.09615384615384616
+Shoreline,Pet Policy,0.09615384615384616
+Shoreline,Features,0.07692307692307693
+Shoreline,Property Information,0.057692307692307696
+Shoreline,Services,0.057692307692307696
+Shoreline,Security,0.038461538461538464
+Shoreline,Fitness & Recreation,0.019230769230769232
+Shoreline,Lease Length,0.019230769230769232
+South Delridge,Unique Features,0.39934968962459355
+South Delridge,Services,0.09725096068578185
+South Delridge,Features,0.09399940880874963
+South Delridge,Kitchen,0.08187998817617499
+South Delridge,Fitness & Recreation,0.06857818504286137
+South Delridge,Outdoor Space,0.06857818504286137
+South Delridge,Living Space,0.0594147206621342
+South Delridge,Interior,0.05113804315696128
+South Delridge,Property Information,0.026603606266627253
+South Delridge,Pet Policy,0.020987289388117055
+South Delridge,Security,0.018918120011823827
+South Delridge,Lease Length,0.013301803133313627
+South Lake Union,Unique Features,0.3074736047148717
+South Lake Union,Outdoor Space,0.10501843597755105
+South Lake Union,Features,0.10281204187706387
+South Lake Union,Kitchen,0.10093882809376435
+South Lake Union,Living Space,0.0786675748915313
+South Lake Union,Services,0.07374391020420251
+South Lake Union,Interior,0.06545882631680265
+South Lake Union,Pet Policy,0.04474981860182731
+South Lake Union,Property Information,0.03716071137699723
+South Lake Union,Fitness & Recreation,0.03548740578401031
+South Lake Union,Security,0.03194829041477248
+South Lake Union,Lease Length,0.01647391568316773
+South Lake Union,Student Features,6.66360634375324e-05
+South Park,Kitchen,0.3333333333333333
+South Park,Lease Length,0.3333333333333333
+South Park,Services,0.3333333333333333
+Southern Heights-Boulevard Park,Features,0.20755005349228184
+Southern Heights-Boulevard Park,Kitchen,0.15894849457435428
+Southern Heights-Boulevard Park,Fitness & Recreation,0.12119822711294513
+Southern Heights-Boulevard Park,Living Space,0.10851291456518417
+Southern Heights-Boulevard Park,Interior,0.09460492128992817
+Southern Heights-Boulevard Park,Outdoor Space,0.08314228946966223
+Southern Heights-Boulevard Park,Services,0.08008558765092465
+Southern Heights-Boulevard Park,Security,0.07259666819501757
+Southern Heights-Boulevard Park,Property Information,0.05104692037291762
+Southern Heights-Boulevard Park,Pet Policy,0.010851291456518416
+Southern Heights-Boulevard Park,Unique Features,0.009170105456212746
+Southern Heights-Boulevard Park,Lease Length,0.0022925263640531865
+Stevens,Unique Features,0.2128287707997853
+Stevens,Features,0.1274825550187869
+Stevens,Services,0.1261406333870102
+Stevens,Kitchen,0.11969940955448202
+Stevens,Outdoor Space,0.09608158883521202
+Stevens,Living Space,0.09527643585614601
+Stevens,Property Information,0.057971014492753624
+Stevens,Pet Policy,0.05448201825013419
+Stevens,Security,0.03784219001610306
+Stevens,Interior,0.03515834675254965
+Stevens,Lease Length,0.023349436392914653
+Stevens,Fitness & Recreation,0.013687600644122383
+Tukwila Urban Center,Unique Features,0.21926729986431479
+Tukwila Urban Center,Services,0.19620081411126186
+Tukwila Urban Center,Kitchen,0.110719131614654
+Tukwila Urban Center,Outdoor Space,0.08738127544097693
+Tukwila Urban Center,Living Space,0.07788331071913161
+Tukwila Urban Center,Features,0.06621438263229308
+Tukwila Urban Center,Pet Policy,0.05508819538670285
+Tukwila Urban Center,Interior,0.054816824966078696
+Tukwila Urban Center,Fitness & Recreation,0.04423337856173677
+Tukwila Urban Center,Security,0.04396200814111262
+Tukwila Urban Center,Property Information,0.03310719131614654
+Tukwila Urban Center,Lease Length,0.011126187245590231
+University District,Unique Features,0.2831916285153695
+University District,Features,0.11031175059952038
+University District,Services,0.10540658382385001
+University District,Kitchen,0.10159145410943972
+University District,Living Space,0.08916503161107478
+University District,Outdoor Space,0.055482886418138214
+University District,Security,0.051013734466971876
+University District,Interior,0.048561151079136694
+University District,Property Information,0.04643557880967953
+University District,Pet Policy,0.036952256376716806
+University District,Fitness & Recreation,0.036897754523653806
+University District,Student Features,0.017713102245476346
+University District,Lease Length,0.017277087420972313
+Wallingford,Unique Features,0.16757741347905283
+Wallingford,Features,0.14265171124532644
+Wallingford,Living Space,0.12597066436583262
+Wallingford,Kitchen,0.12386156648451731
+Wallingford,Services,0.11619211964337073
+Wallingford,Outdoor Space,0.10555076215127984
+Wallingford,Interior,0.057712587479628034
+Wallingford,Fitness & Recreation,0.04179848528424887
+Wallingford,Pet Policy,0.04179848528424887
+Wallingford,Property Information,0.0365257405809606
+Wallingford,Security,0.026843063944013038
+Wallingford,Lease Length,0.012366983031348864
+Wallingford,Student Features,0.0011504170261719873
+Wedgewood,Unique Features,0.41234959165549306
+Wedgewood,Features,0.11341355111707037
+Wedgewood,Living Space,0.09277865812248594
+Wedgewood,Services,0.09277865812248594
+Wedgewood,Kitchen,0.08250474515471816
+Wedgewood,Outdoor Space,0.07216117853971128
+Wedgewood,Interior,0.041234959165549305
+Wedgewood,Property Information,0.03092621937416198
+Wedgewood,Security,0.03092621937416198
+Wedgewood,Fitness & Recreation,0.010308739791387326
+Wedgewood,Lease Length,0.010308739791387326
+Wedgewood,Pet Policy,0.010308739791387326
+West Seattle,Unique Features,0.22864217911679735
+West Seattle,Living Space,0.141972761040033
+West Seattle,Features,0.140321914981428
+West Seattle,Kitchen,0.11390837804374743
+West Seattle,Outdoor Space,0.10441601320676847
+West Seattle,Services,0.10235245563351217
+West Seattle,Security,0.0470491126702435
+West Seattle,Property Information,0.037969459347915804
+West Seattle,Interior,0.03425505571605448
+West Seattle,Pet Policy,0.025175402393726783
+West Seattle,Lease Length,0.015270326042096575
+West Seattle,Fitness & Recreation,0.008666941807676434
+West Woodland,Features,0.21149425287356322
+West Woodland,Property Information,0.14942528735632185
+West Woodland,Kitchen,0.10114942528735632
+West Woodland,Pet Policy,0.09655172413793103
+West Woodland,Security,0.09655172413793103
+West Woodland,Services,0.09655172413793103
+West Woodland,Living Space,0.052873563218390804
+West Woodland,Fitness & Recreation,0.04827586206896552
+West Woodland,Interior,0.04827586206896552
+West Woodland,Lease Length,0.04827586206896552
+West Woodland,Outdoor Space,0.04827586206896552
+West Woodland,Unique Features,0.0022988505747126436
+Westlake,Unique Features,0.43294899761088607
+Westlake,Features,0.10491326477615041
+Westlake,Living Space,0.061909213669886776
+Westlake,Services,0.06149371559156539
+Westlake,Kitchen,0.05463799729926249
+Westlake,Interior,0.05411862470136076
+Westlake,Property Information,0.047990028046120285
+Westlake,Outdoor Space,0.04341954918458502
+Westlake,Security,0.04279630206710294
+Westlake,Pet Policy,0.036356081853121426
+Westlake,Fitness & Recreation,0.034694089539835875
+Westlake,Lease Length,0.019112911602783837
+Westlake,Student Features,0.005609224057338735
+White Center,Unique Features,0.24390243902439024
+White Center,Features,0.17073170731707318
+White Center,Kitchen,0.0975609756097561
+White Center,Living Space,0.0975609756097561
+White Center,Pet Policy,0.0975609756097561
+White Center,Outdoor Space,0.07317073170731707
+White Center,Fitness & Recreation,0.04878048780487805
+White Center,Property Information,0.04878048780487805
+White Center,Security,0.04878048780487805
+White Center,Services,0.04878048780487805
+White Center,Interior,0.024390243902439025
+Whittier Heights,Unique Features,0.2356020942408377
+Whittier Heights,Kitchen,0.1682872101720269
+Whittier Heights,Features,0.14285714285714285
+Whittier Heights,Living Space,0.10172026925953627
+Whittier Heights,Outdoor Space,0.07853403141361257
+Whittier Heights,Services,0.07329842931937172
+Whittier Heights,Security,0.06806282722513089
+Whittier Heights,Pet Policy,0.04712041884816754
+Whittier Heights,Interior,0.03664921465968586
+Whittier Heights,Property Information,0.031413612565445025
+Whittier Heights,Lease Length,0.016454749439042633
