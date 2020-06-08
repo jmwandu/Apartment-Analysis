@@ -10,6 +10,9 @@ I used anaconda python and downloaded the following depandancies through conda:
     *pandas
     *numpy
     *matplotlib
+    *seaborn
+    *scipy
+    *sklearn
 
 It's considered best practice to use and enviroment of some kind when doing projects in python which is exeactly what I did in this project as well. For those that decided to setup enviroments in python heres a the sets that I took:
 
